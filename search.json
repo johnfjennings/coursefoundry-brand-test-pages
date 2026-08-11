@@ -1,0 +1,121 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Brand Test",
+    "section": "",
+    "text": "Course Cover",
+    "crumbs": [
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "index.html#who-this-is-for",
+    "href": "index.html#who-this-is-for",
+    "title": "Brand Test",
+    "section": "Who This Is For",
+    "text": "Who This Is For\nBeginners - no prior experience required.",
+    "crumbs": [
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/01-welcome.html",
+    "href": "modules/01-introduction/01-welcome.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "Start writing your first lesson here. Use Markdown syntax to format your content.\n\n\n\nKey concept one\nKey concept two\nKey concept three\n\n\n\n\nReplace this content with your lesson material.",
+    "crumbs": [
+      "Introduction",
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/01-welcome.html#introduction",
+    "href": "modules/01-introduction/01-welcome.html#introduction",
+    "title": "Welcome",
+    "section": "",
+    "text": "Start writing your first lesson here. Use Markdown syntax to format your content.\n\n\n\nKey concept one\nKey concept two\nKey concept three\n\n\n\n\nReplace this content with your lesson material.",
+    "crumbs": [
+      "Introduction",
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/02-slides.html#welcome",
+    "href": "modules/01-introduction/02-slides.html#welcome",
+    "title": "Course Kickoff",
+    "section": "Welcome!",
+    "text": "Welcome!\n\nA quick tour of what we’ll cover\nHow the course is structured\nWhat you’ll be able to do by the end",
+    "crumbs": [
+      "Introduction",
+      "Slides"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/02-slides.html#about-this-course",
+    "href": "modules/01-introduction/02-slides.html#about-this-course",
+    "title": "Course Kickoff",
+    "section": "About This Course",
+    "text": "About This Course\nBrand Test is designed to take you from foundational concepts to practical application.\n\n\n\n\n\n\nNote\n\n\nNo prior experience required — we’ll build up together, step by step.",
+    "crumbs": [
+      "Introduction",
+      "Slides"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/02-slides.html#learning-outcomes",
+    "href": "modules/01-introduction/02-slides.html#learning-outcomes",
+    "title": "Course Kickoff",
+    "section": "Learning Outcomes",
+    "text": "Learning Outcomes\nBy the end of this course, you will be able to:\n\nUnderstand the core concepts introduced in this course\nApply those concepts to realistic scenarios\nEvaluate outcomes and make informed decisions",
+    "crumbs": [
+      "Introduction",
+      "Slides"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/02-slides.html#how-this-course-works",
+    "href": "modules/01-introduction/02-slides.html#how-this-course-works",
+    "title": "Course Kickoff",
+    "section": "How This Course Works",
+    "text": "How This Course Works\n\n📖 Short lessons introduce key ideas\n🛠️ Activities let you practice\n✅ Checks for understanding along the way",
+    "crumbs": [
+      "Introduction",
+      "Slides"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/02-slides.html#module-roadmap",
+    "href": "modules/01-introduction/02-slides.html#module-roadmap",
+    "title": "Course Kickoff",
+    "section": "Module Roadmap",
+    "text": "Module Roadmap\n\n\n\nModule\nFocus\n\n\n\n\n1. Introduction\nOrientation & foundations\n\n\n2. Core Concepts\nComing soon\n\n\n3. Application\nComing soon",
+    "crumbs": [
+      "Introduction",
+      "Slides"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/02-slides.html#a-quick-example",
+    "href": "modules/01-introduction/02-slides.html#a-quick-example",
+    "title": "Course Kickoff",
+    "section": "A Quick Example",
+    "text": "A Quick Example\n\n\n\n\n\n\nTry it yourself\n\n\nAs you go through each lesson, pause and ask: “How would I explain this to a friend?”",
+    "crumbs": [
+      "Introduction",
+      "Slides"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/02-slides.html#lets-get-started",
+    "href": "modules/01-introduction/02-slides.html#lets-get-started",
+    "title": "Course Kickoff",
+    "section": "Let’s Get Started",
+    "text": "Let’s Get Started\n\nHead back to the course landing page\nBegin with Lesson 1: Welcome\nReach out with questions anytime\n\nThank you! 🎉",
+    "crumbs": [
+      "Introduction",
+      "Slides"
+    ]
+  }
+]
