@@ -1,0 +1,16 @@
+# Brand Test
+
+> No description provided.
+
+## Course Lessons
+- [index](./index.html)
+- [modules/01-introduction/01-slides](./modules/01-introduction/01-slides.html)
+- [modules/01-introduction/02-slides2](./modules/01-introduction/02-slides2.html)
+- [modules/01-introduction/03-welcome](./modules/01-introduction/03-welcome.html)
+- [site_libs/revealjs/plugin/notes/speaker-view](./site_libs/revealjs/plugin/notes/speaker-view.html)
+- [week13/01-acav3-en-m17-bridgingtocertification-instructor-deck](./week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html)
+- [week13/02-gamedesignpatterns-2](./week13/02-gamedesignpatterns-2.html)
+- [week13/03-gamedesignpatterns](./week13/03-gamedesignpatterns.html)
+- [week13/acav3-en-m17-bridgingtocertification-instructor-deck](./week13/acav3-en-m17-bridgingtocertification-instructor-deck.html)
+- [week13/gamedesignpatterns-2](./week13/gamedesignpatterns-2.html)
+- [week13/gamedesignpatterns](./week13/gamedesignpatterns.html)
