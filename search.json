@@ -605,140 +605,481 @@
     ]
   },
   {
-    "objectID": "modules/01-introduction/02-slides2.html#welcome",
-    "href": "modules/01-introduction/02-slides2.html#welcome",
-    "title": "Course Kickoff",
-    "section": "Welcome!",
-    "text": "Welcome!\n\nA quick tour of what we’ll cover\nHow the course is structured\nWhat you’ll be able to do by the end",
-    "crumbs": [
-      "Introduction",
-      "Slides2"
-    ]
-  },
-  {
-    "objectID": "modules/01-introduction/02-slides2.html#about-this-course",
-    "href": "modules/01-introduction/02-slides2.html#about-this-course",
-    "title": "Course Kickoff",
-    "section": "About This Course",
-    "text": "About This Course\nBrand Test is designed to take you from foundational concepts to practical application.\n\n\n\n\n\n\nNote\n\n\nNo prior experience required — we’ll build up together, step by step.",
-    "crumbs": [
-      "Introduction",
-      "Slides2"
-    ]
-  },
-  {
-    "objectID": "modules/01-introduction/02-slides2.html#learning-outcomes",
-    "href": "modules/01-introduction/02-slides2.html#learning-outcomes",
-    "title": "Course Kickoff",
-    "section": "Learning Outcomes",
-    "text": "Learning Outcomes\nBy the end of this course, you will be able to:\n\nUnderstand the core concepts introduced in this course\nApply those concepts to realistic scenarios\nEvaluate outcomes and make informed decisions",
-    "crumbs": [
-      "Introduction",
-      "Slides2"
-    ]
-  },
-  {
-    "objectID": "modules/01-introduction/02-slides2.html#how-this-course-works",
-    "href": "modules/01-introduction/02-slides2.html#how-this-course-works",
-    "title": "Course Kickoff",
-    "section": "How This Course Works",
-    "text": "How This Course Works\n\n📖 Short lessons introduce key ideas\n🛠️ Activities let you practice\n✅ Checks for understanding along the way",
-    "crumbs": [
-      "Introduction",
-      "Slides2"
-    ]
-  },
-  {
-    "objectID": "modules/01-introduction/02-slides2.html#module-roadmap",
-    "href": "modules/01-introduction/02-slides2.html#module-roadmap",
-    "title": "Course Kickoff",
-    "section": "Module Roadmap",
-    "text": "Module Roadmap\n\n\n\nModule\nFocus\n\n\n\n\n1. Introduction\nOrientation & foundations\n\n\n2. Core Concepts\nComing soon\n\n\n3. Application\nComing soon",
-    "crumbs": [
-      "Introduction",
-      "Slides2"
-    ]
-  },
-  {
-    "objectID": "modules/01-introduction/02-slides2.html#a-quick-example",
-    "href": "modules/01-introduction/02-slides2.html#a-quick-example",
-    "title": "Course Kickoff",
-    "section": "A Quick Example",
-    "text": "A Quick Example\n\n\n\n\n\n\nTry it yourself\n\n\nAs you go through each lesson, pause and ask: “How would I explain this to a friend?”",
-    "crumbs": [
-      "Introduction",
-      "Slides2"
-    ]
-  },
-  {
-    "objectID": "modules/01-introduction/02-slides2.html#b",
-    "href": "modules/01-introduction/02-slides2.html#b",
-    "title": "Course Kickoff",
-    "section": "b",
-    "text": "b",
-    "crumbs": [
-      "Introduction",
-      "Slides2"
-    ]
-  },
-  {
-    "objectID": "modules/01-introduction/02-slides2.html#lets-get-started",
-    "href": "modules/01-introduction/02-slides2.html#lets-get-started",
-    "title": "Course Kickoff",
-    "section": "Let’s Get Started",
-    "text": "Let’s Get Started\n\nHead back to the course landing page\nBegin with Lesson 1: Welcome\nReach out with questions anytime\n\nThank you! 🎉",
-    "crumbs": [
-      "Introduction",
-      "Slides2"
-    ]
-  },
-  {
-    "objectID": "modules/01-introduction/02-slides2.html#the-world-of-bees",
-    "href": "modules/01-introduction/02-slides2.html#the-world-of-bees",
-    "title": "Course Kickoff",
-    "section": "The World of Bees",
-    "text": "The World of Bees\n\nBees are flying insects closely related to wasps and ants\nFound on every continent except Antarctica\nPlay a vital role in pollinating flowers, crops, and wild plants\n\n\n\n\n\n\n\nDid you know?\n\n\nA single bee colony can pollinate hundreds of millions of flowers over its lifetime.",
-    "crumbs": [
-      "Introduction",
-      "Slides2"
-    ]
-  },
-  {
-    "objectID": "modules/01-introduction/02-slides2.html#bee-colonies",
-    "href": "modules/01-introduction/02-slides2.html#bee-colonies",
-    "title": "Course Kickoff",
-    "section": "Bee Colonies",
-    "text": "Bee Colonies\n\nA colony can hold tens of thousands of bees working toward one shared goal\nThree castes divide the labor: queen, workers, and drones\nThe queen is the colony’s sole egg-layer, often living for several years\nWorker bees handle nearly everything else: foraging, building, cleaning, and defending\n\n\n\n\n\n\n\nDid you know?\n\n\nA single colony can visit millions of flowers in one day.",
-    "crumbs": [
-      "Introduction",
-      "Slides2"
-    ]
-  },
-  {
-    "objectID": "modules/01-introduction/03-welcome.html",
-    "href": "modules/01-introduction/03-welcome.html",
-    "title": "Welcome",
+    "objectID": "week-1/junior-narrative-designer-case-study-docx.html",
+    "href": "week-1/junior-narrative-designer-case-study-docx.html",
+    "title": "Junior Narrative Designer Case Study: Elden Ring",
     "section": "",
-    "text": "Start writing your first lesson here. Use Markdown syntax to format your content.\n\n\n\nKey concept one\nKey concept two\nKey concept three\n\n\n\n\nReplace this content with your lesson material.",
+    "text": "This lesson examines how narrative design works in practice, using Elden Ring as a critical case study before applying those lessons to an original creative proposal. You will explore how the game connects world design, gameplay, and story, then see how the same principles guide the design of a new DLC expansion, “The Shattered Citadel.” The lesson closes with a reflection on the “show, don’t tell” philosophy and how it shaped this creative work.",
     "crumbs": [
-      "Introduction",
-      "Welcome"
+      "Week 1",
+      "Junior Narrative Designer Case Study Docx"
     ]
   },
   {
-    "objectID": "modules/01-introduction/03-welcome.html#introduction",
-    "href": "modules/01-introduction/03-welcome.html#introduction",
-    "title": "Welcome",
+    "objectID": "week-1/junior-narrative-designer-case-study-docx.html#introduction",
+    "href": "week-1/junior-narrative-designer-case-study-docx.html#introduction",
+    "title": "Junior Narrative Designer Case Study: Elden Ring",
     "section": "",
-    "text": "Start writing your first lesson here. Use Markdown syntax to format your content.\n\n\n\nKey concept one\nKey concept two\nKey concept three\n\n\n\n\nReplace this content with your lesson material.",
+    "text": "This lesson examines how narrative design works in practice, using Elden Ring as a critical case study before applying those lessons to an original creative proposal. You will explore how the game connects world design, gameplay, and story, then see how the same principles guide the design of a new DLC expansion, “The Shattered Citadel.” The lesson closes with a reflection on the “show, don’t tell” philosophy and how it shaped this creative work.",
     "crumbs": [
-      "Introduction",
-      "Welcome"
+      "Week 1",
+      "Junior Narrative Designer Case Study Docx"
     ]
   },
   {
-    "objectID": "modules/01-introduction/01-slides.html#section-title",
-    "href": "modules/01-introduction/01-slides.html#section-title",
+    "objectID": "week-1/junior-narrative-designer-case-study-docx.html#critical-case-analysis-ludonarrative-harmony-in-elden-ring",
+    "href": "week-1/junior-narrative-designer-case-study-docx.html#critical-case-analysis-ludonarrative-harmony-in-elden-ring",
+    "title": "Junior Narrative Designer Case Study: Elden Ring",
+    "section": "Critical Case Analysis: Ludonarrative Harmony in Elden Ring",
+    "text": "Critical Case Analysis: Ludonarrative Harmony in Elden Ring\nElden Ring tells its story mostly through the world and gameplay rather than through direct exposition. Players explore, fight bosses, and choose their own path, and this way of playing matches the story itself: the Lands Between is a dangerous and mysterious place, so exploring and learning fits the narrative.\nThe game presents a broken and ruined world. Kingdoms have fallen, powerful demigods have become corrupted, and the natural order has collapsed. The player takes on the role of a Tarnished, once exiled but now called back to try to restore the Elden Ring.\nThe gameplay reflects this story directly. The world is dangerous and unforgiving — enemies are strong, bosses are difficult, and death happens often. This difficulty is not random; it reinforces the idea that the world is damaged and unstable. The player must learn from mistakes, grow stronger, and slowly come to understand the world. This alignment between what the player does and what the story communicates is known as ludonarrative harmony.\nFor example, when a player fights a powerful demigod like Godrick or Radahn, the difficulty of the fight demonstrates how powerful these characters are within the story. Their strength in gameplay reflects their importance in the narrative, and the challenge makes the world feel real and serious.\nHowever, moments of ludonarrative dissonance can also occur. Sometimes certain enemies or bosses feel difficult without a clear story explanation — a random strong enemy in a small area might feel more like a gameplay obstacle than part of the narrative world. When this happens, the player may feel frustrated rather than immersed, and the emotional connection to the story weakens as the focus shifts from meaning to mechanics.\nOverall, Elden Ring mostly succeeds in creating harmony between gameplay and story. The open world, the danger, and the sense of mystery all support the narrative themes of decay, ambition, and struggle.",
+    "crumbs": [
+      "Week 1",
+      "Junior Narrative Designer Case Study Docx"
+    ]
+  },
+  {
+    "objectID": "week-1/junior-narrative-designer-case-study-docx.html#storytelling-techniques",
+    "href": "week-1/junior-narrative-designer-case-study-docx.html#storytelling-techniques",
+    "title": "Junior Narrative Designer Case Study: Elden Ring",
+    "section": "Storytelling Techniques",
+    "text": "Storytelling Techniques\nElden Ring uses both explicit and environmental storytelling, but it relies far more heavily on environmental methods.\nExplicit storytelling is limited. There are some cutscenes, especially during boss introductions or major story moments, and NPCs speak to the player and provide hints about quests. However, the dialogue is often short and unclear, with characters speaking in mysterious or poetic ways rather than explaining events directly. This design choice makes the player work harder to understand the story, paying attention to small details instead of relying on long cinematic scenes.\nEnvironmental storytelling is the strongest storytelling method in the game. The world itself tells the story. For example, exploring Stormveil Castle reveals broken walls, dead soldiers, and signs of battle, showing that the castle was once powerful but has now fallen into chaos. In Caelid, the sky, the diseased land, and strange creatures show the impact of Scarlet Rot without needing long explanations. Even item descriptions contribute to this method, teaching players about past events, characters, and wars through small details. This approach follows the principle of “show, don’t tell”: instead of explaining everything, the game allows players to experience the consequences of past events through the environment.\nPlayer choice versus story is also carefully balanced. Elden Ring gives players a high level of freedom — they can explore areas in different orders, choose which bosses to fight first, and build their characters around strength, magic, faith, dexterity, or hybrid combinations. This freedom gives players a sense of control and personal journey. However, the main story outcomes remain authored by the developers; the player cannot completely change the world’s history, and the endings are pre-written options. This balance between freedom and structure allows players to feel independent while still following a meaningful story.",
+    "crumbs": [
+      "Week 1",
+      "Junior Narrative Designer Case Study Docx"
+    ]
+  },
+  {
+    "objectID": "week-1/junior-narrative-designer-case-study-docx.html#creative-design-proposal-the-shattered-citadel",
+    "href": "week-1/junior-narrative-designer-case-study-docx.html#creative-design-proposal-the-shattered-citadel",
+    "title": "Junior Narrative Designer Case Study: Elden Ring",
+    "section": "Creative Design Proposal: The Shattered Citadel",
+    "text": "Creative Design Proposal: The Shattered Citadel\n\nWorld-Building\n\nSetting: A floating citadel that only appears at night, where gravity changes and platforms float.\nRules: Gravity shifts in certain areas, platforms float in a set pattern, and magic behaves unpredictably.\nHistory: The citadel once belonged to a sorcerer family. Torn banners, journals, and broken towers tell the story of its fall.\nConflict: The citadel’s unstable magic threatens the Lands Between, and the player must find a way to fix it.\n\nThe Shattered Citadel fits naturally within the world of Elden Ring because it builds on themes already present in the base game — ambition, decay, and consequence. By combining environmental storytelling, a strong character arc, and a mechanic directly tied to the area’s history, the DLC maintains internal consistency while introducing something new to the Lands Between.\n\n\nCharacter and Motivation\nLyra, the last remaining guardian of the Shattered Citadel, once served the sorcerer dynasty that ruled it and believed strongly in their goal of controlling time. When their experiments failed and the citadel shattered, she survived but became trapped in the time loop they created, leaving her feeling responsible for what happened.\nVisual design and silhouette: Lyra wears dark silver armour with deep blue details that glow faintly. Her most distinctive feature is an hourglass-shaped helmet, inside which faint golden sand slowly falls, symbolising the unstable time magic of the citadel. She carries a long curved blade infused with time energy, and her cape flickers slightly as she moves, as if not fully stable in the present moment. Her silhouette is tall and elegant but slightly fragmented, reflecting the broken state of the citadel — and the hourglass helmet makes her instantly recognisable from a distance, an important quality in character design.\nMotivation: At the start of the DLC, Lyra does not trust the player, believing outsiders caused the citadel’s fall. She sees herself as its final protector and refuses to accept that the sorcerers were responsible for their own downfall. Her goal is to protect what remains of the citadel and keep its knowledge safe, though she is also weary of being trapped in an endless loop.\nCharacter arc: As the player explores the citadel and uncovers the truth about the failed experiments, Lyra slowly realises that the sorcerers’ ambition caused the disaster, and she begins to question whether protecting the citadel is truly right. By the end of the DLC, she accepts that the citadel must either be stabilised in a new way or allowed to end. If the player chooses to break the time loop, Lyra finally becomes free from her duty. Her arc reflects a theme of acceptance — that trying to control time and preserve the past can cause more harm than good.\n\n\nMechanics and Narrative Link\nNew mechanic: Time-shift areas change depending on the player’s actions, with enemies and platforms moving differently in response.\nWhy it fits the story: This mechanic makes players feel that the citadel itself is unstable, matching the story’s themes of discovery and danger.",
+    "crumbs": [
+      "Week 1",
+      "Junior Narrative Designer Case Study Docx"
+    ]
+  },
+  {
+    "objectID": "week-1/junior-narrative-designer-case-study-docx.html#reflection",
+    "href": "week-1/junior-narrative-designer-case-study-docx.html#reflection",
+    "title": "Junior Narrative Designer Case Study: Elden Ring",
+    "section": "Reflection",
+    "text": "Reflection\n“Show, don’t tell” is often more effective in games than in films or books because games are interactive. In a film, the audience watches the story; in a game, the player experiences it. This difference matters. When a game shows something through gameplay or environment instead of explaining it directly, the player feels more connected to the story.\nIn Elden Ring, the world tells its story through ruins, enemies, item descriptions, and boss fights rather than long explanations. Exploring a destroyed castle or land affected by Scarlet Rot lets the player understand that something terrible happened without needing a cutscene. This creates mystery, encourages curiosity, and makes the player active in discovering meaning rather than passively receiving it.\nThis idea shaped the design of the Shattered Citadel DLC. Rather than explaining everything directly, the design focuses on environmental storytelling — broken hourglasses, unstable gravity, and magic cracks in the sky all show that time magic went wrong, letting the player learn history by exploring rather than being told.\nThe Hero’s Journey also influenced Lyra’s character design. In many hero stories, a mentor or guardian figure helps guide the protagonist, often resisting change at first. Lyra’s initial distrust of the player reflects the “refusal of the call” stage, and her development mirrors the idea that growth comes from facing reality instead of avoiding it.\nOverall, this project highlighted that strong narrative design is not just about writing a good story — it is about connecting gameplay, world design, and character development so that everything supports the same theme. When mechanics and story work together, the experience feels deeper and more meaningful.",
+    "crumbs": [
+      "Week 1",
+      "Junior Narrative Designer Case Study Docx"
+    ]
+  },
+  {
+    "objectID": "week-1/junior-narrative-designer-case-study-docx.html#visuals",
+    "href": "week-1/junior-narrative-designer-case-study-docx.html#visuals",
+    "title": "Junior Narrative Designer Case Study: Elden Ring",
+    "section": "Visuals",
+    "text": "Visuals\nTwo concept visuals were created to support the DLC: one for the environment and one for the main NPC. These visuals help communicate the story, themes, and gameplay ideas without relying on long text explanations, making it easier to see how the Shattered Citadel works and how Lyra connects to its story.\nShattered Citadel — Environment Concept: The Shattered Citadel is depicted as floating and broken, showing that time in this area is unstable. Towers and platforms are suspended in the air, creating a sense of danger and mystery. Glowing cracks and drifting golden sand represent the effects of failed time experiments by the sorcerers. The design also supports gameplay, since floating platforms can create puzzles and Time Shift challenges. The environment communicates a story of ambition, failure, and chaos without dialogue or cutscenes, helping the player understand the DLC’s theme simply by looking around.\nLyra, the Timebound Guardian — Character Concept: Lyra’s hourglass-shaped helmet clearly signals her connection to the time loop. Her glowing sword and partially broken cape reflect the unstable magic of the citadel, while the blue and silver colour palette visually links her to the environment. The design communicates that she is both a guardian and a prisoner of the broken time loop. Her distinct silhouette ensures players recognise her immediately, reinforcing her character arc and connecting her visually to the gameplay mechanics and the wider story.",
+    "crumbs": [
+      "Week 1",
+      "Junior Narrative Designer Case Study Docx"
+    ]
+  },
+  {
+    "objectID": "week-1/junior-narrative-designer-case-study-docx.html#ai-content-declaration",
+    "href": "week-1/junior-narrative-designer-case-study-docx.html#ai-content-declaration",
+    "title": "Junior Narrative Designer Case Study: Elden Ring",
+    "section": "AI Content Declaration",
+    "text": "AI Content Declaration\nThis assignment was developed with the assistance of ChatGPT (OpenAI) for idea generation, structure planning, and drafting support. AI image generation tools were also used to create the concept visuals for the Shattered Citadel and the character Lyra. All final written content, explanations, and ideas were reviewed, edited, and written in the author’s own words. All prompts used for text and images are documented below, as required by the module guidelines.\nAI Tool Used: ChatGPT (OpenAI) — text generation and structural support\nPurpose of use:\n\nBrainstorming ideas for the narrative analysis of Elden Ring\nStructuring the assignment\nDeveloping DLC world-building concepts\nRefining written language and explanations\n\nText prompts used:\n\n“Explain ludonarrative harmony in Elden Ring in simple language.”\n“Help me design a DLC expansion area for Elden Ring with world-building pillars.”\n“Create a new NPC concept for an Elden Ring expansion.”\n“Rewrite this paragraph in simpler English.”\n“Explain why ‘show, don’t tell’ works in games for a reflection section.”\n\nAI image generation tools used for creating concept visuals of the Shattered Citadel environment and the Lyra character design.\nImage prompts used:\n\n“Dark fantasy floating shattered citadel in the sky, broken medieval towers suspended in air, glowing golden time cracks, dramatic storm clouds, Elden Ring style, cinematic concept art.”\n“Dark fantasy female knight, hourglass-shaped helmet with glowing golden sand inside, silver armor with blue magical glow, flowing cape partially dissolving, glowing sword, Elden Ring style character concept art.”",
+    "crumbs": [
+      "Week 1",
+      "Junior Narrative Designer Case Study Docx"
+    ]
+  },
+  {
+    "objectID": "week-1/junior-narrative-designer-case-study-docx.html#summary",
+    "href": "week-1/junior-narrative-designer-case-study-docx.html#summary",
+    "title": "Junior Narrative Designer Case Study: Elden Ring",
+    "section": "Summary",
+    "text": "Summary\nElden Ring achieves much of its emotional power through ludonarrative harmony, using difficulty, exploration, and environmental detail to reinforce its themes of decay, ambition, and struggle, while occasional moments of dissonance show how easily that connection can break. Its heavy reliance on environmental storytelling over explicit exposition, combined with a careful balance between player freedom and authored story structure, offers a model for narrative design. Applying these same principles to the Shattered Citadel DLC — through world-building, a character arc built on acceptance, and a mechanic tied directly to the setting’s history — demonstrates how “show, don’t tell” can be carried from analysis into original creative practice, ultimately reinforcing that strong narrative design depends on gameplay, world, and character all supporting a single unified theme.",
+    "crumbs": [
+      "Week 1",
+      "Junior Narrative Designer Case Study Docx"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/01-assignment01.html",
+    "href": "modules/01-introduction/01-assignment01.html",
+    "title": "Week 7 Practical Exam (In-class): GADV 06015 - Immersive Technology Foundations",
+    "section": "",
+    "text": "This lesson walks you through the Week 7 Practical Exam for GADV 06015 - Immersive Technology Foundations. The exam tests your ability to create an original Unity3D application that uses materials, 3D primitive objects, sounds, and simple scripts.\nYou will not be asked to create original 3D models, materials, textures, or sound recordings. You should only use primitive objects in Unity, and you are free to use any of the assets provided in the asset package available in Moodle.\nYou will have a total of 1 hour 45 minutes to complete the assignment.",
+    "crumbs": [
+      "Introduction",
+      "Assignment01"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/01-assignment01.html#introduction",
+    "href": "modules/01-introduction/01-assignment01.html#introduction",
+    "title": "Week 7 Practical Exam (In-class): GADV 06015 - Immersive Technology Foundations",
+    "section": "",
+    "text": "This lesson walks you through the Week 7 Practical Exam for GADV 06015 - Immersive Technology Foundations. The exam tests your ability to create an original Unity3D application that uses materials, 3D primitive objects, sounds, and simple scripts.\nYou will not be asked to create original 3D models, materials, textures, or sound recordings. You should only use primitive objects in Unity, and you are free to use any of the assets provided in the asset package available in Moodle.\nYou will have a total of 1 hour 45 minutes to complete the assignment.",
+    "crumbs": [
+      "Introduction",
+      "Assignment01"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/01-assignment01.html#task-1---project-setup-10",
+    "href": "modules/01-introduction/01-assignment01.html#task-1---project-setup-10",
+    "title": "Week 7 Practical Exam (In-class): GADV 06015 - Immersive Technology Foundations",
+    "section": "Task 1 - Project Setup (10%)",
+    "text": "Task 1 - Project Setup (10%)\nFollow these steps to set up your project:\n\nAccept the GitHub Classroom Assignment from the link provided to you.\nClone the empty repository to your computer.\nCreate a new Unity project named GADV06015-K00000000-PracticalExam_Unity (replace K00000000 with your K-number):\n\nUse Unity version 2022.3.x\nSelect the template “Universal 3D Core”\nSave the Unity project to the repo folder from the previous step\n\nDownload and import the asset package named GADV06015-2026-exam-assets.unitypackage, available on Moodle:\n\nImport the asset package into your Unity project\n\nChange the Company Name and Project Name in Player Settings as follows:\n\nCompany Name → Knumber\nProject Name → 2026-PracticalExam",
+    "crumbs": [
+      "Introduction",
+      "Assignment01"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/01-assignment01.html#task-2---create-ui-and-scene-navigation-30",
+    "href": "modules/01-introduction/01-assignment01.html#task-2---create-ui-and-scene-navigation-30",
+    "title": "Week 7 Practical Exam (In-class): GADV 06015 - Immersive Technology Foundations",
+    "section": "Task 2 - Create UI and Scene Navigation (30%)",
+    "text": "Task 2 - Create UI and Scene Navigation (30%)\nCreate a set of scenes that are navigable with a well-designed UI. First, create the scenes in a folder named _Scenes inside the Assets folder.\n\nName the Scenes as Follows\n\n0_MainMenu_Scene\n\nThe game must start in this scene, which should include:\n\nTitle (give your application a name)\nLogo (create yourself or use an existing one)\nParagraph of text with simple instructions\n“Credits” button (links to Credits scene)\n“Play” button (links to Playground scene)\n\n\n1_Playground_Scene\n\nA Play scene (see Task 3 for details)\n\n2_Credits\n\nThis scene should display the game’s title, your name, K-number, date, course, year, and module\nAdd a “Back” button that returns the player to the Main Menu scene\n\n3_GameOver\n\nDisplay a text message of your choice\nAdd a “Restart” button that returns the player to the Main Menu scene",
+    "crumbs": [
+      "Introduction",
+      "Assignment01"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/01-assignment01.html#task-3---create-play-scene-40",
+    "href": "modules/01-introduction/01-assignment01.html#task-3---create-play-scene-40",
+    "title": "Week 7 Practical Exam (In-class): GADV 06015 - Immersive Technology Foundations",
+    "section": "Task 3 - Create Play Scene (40%)",
+    "text": "Task 3 - Create Play Scene (40%)\nCreate a simple game level that implements the following game design and mechanics.\n\nEnvironment\nCreate a playground scene with the following assets:\n\nGround (16m x 16m)\nPlayground boundary wall\n4-6 trees (placed in corners of the playground)\n1 x swing set (in 1 corner)\n1 x picnic area (in 1 corner)\n1 x fire pit with seating (in 1 corner)\n1 x tube slide (in the centre)\n1 x play structure (in 1 corner)\n1 x boombox radio (place wherever you like)\n\n\n\nGame Mechanics: A Moveable Mouse Player Character\nCreate a mouse player character:\n\nName it “MousePlayer” in the Hierarchy\nAdd the Main Camera as a child of the mouse object and position it above and to the rear of the mouse, so that the camera follows the mouse\n\nCreate a new script called PlayerController and attach it to the mouse. Paste in the following code:\nusing UnityEngine;\n\n// Controls player movement and rotation.\npublic class PlayerController : MonoBehaviour\n{\n    public float speed = 5.0f; // Set player's movement speed.\n    public float rotationSpeed = 120.0f; // Set player's rotation speed.\n    private Rigidbody rb; // Reference to player's Rigidbody.\n\n    // Start is called before the first frame update\n    private void Start()\n    {\n        rb = GetComponent&lt;Rigidbody&gt;(); // Access player's Rigidbody.\n    }\n\n    // Update is called once per frame\n    void Update()\n    {\n    }\n\n    // Handle physics-based movement and rotation.\n    private void FixedUpdate()\n    {\n        // Move player based on vertical input.\n        float moveVertical = Input.GetAxis(\"Vertical\");\n        Vector3 movement = transform.forward * moveVertical * speed * Time.fixedDeltaTime;\n        rb.MovePosition(rb.position + movement);\n\n        // Rotate player based on horizontal input.\n        float turn = Input.GetAxis(\"Horizontal\") * rotationSpeed * Time.fixedDeltaTime;\n        Quaternion turnRotation = Quaternion.Euler(0f, turn, 0f);\n        rb.MoveRotation(rb.rotation * turnRotation);\n    }\n}",
+    "crumbs": [
+      "Introduction",
+      "Assignment01"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/01-assignment01.html#task-4---add-enhancements-20",
+    "href": "modules/01-introduction/01-assignment01.html#task-4---add-enhancements-20",
+    "title": "Week 7 Practical Exam (In-class): GADV 06015 - Immersive Technology Foundations",
+    "section": "Task 4 - Add Enhancements (20%)",
+    "text": "Task 4 - Add Enhancements (20%)\n\nAdd Audio\n\nAdd an audio mixer to your assets folder. Make sure to set this mixer on all audio sources you create in the next step.\nAdd the following audio sources to the scene, at the specified locations, with the settings specified below:\n\n\n\n\n\n\n\n\n\n\nSound File Name\nScene\nAudio Source Location / GameObject\nSound Playback Specifications\n\n\n\n\nMusic_EtherealMusic\nMain Menu\nCamera\nLoop, non-spatial 2D\n\n\nslide_child\n1_Playground_Scene\nPlay_Structure\nLoop, full 3D spatial, linear rolloff, min distance = 0.1, max distance = 3\n\n\nSFX_Bird_1\n1_Playground_Scene\nTube Slide\nLoop, full 3D spatial, linear rolloff, min distance = 0.1, max distance = 3\n\n\nswing-sweak\n1_Playground_Scene\nSwingSet\nLoop, full 3D spatial, linear rolloff, min distance = 0.1, max distance = 3\n\n\nmeat-sizzling\n1_Playground_Scene\nPicnic area\nLoop, full 3D spatial, linear rolloff, min distance = 0.1, max distance = 3\n\n\nfirepit\n1_Playground_Scene\nfirepit\nLoop, full 3D spatial, linear rolloff, min distance = 0.1, max distance = 3\n\n\nMusic_Upbeat\n1_Playground_Scene\nSpeaker_Boombox\nLoop, full 3D spatial, linear rolloff, min distance = 0.1, max distance = 3\n\n\n\n\nAdd a skybox of your choice.",
+    "crumbs": [
+      "Introduction",
+      "Assignment01"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/01-assignment01.html#submission",
+    "href": "modules/01-introduction/01-assignment01.html#submission",
+    "title": "Week 7 Practical Exam (In-class): GADV 06015 - Immersive Technology Foundations",
+    "section": "Submission",
+    "text": "Submission\nWhen you have finished your work:\n\nGenerate a Windows build of your completed project and place it into a folder named Build in your Unity project.\nZip the entire Build folder and upload the zip archive to Moodle.\nAfter uploading the Windows build, you must also submit your Unity source code using a git commit to the repository mentioned in Task 1.\n\n\nMarking Schema\n\n10% - Project Setup\n30% - UI and Scene Navigation\n40% - Play Scene\n20% - Enhancements",
+    "crumbs": [
+      "Introduction",
+      "Assignment01"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/01-assignment01.html#summary",
+    "href": "modules/01-introduction/01-assignment01.html#summary",
+    "title": "Week 7 Practical Exam (In-class): GADV 06015 - Immersive Technology Foundations",
+    "section": "Summary",
+    "text": "Summary\nIn this lesson, you worked through the structure of the Week 7 Practical Exam for GADV 06015 - Immersive Technology Foundations. You set up a new Unity project and imported the required assets (Task 1), built a navigable set of scenes with a Main Menu, Credits screen, and Game Over screen (Task 2), created a playground environment with a scripted, moveable mouse player character (Task 3), and enhanced the scene with spatial and non-spatial audio and a skybox (Task 4). Together these four tasks make up the full 100% marking schema for the exam, and your completed work must be submitted as both a zipped Windows build and a git commit of your Unity source code.",
+    "crumbs": [
+      "Introduction",
+      "Assignment01"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/03-welcome-2.html#topics",
+    "href": "modules/01-introduction/03-welcome-2.html#topics",
+    "title": "Design Patterns: UIs, Games, Learning",
+    "section": "Topics",
+    "text": "Topics\n\nMotivation\nDesign Patterns in UI Design\nDesign Patterns in Game Design\nDesign Patterns in Learning\nClosing Discussions",
+    "crumbs": [
+      "Introduction",
+      "Welcome 2"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/03-welcome-2.html#motivation",
+    "href": "modules/01-introduction/03-welcome-2.html#motivation",
+    "title": "Design Patterns: UIs, Games, Learning",
+    "section": "Motivation",
+    "text": "Motivation\nThis section explores why designers need a shared vocabulary for recording and reusing good solutions.\n\nA decorative vector graphic accompanying this section’s title slide; its exact appearance is not recoverable from the source material, but it marks the transition into the Motivation topic",
+    "crumbs": [
+      "Introduction",
+      "Welcome 2"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/03-welcome-2.html#design-solutions",
+    "href": "modules/01-introduction/03-welcome-2.html#design-solutions",
+    "title": "Design Patterns: UIs, Games, Learning",
+    "section": "Design = Solutions",
+    "text": "Design = Solutions\n\nDesign is about finding solutions.\nUnfortunately, designers often reinvent solutions that already exist.\nIt is hard to know:\n\nHow things were done before\nWhy things were done a certain way\nHow to reuse solutions",
+    "crumbs": [
+      "Introduction",
+      "Welcome 2"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/03-welcome-2.html#how-can-we-codify-design-knowledge",
+    "href": "modules/01-introduction/03-welcome-2.html#how-can-we-codify-design-knowledge",
+    "title": "Design Patterns: UIs, Games, Learning",
+    "section": "How Can We Codify Design Knowledge?",
+    "text": "How Can We Codify Design Knowledge?\n\nAn effective and flexible design is difficult to get “right” the first time.\nYet experienced designers do make good designs.\nNew designers are usually overwhelmed by all the design options available.\nExperienced designers evidently know something inexperienced ones don’t — what is it?",
+    "crumbs": [
+      "Introduction",
+      "Welcome 2"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/03-welcome-2.html#how-experienced-designers-solve-a-problem",
+    "href": "modules/01-introduction/03-welcome-2.html#how-experienced-designers-solve-a-problem",
+    "title": "Design Patterns: UIs, Games, Learning",
+    "section": "How Experienced Designers Solve a Problem",
+    "text": "How Experienced Designers Solve a Problem\n\nExpert designers usually do not solve every problem from first principles — they reuse solutions that have worked for them in the past.\nWhen they find a good solution, they use it again and again.\nSuch experience is part of what makes them experts.\nSuch experiences can be recorded as design patterns.",
+    "crumbs": [
+      "Introduction",
+      "Welcome 2"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/03-welcome-2.html#excerpt-from-last-week",
+    "href": "modules/01-introduction/03-welcome-2.html#excerpt-from-last-week",
+    "title": "Design Patterns: UIs, Games, Learning",
+    "section": "Excerpt from Last Week",
+    "text": "Excerpt from Last Week\n\n“Good artists borrow (from other artists), but great artists steal!” — Pablo Picasso\n\n\nCompelling visual design takes practice and experience — a natural part of which is study and critique of others’ work.\n\n\nPortrait of Pablo Picasso, whose remark on artists borrowing and stealing ideas frames the discussion of reusing design solutions",
+    "crumbs": [
+      "Introduction",
+      "Welcome 2"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/03-welcome-2.html#novelists-use-patterns",
+    "href": "modules/01-introduction/03-welcome-2.html#novelists-use-patterns",
+    "title": "Design Patterns: UIs, Games, Learning",
+    "section": "Novelists Use Patterns",
+    "text": "Novelists Use Patterns\n\nNovelists and playwrights rarely design their plots from scratch.\nThey follow patterns like “Tragically Flawed Hero” (Macbeth, Hamlet, etc.) or “The Romantic Novel” (countless romance novels).\n\n\n\n\nIllustration associated with Hamlet, used here to represent the “Tragically Flawed Hero” narrative pattern found across many plays\n\n\n\n\n\nA romance novel cover representing “The Romantic Novel” pattern that recurs across countless works in that genre",
+    "crumbs": [
+      "Introduction",
+      "Welcome 2"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/03-welcome-2.html#game-players-use-patterns",
+    "href": "modules/01-introduction/03-welcome-2.html#game-players-use-patterns",
+    "title": "Design Patterns: UIs, Games, Learning",
+    "section": "Game Players Use Patterns",
+    "text": "Game Players Use Patterns\n\nChess players, Go players, and basketball players all rely on “patterns.”\nExamples given:\n\nThe 1-4 offense pick-and-roll (basketball)\nA star-point Joseki in Go\nThe Queen’s Gambit (chess opening)\n\n\n\n\n\nDiagram of a basketball 1-4 offense pick-and-roll play, illustrating a recognized tactical pattern players reuse in games\n\n\n\n\n\nA Go board diagram illustrating a star-point joseki, a well-known recurring opening pattern in the game of Go",
+    "crumbs": [
+      "Introduction",
+      "Welcome 2"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/03-welcome-2.html#the-design-methods-hierarchy",
+    "href": "modules/01-introduction/03-welcome-2.html#the-design-methods-hierarchy",
+    "title": "Design Patterns: UIs, Games, Learning",
+    "section": "The Design Methods Hierarchy",
+    "text": "The Design Methods Hierarchy\nDesign knowledge can be organized from abstract to concrete:\n\nDesign Philosophy — most abstract\nDesign Principles\nDesign Patterns\nDesign Idioms, Specific Knowledge and Tips — most concrete\n\nAn arrow running through the hierarchy shows the movement from abstract guidance toward concrete, actionable knowledge.",
+    "crumbs": [
+      "Introduction",
+      "Welcome 2"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/03-welcome-2.html#design-patterns-vs.-design-guidelines",
+    "href": "modules/01-introduction/03-welcome-2.html#design-patterns-vs.-design-guidelines",
+    "title": "Design Patterns: UIs, Games, Learning",
+    "section": "Design Patterns vs. Design Guidelines",
+    "text": "Design Patterns vs. Design Guidelines\n\nDesign guidelines can be either abstract or concrete.\nAbstract guidelines usually do not suggest how to solve a problem.\nConcrete guidelines are usually too tailored to a specific interface.\nGuidelines usually assume absolute validity, while design patterns emphasize effectiveness in a particular context.\nGuidelines are more useful for describing requirements; patterns are useful tools for translating requirements into specific software solutions.",
+    "crumbs": [
+      "Introduction",
+      "Welcome 2"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/03-welcome-2.html#patterns-vs.-idioms",
+    "href": "modules/01-introduction/03-welcome-2.html#patterns-vs.-idioms",
+    "title": "Design Patterns: UIs, Games, Learning",
+    "section": "Patterns vs. Idioms",
+    "text": "Patterns vs. Idioms\n\nNot every design idea that uses the pattern syntax is actually a pattern.\nIf an idea is too specific (e.g., programming-language specific), it is not a pattern — such specific ideas are called idioms.\nSimilarly, patterns cannot be too general.\nIt must be clear how the pattern should be applied in a context.",
+    "crumbs": [
+      "Introduction",
+      "Welcome 2"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/03-welcome-2.html#patterns-vs.-lexiconvocabulary",
+    "href": "modules/01-introduction/03-welcome-2.html#patterns-vs.-lexiconvocabulary",
+    "title": "Design Patterns: UIs, Games, Learning",
+    "section": "Patterns vs. Lexicon/Vocabulary",
+    "text": "Patterns vs. Lexicon/Vocabulary\n\nIf a technique appears so often in a domain that everyone knows and uses it in almost any situation, it is most likely not a pattern — it is vocabulary.\nExample, in game design:\n\nPlayer\nStage\nEnemy\nGun shots",
+    "crumbs": [
+      "Introduction",
+      "Welcome 2"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/03-welcome-2.html#what-are-design-patterns",
+    "href": "modules/01-introduction/03-welcome-2.html#what-are-design-patterns",
+    "title": "Design Patterns: UIs, Games, Learning",
+    "section": "What Are Design Patterns…",
+    "text": "What Are Design Patterns…\n\n“Patterns communicate insights into design problems, capturing the essence of the problems and their solutions in a compact form. They describe the problem in depth, the rationale for the solution, and some of the trade-offs in applying the solution.” — The Design of Sites, Van Duyne et al., 2003\n\n\n“Each pattern describes a problem which occurs over and over again in our environment, and then describes the core of the solution to that problem, in such a way that you can use this solution a million times over, without ever doing it the same way twice.” — A Pattern Language, Alexander et al., 1977\n\n\n“A pattern is the abstraction from a concrete form which keeps recurring in specific non-arbitrary contexts.” — “Understanding and Using Patterns in Software Development,” Dirk Riehle and Heinz Züllighoven",
+    "crumbs": [
+      "Introduction",
+      "Welcome 2"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/03-welcome-2.html#design-patterns-a-brief-history",
+    "href": "modules/01-introduction/03-welcome-2.html#design-patterns-a-brief-history",
+    "title": "Design Patterns: UIs, Games, Learning",
+    "section": "Design Patterns: A Brief History",
+    "text": "Design Patterns: A Brief History\nA (very) brief history…",
+    "crumbs": [
+      "Introduction",
+      "Welcome 2"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/03-welcome-2.html#christopher-alexander",
+    "href": "modules/01-introduction/03-welcome-2.html#christopher-alexander",
+    "title": "Design Patterns: UIs, Games, Learning",
+    "section": "Christopher Alexander",
+    "text": "Christopher Alexander\nAlexander wrote patterns for architecture across three books:\n\nThe Timeless Way of Building\nA Pattern Language\nThe Oregon Experiment\n\nHis work is organized at multiple levels — towns, buildings, and construction — forming a network that together makes up a language.\n\n\n\nCover of “A Pattern Language: Towns, Buildings, Construction” by Christopher Alexander, Sara Ishikawa, and Murray Silverstein — the foundational text that introduced pattern languages for architecture\n\n\n\n\n\nCover of “The Timeless Way of Building” by Christopher Alexander, the companion volume explaining the philosophy behind A Pattern Language",
+    "crumbs": [
+      "Introduction",
+      "Welcome 2"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/03-welcome-2.html#christopher-alexander-cont.",
+    "href": "modules/01-introduction/03-welcome-2.html#christopher-alexander-cont.",
+    "title": "Design Patterns: UIs, Games, Learning",
+    "section": "Christopher Alexander (cont.)",
+    "text": "Christopher Alexander (cont.)\nPattern 115: COURTYARDS WHICH LIVE\n\nThe courtyards built in modern buildings are very often dead. They are intended as private open spaces for people to use, but end up unused, full of gravel and abstract sculptures.\nThree ways such courtyards fail:\n\nThere is too little ambiguity between indoors and outdoors.\nThere are not enough doors into the courtyard.\nThey are too enclosed.\n\n\nTherefore: Place every courtyard so there is a view out to some larger open space; place it so at least two or three doors open from the building into it, along the natural paths that cross the courtyard. At one edge, beside a door, build a roofed veranda or porch continuous with both the inside and the courtyard — following the patterns for ARCADE (119), GALLERY SURROUND (166), and SIX-FOOT BALCONY (167).\nSource: ‘A Pattern Language,’ Alexander et al., 1977\n\nPhotograph of a sunlit courtyard with arched colonnades and potted palms, illustrating the kind of lively, well-connected courtyard the pattern describes",
+    "crumbs": [
+      "Introduction",
+      "Welcome 2"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/03-welcome-2.html#the-nature-of-design-patterns",
+    "href": "modules/01-introduction/03-welcome-2.html#the-nature-of-design-patterns",
+    "title": "Design Patterns: UIs, Games, Learning",
+    "section": "The Nature of Design Patterns",
+    "text": "The Nature of Design Patterns\n\nNot too general and not too specific.\nUse a solution “a million times over, without ever doing it the same way twice.”\nDesign patterns are a shared language for “building and planning towns, neighborhoods, houses, gardens, & rooms.”\nExample: A beer hall is part of a center for public life, yet it also needs spaces for groups to be alone — this need is met by the ALCOVES pattern.",
+    "crumbs": [
+      "Introduction",
+      "Welcome 2"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/03-welcome-2.html#pattern-format",
+    "href": "modules/01-introduction/03-welcome-2.html#pattern-format",
+    "title": "Design Patterns: UIs, Games, Learning",
+    "section": "Pattern Format",
+    "text": "Pattern Format\nA pattern is typically documented with the following elements:\n\nPattern Name\nContext\nForces\nProblem Statement\nSolution\nSolution Sketch\nOther Patterns to Consider",
+    "crumbs": [
+      "Introduction",
+      "Welcome 2"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/03-welcome-2.html#example-alcoves-context-problem",
+    "href": "modules/01-introduction/03-welcome-2.html#example-alcoves-context-problem",
+    "title": "Design Patterns: UIs, Games, Learning",
+    "section": "Example: Alcoves — Context & Problem",
+    "text": "Example: Alcoves — Context & Problem\nPattern Title: Alcoves\n\nContext: Collaborative and common areas in buildings.\nForces: Open spaces are inviting, but people want a sense of enclosure for private discussions.\nProblem Statement: Create a space that invites collaboration but also supports private discussion.",
+    "crumbs": [
+      "Introduction",
+      "Welcome 2"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/03-welcome-2.html#example-alcoves-solution-sketch",
+    "href": "modules/01-introduction/03-welcome-2.html#example-alcoves-solution-sketch",
+    "title": "Design Patterns: UIs, Games, Learning",
+    "section": "Example: Alcoves — Solution & Sketch",
+    "text": "Example: Alcoves — Solution & Sketch\nSolution: Make small places at the edge of any common room, usually no more than 6 feet wide and 3 to 6 feet deep, and possibly much smaller. These alcoves should be large enough for two people to sit, chat, or play, and sometimes large enough to contain a desk or a table.\n\nA page reproducing the Alcoves pattern text alongside its accompanying sketch, showing small recessed seating areas branching off a central common room",
+    "crumbs": [
+      "Introduction",
+      "Welcome 2"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/03-welcome-2.html#many-patterns-form-a-pattern-language",
+    "href": "modules/01-introduction/03-welcome-2.html#many-patterns-form-a-pattern-language",
+    "title": "Design Patterns: UIs, Games, Learning",
+    "section": "Many Patterns Form a Pattern Language",
+    "text": "Many Patterns Form a Pattern Language\n\nThe patterns within a particular domain should be organized into a logical or naturally intuitive structure. Each pattern should indicate its relationship to other patterns and to the pattern language as a whole.\nSuch a language helps by:\n\nNoticing and naming the common problems in a field of interest\nDescribing the key characteristics of effective solutions for meeting some stated goal\nHelping the designer move from problem to problem in a logical way\nAllowing for many different paths through the design process",
+    "crumbs": [
+      "Introduction",
+      "Welcome 2"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/03-welcome-2.html#pattern-languages",
+    "href": "modules/01-introduction/03-welcome-2.html#pattern-languages",
+    "title": "Design Patterns: UIs, Games, Learning",
+    "section": "Pattern Languages",
+    "text": "Pattern Languages\n\nAlexander emphasized the importance of pattern languages — more than just collections of patterns.\nLanguages are sets of patterns that fill out a design space and are chosen to complement each other.\nForces described in each pattern may explain its relations with other patterns.",
+    "crumbs": [
+      "Introduction",
+      "Welcome 2"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/03-welcome-2.html#a-pattern-language-for-interactive-exhibits",
+    "href": "modules/01-introduction/03-welcome-2.html#a-pattern-language-for-interactive-exhibits",
+    "title": "Design Patterns: UIs, Games, Learning",
+    "section": "A Pattern Language for Interactive Exhibits",
+    "text": "A Pattern Language for Interactive Exhibits\nFrom [Borchers 2001], patterns for interactive exhibits are organized hierarchically:\n\nInteractive Exhibit branches into Attract Visitor, Engage Visitor, and Deliver Message.\nThese lead to sub-patterns such as Simple Impress., Innovative Appearance, Domain-Appropriate Dev., Universal Access, and Immediate Feedback.\nWhich further lead to more specific patterns: New Input Dev., Invisible Hardware, Adjustable Height, Incremental Revealing, and Closed Loop.\nAt the most concrete level: Sparse Layout, Script Font, Coarse-Motoric Input, Dynamic Descriptor, Flat & Narrow Tree, and Batons.\n\n\nA tree diagram showing how the abstract goal of an “Interactive Exhibit” branches through mid-level patterns like Universal Access and Incremental Revealing down to concrete design patterns such as Batons and Sparse Layout, illustrating a full pattern language",
+    "crumbs": [
+      "Introduction",
+      "Welcome 2"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/03-welcome-2.html#discussion",
+    "href": "modules/01-introduction/03-welcome-2.html#discussion",
+    "title": "Design Patterns: UIs, Games, Learning",
+    "section": "Discussion",
+    "text": "Discussion\n\nWhat’s the difference between design patterns and some experts’ tips in design?\nWhy is context required in documenting a pattern?\nCan design patterns replace hands-on practice in design?",
+    "crumbs": [
+      "Introduction",
+      "Welcome 2"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/03-welcome-2.html#from-architecture-to-computer-science",
+    "href": "modules/01-introduction/03-welcome-2.html#from-architecture-to-computer-science",
+    "title": "Design Patterns: UIs, Games, Learning",
+    "section": "From Architecture to Computer Science",
+    "text": "From Architecture to Computer Science\n\nIn the early 1990s, Gamma et al. borrowed the idea of patterns from architecture and applied it to software engineering.\nThe goal was to communicate object-oriented software design problems and their solutions.\n\n\nCover of “Design Patterns: Elements of Reusable Object-Oriented Software” by Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides — the influential book (the “Gang of Four”) that brought Alexander’s pattern concept into software engineering",
+    "crumbs": [
+      "Introduction",
+      "Welcome 2"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/03-welcome-2.html#patterns-in-hciui-design",
+    "href": "modules/01-introduction/03-welcome-2.html#patterns-in-hciui-design",
+    "title": "Design Patterns: UIs, Games, Learning",
+    "section": "Patterns in HCI/UI Design",
+    "text": "Patterns in HCI/UI Design\nThe idea of patterns extended further into human-computer interaction and interface design, drawing on resources including:\n\nDesigning Interfaces: Patterns for Effective Interaction Design [Tidwell 2005]\nThe Design of Sites [Van Duyne et al. 2002]\nA Pattern Approach to Interaction Design [Borchers 2001]\nOnline repositories: http://www.hcipatterns.org/ and http://www.visi.com/~snowfall/InteractionPatterns.html\n\n\n\n\nCover of “Designing Interfaces” by Jenifer Tidwell, featuring a mandarin duck, presenting patterns for effective interaction design\n\n\n\n\n\nCover of “A Pattern Approach to Interaction Design” by Jan Borchers, part of the Software Design Patterns series, applying pattern language ideas to interactive systems\n\n\n\n\n\nCover of “The Design of Sites” by Douglas van Duyne and colleagues, a book of patterns for effective web design referenced alongside Tidwell’s and Borchers’ work",
+    "crumbs": [
+      "Introduction",
+      "Welcome 2"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/02-slides.html#section-title",
+    "href": "modules/01-introduction/02-slides.html#section-title",
     "title": "Course Kickoff",
     "section": "Section title",
     "text": "Section title\nSubtitle or context linebbnmbnmbmbnmmmgmmgmgmghm ## Welcome! {background-image=“https://odvtslzlamhvkuthtsnx.supabase.co/storage/v1/object/public/course-assets/40a9cb3d-a7cc-42f0-a3e2-e06827fc61c6/images/151711-apps-feature-high-res-zoom-backgrounds-image1-9smf2lhgqa.jpg” transition=“zoom”}\n\n\n\nA quick tour of what we’ll cover\nHow the course is structured\nWhat you’ll be able to do by the end\n\n\ndfdf",
@@ -748,8 +1089,8 @@
     ]
   },
   {
-    "objectID": "modules/01-introduction/01-slides.html#slide",
-    "href": "modules/01-introduction/01-slides.html#slide",
+    "objectID": "modules/01-introduction/02-slides.html#slide",
+    "href": "modules/01-introduction/02-slides.html#slide",
     "title": "Course Kickoff",
     "section": "Slide",
     "text": "Slide\n\n\n\n\n\n\nDescribe the image",
@@ -759,8 +1100,8 @@
     ]
   },
   {
-    "objectID": "modules/01-introduction/01-slides.html#section-title-1",
-    "href": "modules/01-introduction/01-slides.html#section-title-1",
+    "objectID": "modules/01-introduction/02-slides.html#section-title-1",
+    "href": "modules/01-introduction/02-slides.html#section-title-1",
     "title": "Course Kickoff",
     "section": "Section title",
     "text": "Section title\nSubtitle or context line ## Two columns\n\n\nLeft column content\n\nRight column content",
@@ -770,8 +1111,8 @@
     ]
   },
   {
-    "objectID": "modules/01-introduction/01-slides.html#image-and-text",
-    "href": "modules/01-introduction/01-slides.html#image-and-text",
+    "objectID": "modules/01-introduction/02-slides.html#image-and-text",
+    "href": "modules/01-introduction/02-slides.html#image-and-text",
     "title": "Course Kickoff",
     "section": "Image and text",
     "text": "Image and text\n\n\n\n\n\n\nDescribe the image\n\n\n\n\n\n\n\nDescribe the image\n\n\n\n\n\n\nDescribe the image\n\n\nText alongside the image",
@@ -781,8 +1122,8 @@
     ]
   },
   {
-    "objectID": "modules/01-introduction/01-slides.html#quote",
-    "href": "modules/01-introduction/01-slides.html#quote",
+    "objectID": "modules/01-introduction/02-slides.html#quote",
+    "href": "modules/01-introduction/02-slides.html#quote",
     "title": "Course Kickoff",
     "section": "Quote",
     "text": "Quote\n\nThe quotation goes here.\n— Attribution ## Slide\n\n\n\n\n\n\n\n\nPlaceholder slide - fill in with content or delete if not needed before presenting.",
@@ -792,8 +1133,8 @@
     ]
   },
   {
-    "objectID": "modules/01-introduction/01-slides.html#about-this-course",
-    "href": "modules/01-introduction/01-slides.html#about-this-course",
+    "objectID": "modules/01-introduction/02-slides.html#about-this-course",
+    "href": "modules/01-introduction/02-slides.html#about-this-course",
     "title": "Course Kickoff",
     "section": "About This Course",
     "text": "About This Course\nBrand Test is designed to take you from foundational concepts to practical application.\n\n\n\n\n\n\nNote\n\n\nNo prior experience required — we’ll build up together, step by step.\n\n\n\n\nReassure the audience this is a welcoming starting point - no prior experience needed. Emphasize the step-by-step structure to reduce anxiety about pace.",
@@ -803,8 +1144,8 @@
     ]
   },
   {
-    "objectID": "modules/01-introduction/01-slides.html#learning-outcomes",
-    "href": "modules/01-introduction/01-slides.html#learning-outcomes",
+    "objectID": "modules/01-introduction/02-slides.html#learning-outcomes",
+    "href": "modules/01-introduction/02-slides.html#learning-outcomes",
     "title": "Course Kickoff",
     "section": "Learning Outcomes",
     "text": "Learning Outcomes\nBy the end of this course, you will be able to:\n\nUnderstand the core concepts introduced in this course\nApply those concepts to realistic scenarios\nEvaluate outcomes and make informed decisions\n\n\nWalk through each outcome and briefly explain what “success” looks like at each level (understand vs. apply vs. evaluate). Tie back to Bloom’s taxonomy if useful for context.",
@@ -814,8 +1155,8 @@
     ]
   },
   {
-    "objectID": "modules/01-introduction/01-slides.html#a-quick-example",
-    "href": "modules/01-introduction/01-slides.html#a-quick-example",
+    "objectID": "modules/01-introduction/02-slides.html#a-quick-example",
+    "href": "modules/01-introduction/02-slides.html#a-quick-example",
     "title": "Course Kickoff",
     "section": "A Quick Example",
     "text": "A Quick Example\n\n\n\n\n\n\nTry it yourself\n\n\nAs you go through each lesson, pause and ask: “How would I explain this to a friend?”\n\n\n\n\nEncourage learners to actually try this reflection prompt during lessons, not just read past it. Consider pausing here for a quick verbal example if time allows.",
@@ -825,8 +1166,8 @@
     ]
   },
   {
-    "objectID": "modules/01-introduction/01-slides.html#image-and-text-1",
-    "href": "modules/01-introduction/01-slides.html#image-and-text-1",
+    "objectID": "modules/01-introduction/02-slides.html#image-and-text-1",
+    "href": "modules/01-introduction/02-slides.html#image-and-text-1",
     "title": "Course Kickoff",
     "section": "Image and text",
     "text": "Image and text\n\n\n\n\n\n\nDescribe the image\n\n\n\nText alongside the imagexcvxzcvxcv\n\n\nReplace the placeholder image and caption text before presenting. Use this slide to reinforce a concept visually alongside a brief explanation.",
@@ -836,8 +1177,8 @@
     ]
   },
   {
-    "objectID": "modules/01-introduction/01-slides.html#how-this-course-works",
-    "href": "modules/01-introduction/01-slides.html#how-this-course-works",
+    "objectID": "modules/01-introduction/02-slides.html#how-this-course-works",
+    "href": "modules/01-introduction/02-slides.html#how-this-course-works",
     "title": "Course Kickoff",
     "section": "How This Course Works",
     "text": "How This Course Works\n\n📖 Short lessons introduce key ideas\n🛠️ Activities let you practice\n✅ Checks for understanding along the way\n\n\nSet expectations for the course rhythm: short reading, hands-on practice, and low-stakes checks. Mention roughly how often these checks occur if known.",
@@ -847,8 +1188,8 @@
     ]
   },
   {
-    "objectID": "modules/01-introduction/01-slides.html#module-roadmap",
-    "href": "modules/01-introduction/01-slides.html#module-roadmap",
+    "objectID": "modules/01-introduction/02-slides.html#module-roadmap",
+    "href": "modules/01-introduction/02-slides.html#module-roadmap",
     "title": "Course Kickoff",
     "section": "Module Roadmap",
     "text": "Module Roadmap\n\n\n\nModule\nFocus\n\n\n\n\n1. Introduction\nOrientation & foundations\n\n\n2. Core Concepts\nComing soon\n\n\n3. Application\nComing soon",
@@ -858,8 +1199,8 @@
     ]
   },
   {
-    "objectID": "modules/01-introduction/01-slides.html#lets-get-started",
-    "href": "modules/01-introduction/01-slides.html#lets-get-started",
+    "objectID": "modules/01-introduction/02-slides.html#lets-get-started",
+    "href": "modules/01-introduction/02-slides.html#lets-get-started",
     "title": "Course Kickoff",
     "section": "Let’s Get Started…",
     "text": "Let’s Get Started…\n\n\n\nHead back to the course landing page\nBegin with Lesson 1: Welcome\nReach out with questions anytime\n\n\nThank you! 🎉\n\n\n\n151711 apps feature high res zoom backgrounds image1 9smf2lhgqa",
@@ -869,14 +1210,960 @@
     ]
   },
   {
-    "objectID": "modules/01-introduction/01-slides.html#section-title-2",
-    "href": "modules/01-introduction/01-slides.html#section-title-2",
+    "objectID": "modules/01-introduction/02-slides.html#section-title-2",
+    "href": "modules/01-introduction/02-slides.html#section-title-2",
     "title": "Course Kickoff",
     "section": "Section title",
     "text": "Section title\nSubtitle or context line",
     "crumbs": [
       "Introduction",
       "Slides"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/stage-1-game-design.html",
+    "href": "modules/01-introduction/stage-1-game-design.html",
+    "title": "Stage 1: Game Concept and Design Brief",
+    "section": "",
+    "text": "Welcome to the first stage of your table-top board game development journey. Over the course of one week, you will design a simple, innovative table-top game that can be explained and played using minimal components. The challenge is to create a game with a compelling objective and straightforward rules, while focusing on creativity and player engagement within a two-player format. This lesson walks you through the objective, the deliverables you need to produce, the constraints you must design within, and a set of sample ideas and mechanics to inspire your own concept.",
+    "crumbs": [
+      "Introduction",
+      "Stage 1 Game Design"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/stage-1-game-design.html#introduction",
+    "href": "modules/01-introduction/stage-1-game-design.html#introduction",
+    "title": "Stage 1: Game Concept and Design Brief",
+    "section": "",
+    "text": "Welcome to the first stage of your table-top board game development journey. Over the course of one week, you will design a simple, innovative table-top game that can be explained and played using minimal components. The challenge is to create a game with a compelling objective and straightforward rules, while focusing on creativity and player engagement within a two-player format. This lesson walks you through the objective, the deliverables you need to produce, the constraints you must design within, and a set of sample ideas and mechanics to inspire your own concept.",
+    "crumbs": [
+      "Introduction",
+      "Stage 1 Game Design"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/stage-1-game-design.html#objective",
+    "href": "modules/01-introduction/stage-1-game-design.html#objective",
+    "title": "Stage 1: Game Concept and Design Brief",
+    "section": "Objective",
+    "text": "Objective\nThis week, your task is to develop a simple, innovative table-top game that can be explained and played using minimal components. The game should offer a compelling objective and straightforward rules, focusing on creativity and player engagement within a two-player format. Keep the design lean: the strength of your concept should come from clever mechanics and clear rules, not from a large number of components.",
+    "crumbs": [
+      "Introduction",
+      "Stage 1 Game Design"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/stage-1-game-design.html#deliverables",
+    "href": "modules/01-introduction/stage-1-game-design.html#deliverables",
+    "title": "Stage 1: Game Concept and Design Brief",
+    "section": "Deliverables",
+    "text": "Deliverables\nYour submission for this stage consists of three parts:\n\nGame Concept and Rules Document. Your game’s concept and rules need to be concisely presented within a two-page limit.\n\nPage 1: A short description and instructions for your game, clearly outlining the objective, basic rules, and any unique gameplay elements.\nPage 2: The game board or main layout, designed to be engaging and functional for the gameplay.\n\nInitial Design Sketches/Digital Representations. Provide sketches or digital representations of any additional game components such as cards, tokens, or objects that enhance the gameplay. These should be supplementary and not exceed the core game’s two-page presentation.\nBlog Post Reflection. Craft a reflective blog post detailing the process of developing your game concept, focusing on creative challenges, design decisions, and the anticipated player experience.",
+    "crumbs": [
+      "Introduction",
+      "Stage 1 Game Design"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/stage-1-game-design.html#constraints-and-limitations",
+    "href": "modules/01-introduction/stage-1-game-design.html#constraints-and-limitations",
+    "title": "Stage 1: Game Concept and Design Brief",
+    "section": "Constraints and Limitations",
+    "text": "Constraints and Limitations\nWork within the following boundaries as you design your game:\n\nThe entire game must fit on 2 x A4 pieces of paper.\nYou are encouraged to design or use additional components like cards and tokens, keeping in mind the game’s expansion in later stages.\nThe game should be designed for two players initially, with plans to adapt it for multiple players.\nAny extra items needed to play the game, such as six-sided dice, should be commonly available or easily substitutable (e.g., pencils, coins, or markers). Websites such as https://www.random.org/dice can substitute physical dice if necessary.\nYour game and any additional components can be drawn by hand or created digitally. Ensure any photos are clear and well-lit.",
+    "crumbs": [
+      "Introduction",
+      "Stage 1 Game Design"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/stage-1-game-design.html#submission-format",
+    "href": "modules/01-introduction/stage-1-game-design.html#submission-format",
+    "title": "Stage 1: Game Concept and Design Brief",
+    "section": "Submission Format",
+    "text": "Submission Format\n\nCompile your game concept, rules, and board into a single Word or PDF document. Include photos or digital files of additional components if applicable.\nSubmit the reflective blog post as a separate document or via a blog link, detailing your creative process and concept development journey.",
+    "crumbs": [
+      "Introduction",
+      "Stage 1 Game Design"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/stage-1-game-design.html#sample-ideas",
+    "href": "modules/01-introduction/stage-1-game-design.html#sample-ideas",
+    "title": "Stage 1: Game Concept and Design Brief",
+    "section": "Sample Ideas",
+    "text": "Sample Ideas\nTo spark your thinking, here are ten sample game concepts, each showing how a title, board description, objective, player interactions, unique mechanism, and game elements can fit together into a coherent design.\nMonster March — Board: a town with houses, a forest, and a safe zone. Objective: escape monsters to the safe zone. Player interactions: use tokens to move monsters. Unique mechanism: a spinner for movement and monster actions. Rules summary: spin and move, using tokens to direct monsters. Gameplay example: use a token to redirect a monster towards a rival. Game elements: spinner, monster tokens, “scare” tokens, player pieces.\nGarden Grow — Board: garden plots with various plants. Objective: grow the most vibrant garden. Player interactions: plant weeds in others’ gardens. Unique mechanism: weather dice affecting growth. Rules summary: roll for actions, with weather dice influencing plant growth. Gameplay example: a rain result on the weather dice accelerates growth. Game elements: weather dice, plant tokens, weed tokens, player pieces.\nPirate Plunder — Board: a treasure map with paths, traps, and treasures. Objective: collect coins and complete the puzzle first. Player interactions: set traps to delay others. Unique mechanism: puzzle pieces at treasure spots. Rules summary: move to collect, use traps to slow down others, and complete the puzzle. Gameplay example: find a piece that adds to your treasure map puzzle. Game elements: treasure coins, puzzle pieces, traps, player pieces.\nSpace Jump — Board: a galaxy map with planets and black holes. Objective: be first to jump back to Earth. Player interactions: pull others into gravity wells. Unique mechanism: gravity dice for jumps or black holes. Rules summary: roll to jump between planets, with gravity dice determining hazards. Gameplay example: rolling a black hole makes a player skip a turn. Game elements: gravity dice, player spacecraft pieces.\nCritter Race — Board: a backyard path with natural obstacles. Objective: race your critter to the finish line. Player interactions: place obstacles in opponents’ paths. Unique mechanism: critter dice for overcoming obstacles. Rules summary: roll critter dice to move and navigate obstacles. Gameplay example: rolling a “dig” bypasses a rock obstacle. Game elements: critter dice, obstacles (rocks, ponds), player critters.\nWizard’s Duel — Board: a circular duel arena with spell zones. Objective: reach the centre to win the duel. Player interactions: cast spells to hinder opponents. Unique mechanism: a spell wheel for casting power. Rules summary: spin to cast spells, aiming to push opponents back. Gameplay example: spinning a “freeze” stops an opponent’s advance. Game elements: spell wheel, spell tokens (freeze, push), player wizards.\nMuseum Heist — Board: a museum layout with exhibits and lasers. Objective: steal an artifact and escape first. Player interactions: activate alarms against rivals. Unique mechanism: a laser pointer for navigating lasers. Rules summary: move to steal, using the laser pointer to avoid security. Gameplay example: navigate a laser section without touching the beam. Game elements: laser pointer, artifact tokens, alarm tokens, player thieves.\nDinosaur Dig — Board: a dig site with soil layers and fossils. Objective: unearth and assemble a dinosaur first. Player interactions: use sandstorms to cover digs. Unique mechanism: tools for digging through layers. Rules summary: use tools to find fossils, with sandstorms resetting progress. Gameplay example: using a brush tool uncovers a rare fossil piece. Game elements: digging tools (shovels, brushes), fossil pieces, sandstorm cards, player archaeologists.\nStarry Sky — Board: a night sky map with constellations. Objective: complete constellations first. Player interactions: block paths with cloud markers. Unique mechanism: dice to “draw” stars for constellations. Rules summary: roll to connect stars, with clouds blocking paths. Gameplay example: rolling to connect the last two stars of Orion’s Belt. Game elements: star dice, constellation guides, cloud markers, player astronomers.",
+    "crumbs": [
+      "Introduction",
+      "Stage 1 Game Design"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/stage-1-game-design.html#common-game-mechanics",
+    "href": "modules/01-introduction/stage-1-game-design.html#common-game-mechanics",
+    "title": "Stage 1: Game Concept and Design Brief",
+    "section": "Common Game Mechanics",
+    "text": "Common Game Mechanics\nUnderstanding established game mechanics can help you build your own concept on solid foundations. The table below summarises some of the most frequently used mechanics in board games and a well-known example of each.\n\n\n\n\n\n\n\nGame Mechanic\nDescription\n\n\n\n\nRoll-and-Move\nPlayers roll dice and move pieces based on the outcome, e.g., Monopoly.\n\n\nSet Collection\nPlayers collect certain sets of cards or tokens to achieve a goal, e.g., Ticket to Ride.\n\n\nDeck Building\nPlayers start with a basic deck of cards and acquire more powerful cards to improve their deck over time, e.g., Dominion.\n\n\nWorker Placement\nPlayers place tokens on specific spots on the board to take actions or gain resources, e.g., Agricola.\n\n\nArea Control\nPlayers compete to dominate specific areas or territories on the board, e.g., Risk.\n\n\nTile Placement\nPlayers place tiles to create or expand game areas, often scoring points based on placement, e.g., Carcassonne.\n\n\nResource Management\nPlayers collect and manage resources (e.g., wood, stone, gold) to build structures, units, or points, e.g., Catan.\n\n\nAuction/Bidding\nPlayers bid resources or points to gain advantages or items in the game, e.g., Power Grid.\n\n\nCooperative Play\nPlayers work together towards a common goal, often against the game itself, e.g., Pandemic.\n\n\nCard Drafting\nPlayers select cards from a shared pool to gain some advantage or fulfil objectives, e.g., 7 Wonders.\n\n\nHidden Roles\nPlayers have secret roles or objectives unknown to others, creating tension and bluffing opportunities, e.g., The Resistance.\n\n\nDice Rolling\nDice determine outcomes or resources, with players often trying to mitigate luck through strategy, e.g., King of Tokyo.\n\n\nSimulation\nThe game simulates a real-life process, system, or situation, requiring strategic planning and resource allocation, e.g., Terraforming Mars.\n\n\nPush Your Luck\nPlayers take risks to potentially gain more rewards, knowing they might lose everything they’ve gained, e.g., Quacks of Quedlinburg.\n\n\nPoint-to-Point Movement\nPlayers move pieces from one discrete point to another, often to strategically position themselves or block opponents, e.g., Tsuro.\n\n\nNarrative/Storytelling\nThe game includes a strong narrative element, with players’ actions affecting the direction and outcome of the story, e.g., Betrayal at House on the Hill.\n\n\nPattern Building\nPlayers arrange pieces or cards to create specific patterns or configurations for points or achievements, e.g., Azul.",
+    "crumbs": [
+      "Introduction",
+      "Stage 1 Game Design"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/stage-1-game-design.html#worked-example-a-turn-by-turn-flow",
+    "href": "modules/01-introduction/stage-1-game-design.html#worked-example-a-turn-by-turn-flow",
+    "title": "Stage 1: Game Concept and Design Brief",
+    "section": "Worked Example: A Turn-by-Turn Flow",
+    "text": "Worked Example: A Turn-by-Turn Flow\nTo see how these mechanics can combine into a working game loop, consider the following flow, based on a treasure-collecting game similar to Pirate Plunder. Each player starts at the dock and takes turns rolling dice, moving along a path, and reacting to what they find, until someone collects all the puzzle pieces and races back to the ship to win.\n\n\n\nA flowchart of a turn-based treasure game: players start at the dock, roll dice, move along the path, and either find a treasure spot (collecting a coin and puzzle piece, then setting a trap for others) or encounter a trap (being taken back or continuing on); each turn ends by checking whether all puzzle pieces have been collected, looping back to rolling dice until a player reaches the ship with the complete puzzle to win.\n\n\nThis kind of diagram is a useful design tool in its own right: mapping out your own game’s turn structure as a flowchart can help you spot missing rules, dead ends, or turns that are unclear before you commit them to paper.",
+    "crumbs": [
+      "Introduction",
+      "Stage 1 Game Design"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/stage-1-game-design.html#summary",
+    "href": "modules/01-introduction/stage-1-game-design.html#summary",
+    "title": "Stage 1: Game Concept and Design Brief",
+    "section": "Summary",
+    "text": "Summary\nIn this stage, you have learned what is required to design and present a simple, innovative two-player table-top game within a two-week, two-page constraint. You now know the three deliverables expected of you: a concise game concept and rules document, supporting sketches or digital representations of any extra components, and a reflective blog post on your design process. You have also seen the constraints that shape the design space, a submission format to follow, ten sample game ideas spanning different themes and mechanisms, a reference table of common board game mechanics, and a worked example showing how mechanics combine into a full turn cycle. Use these resources as a springboard: borrow structures from the sample ideas and mechanics table, but shape them into something original that reflects your own creative decisions and anticipated player experience.",
+    "crumbs": [
+      "Introduction",
+      "Stage 1 Game Design"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/05-slides2.html#welcome",
+    "href": "modules/01-introduction/05-slides2.html#welcome",
+    "title": "Course Kickoff",
+    "section": "Welcome!",
+    "text": "Welcome!\n\nA quick tour of what we’ll cover\nHow the course is structured\nWhat you’ll be able to do by the end",
+    "crumbs": [
+      "Introduction",
+      "Slides2"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/05-slides2.html#about-this-course",
+    "href": "modules/01-introduction/05-slides2.html#about-this-course",
+    "title": "Course Kickoff",
+    "section": "About This Course",
+    "text": "About This Course\nBrand Test is designed to take you from foundational concepts to practical application.\n\n\n\n\n\n\nNote\n\n\nNo prior experience required — we’ll build up together, step by step.",
+    "crumbs": [
+      "Introduction",
+      "Slides2"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/05-slides2.html#learning-outcomes",
+    "href": "modules/01-introduction/05-slides2.html#learning-outcomes",
+    "title": "Course Kickoff",
+    "section": "Learning Outcomes",
+    "text": "Learning Outcomes\nBy the end of this course, you will be able to:\n\nUnderstand the core concepts introduced in this course\nApply those concepts to realistic scenarios\nEvaluate outcomes and make informed decisions",
+    "crumbs": [
+      "Introduction",
+      "Slides2"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/05-slides2.html#how-this-course-works",
+    "href": "modules/01-introduction/05-slides2.html#how-this-course-works",
+    "title": "Course Kickoff",
+    "section": "How This Course Works",
+    "text": "How This Course Works\n\n📖 Short lessons introduce key ideas\n🛠️ Activities let you practice\n✅ Checks for understanding along the way",
+    "crumbs": [
+      "Introduction",
+      "Slides2"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/05-slides2.html#module-roadmap",
+    "href": "modules/01-introduction/05-slides2.html#module-roadmap",
+    "title": "Course Kickoff",
+    "section": "Module Roadmap",
+    "text": "Module Roadmap\n\n\n\nModule\nFocus\n\n\n\n\n1. Introduction\nOrientation & foundations\n\n\n2. Core Concepts\nComing soon\n\n\n3. Application\nComing soon",
+    "crumbs": [
+      "Introduction",
+      "Slides2"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/05-slides2.html#a-quick-example",
+    "href": "modules/01-introduction/05-slides2.html#a-quick-example",
+    "title": "Course Kickoff",
+    "section": "A Quick Example",
+    "text": "A Quick Example\n\n\n\n\n\n\nTry it yourself\n\n\nAs you go through each lesson, pause and ask: “How would I explain this to a friend?”",
+    "crumbs": [
+      "Introduction",
+      "Slides2"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/05-slides2.html#b",
+    "href": "modules/01-introduction/05-slides2.html#b",
+    "title": "Course Kickoff",
+    "section": "b",
+    "text": "b",
+    "crumbs": [
+      "Introduction",
+      "Slides2"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/05-slides2.html#lets-get-started",
+    "href": "modules/01-introduction/05-slides2.html#lets-get-started",
+    "title": "Course Kickoff",
+    "section": "Let’s Get Started",
+    "text": "Let’s Get Started\n\nHead back to the course landing page\nBegin with Lesson 1: Welcome\nReach out with questions anytime\n\nThank you! 🎉",
+    "crumbs": [
+      "Introduction",
+      "Slides2"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/05-slides2.html#the-world-of-bees",
+    "href": "modules/01-introduction/05-slides2.html#the-world-of-bees",
+    "title": "Course Kickoff",
+    "section": "The World of Bees",
+    "text": "The World of Bees\n\nBees are flying insects closely related to wasps and ants\nFound on every continent except Antarctica\nPlay a vital role in pollinating flowers, crops, and wild plants\n\n\n\n\n\n\n\nDid you know?\n\n\nA single bee colony can pollinate hundreds of millions of flowers over its lifetime.",
+    "crumbs": [
+      "Introduction",
+      "Slides2"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/05-slides2.html#bee-colonies",
+    "href": "modules/01-introduction/05-slides2.html#bee-colonies",
+    "title": "Course Kickoff",
+    "section": "Bee Colonies",
+    "text": "Bee Colonies\n\nA colony can hold tens of thousands of bees working toward one shared goal\nThree castes divide the labor: queen, workers, and drones\nThe queen is the colony’s sole egg-layer, often living for several years\nWorker bees handle nearly everything else: foraging, building, cleaning, and defending\n\n\n\n\n\n\n\nDid you know?\n\n\nA single colony can visit millions of flowers in one day.",
+    "crumbs": [
+      "Introduction",
+      "Slides2"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/06-welcome.html",
+    "href": "modules/01-introduction/06-welcome.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "Start writing your first lesson here. Use Markdown syntax to format your content.\n\n\n\nKey concept one\nKey concept two\nKey concept three\n\n\n\n\nReplace this content with your lesson material.",
+    "crumbs": [
+      "Introduction",
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/06-welcome.html#introduction",
+    "href": "modules/01-introduction/06-welcome.html#introduction",
+    "title": "Welcome",
+    "section": "",
+    "text": "Start writing your first lesson here. Use Markdown syntax to format your content.\n\n\n\nKey concept one\nKey concept two\nKey concept three\n\n\n\n\nReplace this content with your lesson material.",
+    "crumbs": [
+      "Introduction",
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/test.html",
+    "href": "modules/01-introduction/test.html",
+    "title": "Brand Test",
+    "section": "",
+    "text": "This lesson introduces the foundational ideas behind the “Brand Test” course. As the source material for this lesson consists only of an introductory heading, this page sets the stage for the topics that will be explored in more depth as the course progresses. It is intended to orient the learner and establish a starting point for further study.",
+    "crumbs": [
+      "Introduction",
+      "Test"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/test.html#introduction",
+    "href": "modules/01-introduction/test.html#introduction",
+    "title": "Brand Test",
+    "section": "",
+    "text": "This lesson introduces the foundational ideas behind the “Brand Test” course. As the source material for this lesson consists only of an introductory heading, this page sets the stage for the topics that will be explored in more depth as the course progresses. It is intended to orient the learner and establish a starting point for further study.",
+    "crumbs": [
+      "Introduction",
+      "Test"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/test.html#getting-oriented",
+    "href": "modules/01-introduction/test.html#getting-oriented",
+    "title": "Brand Test",
+    "section": "Getting Oriented",
+    "text": "Getting Oriented\nBefore diving into detailed material, it helps to understand why an introduction matters. An introduction frames the scope of a subject, signals what is to come, and gives the learner a sense of purpose before deeper content is introduced. In this course, the introduction serves as the anchor point from which subsequent lessons will build.",
+    "crumbs": [
+      "Introduction",
+      "Test"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/test.html#what-to-expect-next",
+    "href": "modules/01-introduction/test.html#what-to-expect-next",
+    "title": "Brand Test",
+    "section": "What to Expect Next",
+    "text": "What to Expect Next\nAs the course develops, this lesson will be followed by sections that expand on the core ideas only hinted at here. Learners should treat this lesson as a starting reference point: a place to return to for grounding as new concepts are layered on in later material.",
+    "crumbs": [
+      "Introduction",
+      "Test"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/test.html#summary",
+    "href": "modules/01-introduction/test.html#summary",
+    "title": "Brand Test",
+    "section": "Summary",
+    "text": "Summary\nThis lesson served as the introduction to the “Brand Test” course. It established the purpose of an introductory lesson — orienting the learner and preparing them for the content to follow — without yet introducing detailed subject matter. Learners should keep this framing in mind as they proceed to subsequent lessons, where the concepts referenced here will be developed further.",
+    "crumbs": [
+      "Introduction",
+      "Test"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/test-2.html",
+    "href": "modules/01-introduction/test-2.html",
+    "title": "Brand Test",
+    "section": "",
+    "text": "Welcome to this lesson. Before diving into the details, it’s important to understand what this course sets out to achieve and why the material that follows matters to you as a learner. This lesson lays the groundwork for the concepts that will be built upon as the course progresses, ensuring you have a solid footing from which to continue your learning journey.",
+    "crumbs": [
+      "Introduction",
+      "Test 2"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/test-2.html#introduction",
+    "href": "modules/01-introduction/test-2.html#introduction",
+    "title": "Brand Test",
+    "section": "",
+    "text": "Welcome to this lesson. Before diving into the details, it’s important to understand what this course sets out to achieve and why the material that follows matters to you as a learner. This lesson lays the groundwork for the concepts that will be built upon as the course progresses, ensuring you have a solid footing from which to continue your learning journey.",
+    "crumbs": [
+      "Introduction",
+      "Test 2"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/test-2.html#getting-started",
+    "href": "modules/01-introduction/test-2.html#getting-started",
+    "title": "Brand Test",
+    "section": "Getting Started",
+    "text": "Getting Started\nEvery course begins with a clear starting point. This section introduces the foundational ideas behind “Brand Test,” setting the context for what you can expect to learn. Understanding the purpose and scope of this course will help you approach the material with the right mindset and make the most of the lessons ahead.",
+    "crumbs": [
+      "Introduction",
+      "Test 2"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/test-2.html#core-concepts",
+    "href": "modules/01-introduction/test-2.html#core-concepts",
+    "title": "Brand Test",
+    "section": "Core Concepts",
+    "text": "Core Concepts\nAt the heart of this lesson are the core concepts that define the subject matter. These ideas form the building blocks upon which more advanced knowledge will later be constructed. Taking the time to understand these fundamentals now will pay off as you move through subsequent lessons in the course.",
+    "crumbs": [
+      "Introduction",
+      "Test 2"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/test-2.html#putting-it-into-practice",
+    "href": "modules/01-introduction/test-2.html#putting-it-into-practice",
+    "title": "Brand Test",
+    "section": "Putting It Into Practice",
+    "text": "Putting It Into Practice\nKnowledge becomes valuable when it is applied. This section encourages you to think about how the ideas introduced so far connect to real situations you may encounter. Reflecting on practical application helps reinforce learning and prepares you to engage more confidently with future material.",
+    "crumbs": [
+      "Introduction",
+      "Test 2"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/test-2.html#summary",
+    "href": "modules/01-introduction/test-2.html#summary",
+    "title": "Brand Test",
+    "section": "Summary",
+    "text": "Summary\nIn this lesson, you were introduced to the foundational ideas behind “Brand Test.” You explored the starting context for the course, examined the core concepts that underpin the subject, and considered how these ideas apply in practice. Keep these fundamentals in mind as you continue through the course, as they will support your understanding of the more advanced topics still to come.",
+    "crumbs": [
+      "Introduction",
+      "Test 2"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/07-repeat-project.html",
+    "href": "modules/01-introduction/07-repeat-project.html",
+    "title": "Tabletop Game Design, Prototype, Playtest, and Presentation",
+    "section": "",
+    "text": "In this project, you will design an original tabletop game and develop it from initial concept through to prototype, playtest, refinement, and final presentation. Your task is to show not only that you can invent a game idea, but also that you can communicate rules clearly, build a playable prototype, collect useful feedback, improve your design, and explain your design decisions professionally.\nThis assignment combines concept development, prototype production, documentation, reflection, testing, and presentation into one complete design cycle. It is a full loop: you will move from idea, to physical object, to real player feedback, to a revised object, and finally to a professional explanation of the whole journey.",
+    "crumbs": [
+      "Introduction",
+      "Repeat Project"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/07-repeat-project.html#introduction",
+    "href": "modules/01-introduction/07-repeat-project.html#introduction",
+    "title": "Tabletop Game Design, Prototype, Playtest, and Presentation",
+    "section": "",
+    "text": "In this project, you will design an original tabletop game and develop it from initial concept through to prototype, playtest, refinement, and final presentation. Your task is to show not only that you can invent a game idea, but also that you can communicate rules clearly, build a playable prototype, collect useful feedback, improve your design, and explain your design decisions professionally.\nThis assignment combines concept development, prototype production, documentation, reflection, testing, and presentation into one complete design cycle. It is a full loop: you will move from idea, to physical object, to real player feedback, to a revised object, and finally to a professional explanation of the whole journey.",
+    "crumbs": [
+      "Introduction",
+      "Repeat Project"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/07-repeat-project.html#project-goal-and-core-requirements",
+    "href": "modules/01-introduction/07-repeat-project.html#project-goal-and-core-requirements",
+    "title": "Tabletop Game Design, Prototype, Playtest, and Presentation",
+    "section": "Project Goal and Core Requirements",
+    "text": "Project Goal and Core Requirements\nThe goal of this project is to create a simple, original tabletop game that can be explained clearly, played with minimal and accessible components, and improved through structured playtesting. Your final submission should demonstrate creativity, functional design, iterative development, and reflective thinking.\nYour game must:\n\nbe an original design;\nbe playable by two players at minimum;\nuse accessible, low-cost, or easily substituted materials;\ninclude a game board or main play area;\ninclude clear rules and supporting components where needed;\nbe suitable for classroom playtesting;\nshow evidence of refinement based on feedback.",
+    "crumbs": [
+      "Introduction",
+      "Repeat Project"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/07-repeat-project.html#project-stages",
+    "href": "modules/01-introduction/07-repeat-project.html#project-stages",
+    "title": "Tabletop Game Design, Prototype, Playtest, and Presentation",
+    "section": "Project Stages",
+    "text": "Project Stages\nAlthough this is delivered as one assignment, you should work through it in the following sequence:\n\nConcept and design\nPrototype development\nPlaytesting and feedback\nRefinement\nFinal presentation and submission",
+    "crumbs": [
+      "Introduction",
+      "Repeat Project"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/07-repeat-project.html#deliverable-1-game-design-document",
+    "href": "modules/01-introduction/07-repeat-project.html#deliverable-1-game-design-document",
+    "title": "Tabletop Game Design, Prototype, Playtest, and Presentation",
+    "section": "Deliverable 1: Game Design Document",
+    "text": "Deliverable 1: Game Design Document\nSubmit one complete design document in Word or PDF format that includes:\n\nGame title\nObjective\nTarget number of players\nGame concept summary\nGame components\nSetup instructions\nGameplay rules\nWinning conditions\nCore rules\nAdditional or special rules\nFinal game board or layout\nSketches or images of additional components\nA short design reflection\nA short refinement reflection explaining what changed after playtesting\nA link to your blog post\nA link to your video(s), if hosted online",
+    "crumbs": [
+      "Introduction",
+      "Repeat Project"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/07-repeat-project.html#deliverable-2-concept-board-initial-layout",
+    "href": "modules/01-introduction/07-repeat-project.html#deliverable-2-concept-board-initial-layout",
+    "title": "Tabletop Game Design, Prototype, Playtest, and Presentation",
+    "section": "Deliverable 2: Concept Board / Initial Layout",
+    "text": "Deliverable 2: Concept Board / Initial Layout\nYour original game concept must begin within a 2 x A4 design constraint. This should include:\n\nPage 1: concise game overview, objective, and basic rules\nPage 2: board or main play layout\n\nYou may expand the game using additional components such as cards, counters, tokens, or other play materials, but the core concept must still be clearly visible in this original 2 x A4 format.",
+    "crumbs": [
+      "Introduction",
+      "Repeat Project"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/07-repeat-project.html#deliverable-3-prototype",
+    "href": "modules/01-introduction/07-repeat-project.html#deliverable-3-prototype",
+    "title": "Tabletop Game Design, Prototype, Playtest, and Presentation",
+    "section": "Deliverable 3: Prototype",
+    "text": "Deliverable 3: Prototype\nCreate a playable prototype of your game that includes:\n\nboard or main play surface;\nall required components;\nusable pieces, cards, tokens, dice, trackers, or substitutes;\na version of the game that can be tested by players.\n\nThe prototype does not need to be professionally manufactured, but it must be functional, readable, and suitable for live playtesting.",
+    "crumbs": [
+      "Introduction",
+      "Repeat Project"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/07-repeat-project.html#deliverable-4-playtest-evidence",
+    "href": "modules/01-introduction/07-repeat-project.html#deliverable-4-playtest-evidence",
+    "title": "Tabletop Game Design, Prototype, Playtest, and Presentation",
+    "section": "Deliverable 4: Playtest Evidence",
+    "text": "Deliverable 4: Playtest Evidence\nCarry out at least one structured playtest with two participants. You must provide evidence of:\n\na playtest session;\nplayer interaction with the game;\ngameplay in progress;\nissues, confusion points, or successes observed during play;\nfeedback gathered after the session.\n\nWhen recording, focus on the game, the board, and the gameplay rather than participants’ faces, unless explicit permission has been given.",
+    "crumbs": [
+      "Introduction",
+      "Repeat Project"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/07-repeat-project.html#deliverable-5-video-components",
+    "href": "modules/01-introduction/07-repeat-project.html#deliverable-5-video-components",
+    "title": "Tabletop Game Design, Prototype, Playtest, and Presentation",
+    "section": "Deliverable 5: Video Components",
+    "text": "Deliverable 5: Video Components\nYou must produce two short video elements or one combined edited video that covers all of the following:\n\nsummary of the game and its rules;\nexplanation of setup and starting state;\ndemonstration of basic gameplay;\nhighlights from the playtest session;\nsummary of player feedback;\nexplanation of changes made after testing;\nreflection on how the changes improved the game.\n\nA combined video should be approximately 4–7 minutes in length. If submitted as separate videos, each should be concise and clearly labelled.",
+    "crumbs": [
+      "Introduction",
+      "Repeat Project"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/07-repeat-project.html#deliverable-6-blog-post",
+    "href": "modules/01-introduction/07-repeat-project.html#deliverable-6-blog-post",
+    "title": "Tabletop Game Design, Prototype, Playtest, and Presentation",
+    "section": "Deliverable 6: Blog Post",
+    "text": "Deliverable 6: Blog Post\nPublish a blog post documenting your project. This should include:\n\nyour concept development process;\nkey design decisions;\nchallenges encountered;\nscreenshots or photos of development;\nembedded or linked video content;\nreflection on what you learned through playtesting and refinement.",
+    "crumbs": [
+      "Introduction",
+      "Repeat Project"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/07-repeat-project.html#deliverable-7-final-presentation-component",
+    "href": "modules/01-introduction/07-repeat-project.html#deliverable-7-final-presentation-component",
+    "title": "Tabletop Game Design, Prototype, Playtest, and Presentation",
+    "section": "Deliverable 7: Final Presentation Component",
+    "text": "Deliverable 7: Final Presentation Component\nPrepare and deliver a short presentation on your game. Create a 3–5 minute presentation supported by slides, a poster, or another teacher-approved visual format.\nYour presentation must include:\n\nthe game title and concept;\nintended player experience;\noverview of mechanics;\nprototype visuals;\nkey findings from playtesting;\nthe most important refinement(s) you made;\nbrief reflection on what you would improve next.\n\nThis presentation should be concise, visual, and clearly structured. It is intended to assess your ability to communicate your design process as well as the quality of the game itself.",
+    "crumbs": [
+      "Introduction",
+      "Repeat Project"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/07-repeat-project.html#constraints-and-guidance",
+    "href": "modules/01-introduction/07-repeat-project.html#constraints-and-guidance",
+    "title": "Tabletop Game Design, Prototype, Playtest, and Presentation",
+    "section": "Constraints and Guidance",
+    "text": "Constraints and Guidance\n\nThe original concept must fit within the 2 x A4 requirement.\nAdditional components are allowed and encouraged where they improve gameplay.\nMaterials should be inexpensive, available, and practical.\nRules must be clear enough for another player to understand without your help.\nThe prototype should be functional rather than decorative only.\nPlaytesting should focus on learning from players, not defending the design.\nRefinements should respond directly to observed issues or participant feedback.\nYou do not need to fully remake all components after playtesting, but your rule changes and design improvements must be clearly documented.",
+    "crumbs": [
+      "Introduction",
+      "Repeat Project"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/07-repeat-project.html#ai-usage",
+    "href": "modules/01-introduction/07-repeat-project.html#ai-usage",
+    "title": "Tabletop Game Design, Prototype, Playtest, and Presentation",
+    "section": "AI Usage",
+    "text": "AI Usage\nAll submitted work must reflect your own design thinking, decision-making, and development process.\nAcceptable use of AI tools. You may use AI tools to support:\n\nspelling and grammar checking;\nformatting assistance;\nbrainstorming prompts;\ngenerating planning questions;\nimproving clarity of your writing.\n\nUnacceptable use of AI tools. You may not use AI tools to:\n\ngenerate the full game concept for you;\nproduce all rules without your own authorship;\ninvent fake playtest results or reflections;\ngenerate blog reflections that do not match your actual process;\ncreate fabricated design evidence;\nproduce presentation scripts that you cannot explain yourself.\n\nAuthenticity requirements. To support academic integrity, you must include:\n\nat least three development checkpoints (photos, drafts, sketches, screenshots, or notes);\nevidence of progression from initial idea to prototype to refined version;\nbrief annotations on what changed at each stage;\nraw playtest notes or a feedback summary;\na short in-class or teacher check-in if requested;\nthe ability to explain and defend your own work during presentation or follow-up questioning.\n\nIf a student cannot explain submitted work, demonstrate their design decisions, or account for the development process, this may be treated as a breach of academic integrity.",
+    "crumbs": [
+      "Introduction",
+      "Repeat Project"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/07-repeat-project.html#suggested-workflow",
+    "href": "modules/01-introduction/07-repeat-project.html#suggested-workflow",
+    "title": "Tabletop Game Design, Prototype, Playtest, and Presentation",
+    "section": "Suggested Workflow",
+    "text": "Suggested Workflow\n\nDesign your initial concept within the 2 x A4 constraint.\nDraft your rules and game structure.\nCreate your first playable prototype.\nRecord a short explanation of the game.\nRun a playtest with two players.\nGather and organise feedback.\nRefine the game rules or mechanics.\nUpdate your documentation.\nPrepare your final blog post and video.\nDeliver your short presentation.",
+    "crumbs": [
+      "Introduction",
+      "Repeat Project"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/07-repeat-project.html#submission-checklist",
+    "href": "modules/01-introduction/07-repeat-project.html#submission-checklist",
+    "title": "Tabletop Game Design, Prototype, Playtest, and Presentation",
+    "section": "Submission Checklist",
+    "text": "Submission Checklist\nSubmit the following:\n\nFinal game design document (Word or PDF)\nPrototype evidence (photos and/or in-class presentation of prototype)\nPlaytest evidence\nVideo or videos\nBlog post link\nFinal presentation slides or visual aid, if required by teacher",
+    "crumbs": [
+      "Introduction",
+      "Repeat Project"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/07-repeat-project.html#integrated-marking-scheme",
+    "href": "modules/01-introduction/07-repeat-project.html#integrated-marking-scheme",
+    "title": "Tabletop Game Design, Prototype, Playtest, and Presentation",
+    "section": "Integrated Marking Scheme",
+    "text": "Integrated Marking Scheme\nYour work is assessed out of 100 marks across seven criteria. For each, a mark band from 0–40%, 40–60%, 60–80%, and 80–100% describes the quality of your work, from unclear or missing evidence at the low end to polished, insightful, and highly effective work at the top.\n\nGame Concept and Originality (15 marks): ranges from a concept that is unclear, generic, or heavily derivative, up to a concept that is highly inventive, distinctive, and immediately engaging.\nRules and Documentation Quality (15 marks): ranges from rules that are missing, unclear, or incomplete, up to rules that are precise, comprehensive, and can guide new players independently.\nBoard, Components, and Prototype Functionality (20 marks): ranges from a prototype that is missing or non-functional, up to a polished, coherent prototype with well-integrated components and strong usability.\nPlaytesting and Feedback Collection (15 marks): ranges from little or no meaningful playtest evidence, up to a thorough, well-run playtest with strong observations and high-quality feedback data.\nRefinement and Iterative Improvement (15 marks): ranges from little change, or changes unrelated to feedback, up to targeted, well-justified refinements that clearly improve gameplay and show iterative thinking.\nReflection, Blog, and Process Evidence (10 marks): ranges from reflection that is missing or superficial with little process evidence, up to insightful, honest reflection with strong evidence of development across the project.\nPresentation and Communication (10 marks): ranges from a presentation that is missing, unclear, or poorly structured, up to an engaging, polished presentation that communicates the full design journey effectively.\n\nNotes on assessment:\n\nStrong projects will show clear links between concept, prototype, playtest evidence, and final refinements.\nMarks are awarded for process as well as final product.\nAuthentic evidence of development is essential.",
+    "crumbs": [
+      "Introduction",
+      "Repeat Project"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/07-repeat-project.html#summary",
+    "href": "modules/01-introduction/07-repeat-project.html#summary",
+    "title": "Tabletop Game Design, Prototype, Playtest, and Presentation",
+    "section": "Summary",
+    "text": "Summary\nThis project takes you through a complete game design cycle: concept and design, prototype development, playtesting and feedback, refinement, and final presentation. You are required to produce seven deliverables — a game design document, a concept board within a 2 x A4 constraint, a playable prototype, playtest evidence, video components, a blog post, and a final presentation — each documenting a different stage of your design journey.\nThroughout, your work must be your own: AI tools may support editing and brainstorming, but the concept, rules, playtest evidence, and reflections must reflect your genuine process, backed by development checkpoints and the ability to explain your decisions. Success is measured not only by the quality of the finished game but by clear evidence of iterative improvement — from initial idea, through honest playtesting, to justified refinement — communicated clearly in your documentation and final presentation.",
+    "crumbs": [
+      "Introduction",
+      "Repeat Project"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/04-gym-plan.html",
+    "href": "modules/01-introduction/04-gym-plan.html",
+    "title": "Your Back-Safe Gym Plan",
+    "section": "",
+    "text": "This is a personalised gym plan built around your history, your body, and your goals — with your back always protected.\nYour profile: 56 years old · 90 kg · 180 cm · back injury in 2023 · Pilates 1×/week · active lifestyle.\nBefore you start: you broke your back in 2023 — that’s a significant injury. Please get clearance from your GP and ideally a physiotherapist before starting any gym programme. Show them this plan and ask them to flag anything that doesn’t suit your specific injury. A physio can also give you 1–2 sessions to confirm your movement patterns are safe. This plan is conservative by design, but your medical team knows your back best.",
+    "crumbs": [
+      "Introduction",
+      "Gym Plan"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/04-gym-plan.html#introduction",
+    "href": "modules/01-introduction/04-gym-plan.html#introduction",
+    "title": "Your Back-Safe Gym Plan",
+    "section": "",
+    "text": "This is a personalised gym plan built around your history, your body, and your goals — with your back always protected.\nYour profile: 56 years old · 90 kg · 180 cm · back injury in 2023 · Pilates 1×/week · active lifestyle.\nBefore you start: you broke your back in 2023 — that’s a significant injury. Please get clearance from your GP and ideally a physiotherapist before starting any gym programme. Show them this plan and ask them to flag anything that doesn’t suit your specific injury. A physio can also give you 1–2 sessions to confirm your movement patterns are safe. This plan is conservative by design, but your medical team knows your back best.",
+    "crumbs": [
+      "Introduction",
+      "Gym Plan"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/04-gym-plan.html#youre-starting-in-a-better-position-than-you-think",
+    "href": "modules/01-introduction/04-gym-plan.html#youre-starting-in-a-better-position-than-you-think",
+    "title": "Your Back-Safe Gym Plan",
+    "section": "You’re Starting in a Better Position Than You Think",
+    "text": "You’re Starting in a Better Position Than You Think\nYour advantages:\n\nPilates = great core awareness & control\nActive lifestyle = base fitness is solid\n3 years post-injury = healing well underway\n180cm height means good leverage for lifts\nMotivation to protect vs just push = smart mindset\n\nWhat we’ll avoid:\n\nHeavy barbell squats or deadlifts (early on)\nSit-ups and crunches (spinal flexion under load)\nHeavy overhead pressing\nAny exercise that causes back pain\nRushing progression — patience is strength",
+    "crumbs": [
+      "Introduction",
+      "Gym Plan"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/04-gym-plan.html#the-three-phase-plan",
+    "href": "modules/01-introduction/04-gym-plan.html#the-three-phase-plan",
+    "title": "Your Back-Safe Gym Plan",
+    "section": "The Three-Phase Plan",
+    "text": "The Three-Phase Plan\nThe programme is progressive, safe, and structured for the long game, moving through three phases: Foundation, Building, and Maintenance & Progression.\n\nPhase 1: Foundation Phase\nWeeks 1–4 · 3 sessions/week · Focus: Movement quality & core\nGoal: Master safe movement patterns, wake up dormant muscles, and build a base without touching your back. Every set is about form — leave your ego at the door.\nMonday · Session A — Lower Body + Core\n\nWarm-up walk (back safe) — 10 min on treadmill, easy pace. Gets blood moving, loosens hips.\nGlute Bridge (back safe) — 3 sets × 15 reps, bodyweight. Builds glutes that support your spine.\nLeg Press (Machine) (back safe) — 3 sets × 12 reps, light weight. Safe alternative to squats — no spinal compression.\nDead Bug (back safe) — 3 sets × 10 reps each side. Your pilates background will help here — brilliant for deep core.\nBird Dog (back safe) — 3 sets × 10 reps each side. Trains spinal stabilisers — one of the best back-protection exercises.\nLying Hip Abduction (back safe) — 2 sets × 15 reps. Strengthens hip stabilisers that protect the lower back.\n\nWednesday · Session B — Cardio + Mobility\n\nStationary Bike or Rowing Machine (back safe) — 20–25 min, easy/moderate pace. Zone 2 cardio, brilliant for cholesterol and heart health. Bike is easiest on back; rowing builds back & core too but only once pain-free.\nHip Flexor Stretch (back safe) — 2 × 45 sec each side. Tight hip flexors are a major contributor to back pain.\nCat-Cow + Thoracic Rotation (back safe) — 2 × 10 reps. Keeps your spine mobile — you’ll know these from pilates.\nStanding Calf Raises (back safe) — 3 × 20 reps. Zero spinal load, good for circulation.\n\nFriday · Session C — Upper Body + Core\n\nLat Pulldown (Machine) (back safe) — 3 × 12 reps, light-moderate weight. Builds the lats that stabilise and protect your spine.\nSeated Cable Row (back safe) — 3 × 12 reps. Keep your back upright and still — great upper back builder.\nChest Press (Machine) (back safe) — 3 × 12 reps. Machine keeps you stable — better than bench press while your back is building.\nPlank (back safe) — 3 × 20–30 sec. Keep hips level. Build slowly. Stop if back twinges.\nPallof Press (Cable) (back safe) — 2 × 10 reps each side. Anti-rotation core exercise — protects the spine brilliantly.\n\n\n\nPhase 2: Building Phase\nWeeks 5–16 · 3–4 sessions/week · Focus: Muscle & Fitness\nGoal: Progressive overload — gradually increase weight every 1–2 weeks. Introduce compound movements with care. Your core and glutes are now strong enough to protect you during bigger lifts.\nMonday · Push Day — Chest · Shoulders · Triceps\n\nIncline Dumbbell Press — 4 × 10–12. Easier on shoulders than flat bench, less lower-back arch needed.\nCable Lateral Raises — 3 × 15. Builds shoulder width, very low back stress.\nSeated Shoulder Press (Machine) — 3 × 12. Machine keeps your back supported — avoid heavy barbell overhead pressing.\nTricep Pushdown (Cable) — 3 × 15. Great arm builder, zero back stress.\nPlank Progressions (back safe) — 3 × 40–60 sec. Add side planks and plank reaches as you progress.\n\nTuesday · Cardio — Heart Health · Cholesterol\n\nZone 2 Cardio (back safe) — 30–40 min. Bike, cross-trainer or brisk walk. Zone 2 = you can hold a conversation. This is the single most effective thing for lowering LDL cholesterol and improving cardiovascular health.\n\nThursday · Pull Day — Back · Biceps · Rear Delts\n\nLat Pulldown — 4 × 10–12. Increase weight from Phase 1, wide grip for back width.\nSeated Cable Row — 4 × 10–12. Focus on squeezing shoulder blades — builds the muscular corset around your spine.\nFace Pulls (Cable) (back safe) — 3 × 15. One of the best exercises for posture and rotator cuff health — do these every session if you can.\nDumbbell Bicep Curls — 3 × 12. Seated to eliminate momentum and back strain.\nRomanian Deadlift (Light) — 3 × 10. Dumbbell version, very light. Hip hinge movement — essential for back health when done correctly. Ask a trainer to check your form first.\n\nSaturday · Leg Day — Glutes · Quads · Hamstrings\n\nHip Thrust (Barbell) (back safe) — 4 × 12. The king of glute exercises — zero spinal compression, massive benefit for back support.\nLeg Press (back safe) — 4 × 12. Increase weight progressively. Keep lower back flat against pad at all times.\nLeg Curl (Machine) — 3 × 12. Hamstrings support knee and hip — important for overall leg balance.\nGoblet Squat (Dumbbell) — 3 × 12. Light weight, controlled. Safer than barbell squat — upright torso takes load off the spine.\nCalf Raises + Core Finisher — 3 × 20 calves. Dead bugs + bird dogs to finish. Always end leg day with core work.\n\n\n\nPhase 3: Maintenance & Progression Phase\nWeek 17 onwards · For life · Keep what you’ve built\nGoal: This is the phase most people never reach — and the most important one. Keep 3–4 sessions per week, continue gradually increasing weight, and introduce variation to keep it enjoyable. At this point you can consider adding barbell squats or conventional deadlifts if your back feels consistently good — with a trainer present.\nProgression rules:\n\nAdd 2.5–5kg when you can do all reps comfortably\nEvery 8 weeks, take a deload week (reduce weight 30%)\nTry a new class or activity every 3 months\nKeep pilates — it’s what keeps your back safe\nTrack your lifts (even a notebook counts)\n\nActivities to add:\n\nSwimming — incredible for the back and fitness\nCycling (indoor or outdoor)\nWalking with poles (Nordic walking)\nYoga or mobility classes\nGolf, tennis — once back is robust",
+    "crumbs": [
+      "Introduction",
+      "Gym Plan"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/04-gym-plan.html#lowering-cholesterol",
+    "href": "modules/01-introduction/04-gym-plan.html#lowering-cholesterol",
+    "title": "Your Back-Safe Gym Plan",
+    "section": "Lowering Cholesterol",
+    "text": "Lowering Cholesterol\nExercise plus small diet tweaks make a powerful combination.\n\nZone 2 Cardio — 30–45 min, 2–3×/week at conversational pace. The most evidenced exercise for reducing LDL (“bad”) cholesterol and raising HDL (“good”) cholesterol.\nOily Fish — Salmon, mackerel, sardines 2–3×/week. Omega-3s directly lower triglycerides and raise HDL. One of the most impactful single food changes.\nOats Daily — Porridge or overnight oats for breakfast. Beta-glucan soluble fibre binds cholesterol in the gut, clinically proven to reduce LDL by 5–10%.\nHealthy Fats In — Avocado, olive oil, nuts (especially walnuts & almonds), seeds. Swap saturated fats from processed food for these.\nTalk to Your GP — If your cholesterol is high, your doctor may want to run a blood panel after 3 months of exercise and diet changes. Some people also benefit from plant sterols/stanols.\nMuscle Helps — Building muscle mass improves insulin sensitivity and lipid metabolism. The strength training in this plan directly contributes to better cholesterol over time.",
+    "crumbs": [
+      "Introduction",
+      "Gym Plan"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/04-gym-plan.html#what-to-expect-when",
+    "href": "modules/01-introduction/04-gym-plan.html#what-to-expect-when",
+    "title": "Your Back-Safe Gym Plan",
+    "section": "What to Expect & When",
+    "text": "What to Expect & When\n\nWeek 2 — You’ll feel the difference. Better energy, sleeping better, muscles feel more “switched on”. Some DOMS (muscle soreness) is normal — pain in the back or joints is a signal to stop and reassess.\nWeek 4 — Neural gains kick in. Your lifts will increase quickly at first — this is your nervous system learning, not just muscle growth. This phase feels great. Don’t let it tempt you to go too heavy too fast.\nWeek 8 — Visible changes begin. Clothes fit differently, posture is noticeably better. Core strength is improving measurably. Back should feel more supported day-to-day.\nWeek 12 — First blood test check-in. Good time to get cholesterol checked if you started high. Muscle mass building seriously underway. Fitness levels noticeably improved.\n6 Months — The big shift. Significant muscle gain, much stronger core, back pain episodes should be noticeably less frequent and less severe. The gym is now a habit, not a chore.",
+    "crumbs": [
+      "Introduction",
+      "Gym Plan"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/04-gym-plan.html#making-it-enjoyable-sustainable",
+    "href": "modules/01-introduction/04-gym-plan.html#making-it-enjoyable-sustainable",
+    "title": "Your Back-Safe Gym Plan",
+    "section": "Making It Enjoyable & Sustainable",
+    "text": "Making It Enjoyable & Sustainable\nThe best plan is the one you actually stick to.\n\nBuild a Playlist — A dedicated gym playlist that you only listen to in the gym trains your brain to associate it with getting motivated. Your reward system works for you.\nTrack Your Lifts — Nothing is more motivating than seeing the numbers go up. A simple notebook or free app (Strong, FitNotes) means you always know what to beat.\nFind a Training Buddy — Even once a week with a friend dramatically increases adherence. Also makes the session fly by and means someone can keep an eye on your form.\nSchedule It Like a Meeting — Put your three sessions in the calendar. Treat them as non-negotiable appointments. Miss one? Don’t compensate — just show up for the next one.\nSmall Wins First — In week 1, your goal is simply: show up. Add one more push-up, one more kg. Celebrate the process, not just the end goal.\nVariety Every 8 Weeks — Swap exercises for variations — swap leg press for goblet squat, swap lat pulldown grip width. Fresh enough to stay engaged, consistent enough to progress.",
+    "crumbs": [
+      "Introduction",
+      "Gym Plan"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/04-gym-plan.html#back-protection-rules-non-negotiable",
+    "href": "modules/01-introduction/04-gym-plan.html#back-protection-rules-non-negotiable",
+    "title": "Your Back-Safe Gym Plan",
+    "section": "Back Protection Rules — Non-Negotiable",
+    "text": "Back Protection Rules — Non-Negotiable\nBefore every session:\n\n5–10 min warm-up always — never skip\nCat-cow and hip circles before leg/core work\nStart lighter than you think you need to\n\nPain protocol:\n\nSoreness in muscles = fine, expected\nAny sharp or shooting back pain = stop immediately\nDull back ache during exercise = reduce weight, check form\nCheck in: how does your back feel today?\nPain that lasts more than 48hrs = see your physio\nCheck yourself in gym mirrors — they’re there to help\n\nPosture cues:\n\nNeutral spine always — not arched, not rounded\nBrace your core before every lift (gentle tension)\nHinge at hips, not the waist, for any bending\n\nRecovery:\n\n7–8 hours sleep — when muscles (and backs) repair\nProtein within an hour of training\nStretch hips and hamstrings on rest days\nKeep your pilates session — it’s part of the plan",
+    "crumbs": [
+      "Introduction",
+      "Gym Plan"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/04-gym-plan.html#summary",
+    "href": "modules/01-introduction/04-gym-plan.html#summary",
+    "title": "Your Back-Safe Gym Plan",
+    "section": "Summary",
+    "text": "Summary\nThis back-safe gym plan takes you through three progressive phases — Foundation, Building, and Maintenance — moving from careful movement quality work towards fuller strength training, while always protecting your spine. Alongside training, small diet changes (Zone 2 cardio, oily fish, oats, healthy fats) support lower cholesterol, and simple habits like tracking lifts, scheduling sessions, and finding a training buddy will help the plan stick for the long term.\nAbove all, follow the non-negotiable back protection rules: always warm up, watch for pain signals, keep a neutral spine, and prioritise recovery. This plan is general fitness guidance, not medical advice. Always consult your GP and physiotherapist before starting, especially given your back injury history, and listen to your body above all else.",
+    "crumbs": [
+      "Introduction",
+      "Gym Plan"
+    ]
+  },
+  {
+    "objectID": "week-1/03-welcome.html#design-patterns-uis-games-learning",
+    "href": "week-1/03-welcome.html#design-patterns-uis-games-learning",
+    "title": "Design Patterns: UIs, Games, Learning",
+    "section": "Design Patterns: UIs, Games, Learning",
+    "text": "Design Patterns: UIs, Games, Learning\nA survey of design patterns across user interface design, game design, and learning design.",
+    "crumbs": [
+      "Week 1",
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "week-1/03-welcome.html#topics",
+    "href": "week-1/03-welcome.html#topics",
+    "title": "Design Patterns: UIs, Games, Learning",
+    "section": "Topics",
+    "text": "Topics\n\nMotivation\nDesign Patterns in UI Design\nDesign Patterns in Game Design\nDesign Patterns in Learning\nClosing Discussions",
+    "crumbs": [
+      "Week 1",
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "week-1/03-welcome.html#motivation",
+    "href": "week-1/03-welcome.html#motivation",
+    "title": "Design Patterns: UIs, Games, Learning",
+    "section": "Motivation",
+    "text": "Motivation\n\nDecorative vector graphic introducing the design patterns topic, marking the transition from the course topics into the discussion of design as problem-solving",
+    "crumbs": [
+      "Week 1",
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "week-1/03-welcome.html#design-solutions",
+    "href": "week-1/03-welcome.html#design-solutions",
+    "title": "Design Patterns: UIs, Games, Learning",
+    "section": "Design = Solutions",
+    "text": "Design = Solutions\n\nDesign is about finding solutions\nUnfortunately, designers often reinvent solutions again and again\nThis leads to two problems:\n\nIt’s hard to know how things were done before\nIt’s hard to know why things were done a certain way\n\nThe goal is to learn how to reuse solutions",
+    "crumbs": [
+      "Week 1",
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "week-1/03-welcome.html#how-can-we-codify-design-knowledge",
+    "href": "week-1/03-welcome.html#how-can-we-codify-design-knowledge",
+    "title": "Design Patterns: UIs, Games, Learning",
+    "section": "How Can We Codify Design Knowledge?",
+    "text": "How Can We Codify Design Knowledge?\n\nAn effective and flexible design is difficult to get “right” the first time\nYet experienced designers do make good designs\nNew designers are usually overwhelmed by all the design options available\nExperienced designers evidently know something inexperienced ones don’t — what is it?",
+    "crumbs": [
+      "Week 1",
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "week-1/03-welcome.html#how-experienced-designers-solve-a-problem",
+    "href": "week-1/03-welcome.html#how-experienced-designers-solve-a-problem",
+    "title": "Design Patterns: UIs, Games, Learning",
+    "section": "How Experienced Designers Solve a Problem",
+    "text": "How Experienced Designers Solve a Problem\n\nExpert designers usually do not solve every problem from first principles\nInstead, they reuse solutions that have worked for them in the past\nWhen they find a good solution, they use it again and again\nSuch experience is part of what makes them experts\nThese experiences can be recorded as design patterns",
+    "crumbs": [
+      "Week 1",
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "week-1/03-welcome.html#excerpt-from-last-week",
+    "href": "week-1/03-welcome.html#excerpt-from-last-week",
+    "title": "Design Patterns: UIs, Games, Learning",
+    "section": "Excerpt from Last Week",
+    "text": "Excerpt from Last Week\n\n“Good artists borrow (from other artists), but great artists steal!” — Pablo Picasso\n\n\nCompelling visual design takes practice and experience — a natural part of which is study and critique of other’s work\n\n\nPortrait photograph of Pablo Picasso, illustrating the quotation about artists borrowing and stealing ideas from one another",
+    "crumbs": [
+      "Week 1",
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "week-1/03-welcome.html#novelists-use-patterns",
+    "href": "week-1/03-welcome.html#novelists-use-patterns",
+    "title": "Design Patterns: UIs, Games, Learning",
+    "section": "Novelists Use Patterns",
+    "text": "Novelists Use Patterns\n\nNovelists and playwrights rarely design their plots from scratch\nThey follow patterns like:\n\n“Tragically Flawed Hero” (Macbeth, Hamlet, etc.)\n“The Romantic Novel” (countless romance novels)\n\n\n\n\n\nIllustration related to Shakespeare’s Hamlet, used as an example of the ‘Tragically Flawed Hero’ story pattern followed by novelists and playwrights\n\n\n\n\n\nCover image representing a romance novel, illustrating the ‘Romantic Novel’ story pattern referenced alongside Hamlet as an example of narrative patterns",
+    "crumbs": [
+      "Week 1",
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "week-1/03-welcome.html#game-players-use-patterns",
+    "href": "week-1/03-welcome.html#game-players-use-patterns",
+    "title": "Design Patterns: UIs, Games, Learning",
+    "section": "Game Players Use Patterns",
+    "text": "Game Players Use Patterns\n\nChess players, Go players, and basketball players all rely on “patterns”\nExamples:\n\n1-4 offense pick-n-roll (basketball)\nA star-point Joseki (Go)\nThe Queen’s Gambit (chess)\n\n\n\n\n\nBasketball play diagram showing the 1-4 offense pick-and-roll pattern, used as an example of a recognizable, reusable strategic pattern in team sports\n\n\n\n\n\nDiagram of a star-point joseki opening pattern in the board game Go, illustrating how experienced players rely on established patterns",
+    "crumbs": [
+      "Week 1",
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "week-1/03-welcome.html#the-design-methods-hierarchy",
+    "href": "week-1/03-welcome.html#the-design-methods-hierarchy",
+    "title": "Design Patterns: UIs, Games, Learning",
+    "section": "The Design Methods Hierarchy",
+    "text": "The Design Methods Hierarchy\n\nFrom abstract to concrete, design knowledge can be organized as a hierarchy:\n\nDesign Philosophy (most abstract)\nDesign Principles\nDesign Patterns\nDesign Idioms, Specific Knowledge and Tips (most concrete)",
+    "crumbs": [
+      "Week 1",
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "week-1/03-welcome.html#design-patterns-vs.-design-guidelines",
+    "href": "week-1/03-welcome.html#design-patterns-vs.-design-guidelines",
+    "title": "Design Patterns: UIs, Games, Learning",
+    "section": "Design Patterns vs. Design Guidelines",
+    "text": "Design Patterns vs. Design Guidelines\n\nDesign guidelines can be either abstract or concrete\n\nAbstract guidelines usually do not suggest how to solve a problem\nConcrete guidelines are usually too tailored to a specific interface\n\nGuidelines usually assume absolute validity, while design patterns emphasize effectiveness in a particular context\nGuidelines are more useful for describing requirements; patterns are more useful tools for translating requirements into specific software solutions",
+    "crumbs": [
+      "Week 1",
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "week-1/03-welcome.html#patterns-vs.-idioms",
+    "href": "week-1/03-welcome.html#patterns-vs.-idioms",
+    "title": "Design Patterns: UIs, Games, Learning",
+    "section": "Patterns vs. Idioms",
+    "text": "Patterns vs. Idioms\n\nNot every design idea that uses the pattern syntax is actually a pattern\nIf an idea is too specific (e.g., programming-language specific), it is not a pattern — such specific ideas are called idioms\nSimilarly, patterns cannot be too general\nIt must be clear how the pattern should be applied in a context",
+    "crumbs": [
+      "Week 1",
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "week-1/03-welcome.html#patterns-vs.-lexiconvocabulary",
+    "href": "week-1/03-welcome.html#patterns-vs.-lexiconvocabulary",
+    "title": "Design Patterns: UIs, Games, Learning",
+    "section": "Patterns vs. Lexicon/Vocabulary",
+    "text": "Patterns vs. Lexicon/Vocabulary\n\nIf a technique appears so often in a domain that everyone knows and uses it in almost any situation, it is most likely not a pattern — it’s part of the domain’s vocabulary\nExample, in game design:\n\nPlayer\nStage\nEnemy\nGun shots",
+    "crumbs": [
+      "Week 1",
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "week-1/03-welcome.html#what-are-design-patterns",
+    "href": "week-1/03-welcome.html#what-are-design-patterns",
+    "title": "Design Patterns: UIs, Games, Learning",
+    "section": "What Are Design Patterns…",
+    "text": "What Are Design Patterns…\n\n“Patterns communicate insights into design problems, capturing the essence of the problems and their solutions in a compact form. They describe the problem in depth, the rationale for the solution, and some of the trade-offs in applying the solution.” — The Design of Sites, Van Duyne et al., 2003\n\n\n“Each pattern describes a problem which occurs over and over again in our environment, and then describes the core of the solution to that problem, in such a way that you can use this solution a million times over, without ever doing it the same way twice.” — A Pattern Language, Alexander et al., 1977\n\n\n“A pattern is the abstraction from a concrete form which keeps recurring in specific non-arbitrary contexts.” — Dirk Riehle and Heinz Zullighoven, Understanding and Using Patterns in Software Development",
+    "crumbs": [
+      "Week 1",
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "week-1/03-welcome.html#design-patterns-a-brief-history",
+    "href": "week-1/03-welcome.html#design-patterns-a-brief-history",
+    "title": "Design Patterns: UIs, Games, Learning",
+    "section": "Design Patterns: A Brief History",
+    "text": "Design Patterns: A Brief History\n\nA (very) brief history of design patterns…",
+    "crumbs": [
+      "Week 1",
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "week-1/03-welcome.html#christopher-alexander",
+    "href": "week-1/03-welcome.html#christopher-alexander",
+    "title": "Design Patterns: UIs, Games, Learning",
+    "section": "Christopher Alexander",
+    "text": "Christopher Alexander\n\nPatterns for Architecture:\n\nThe Timeless Way of Building\nA Pattern Language\nThe Oregon Experiment\n\nOrganized around towns, buildings, and construction\nStructured as levels, a network, and a language\n\n\n\n\nCover of ‘A Pattern Language: Towns, Buildings, Construction’ by Christopher Alexander, Sara Ishikawa and Murray Silverstein — the foundational text that introduced pattern languages for architecture\n\n\n\n\n\nCover of ‘The Timeless Way of Building’ by Christopher Alexander, the companion volume describing the philosophy behind pattern languages",
+    "crumbs": [
+      "Week 1",
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "week-1/03-welcome.html#christopher-alexander-cont.",
+    "href": "week-1/03-welcome.html#christopher-alexander-cont.",
+    "title": "Design Patterns: UIs, Games, Learning",
+    "section": "Christopher Alexander (cont.)",
+    "text": "Christopher Alexander (cont.)\nPattern 115: Courtyards Which Live\n\nThe courtyards built in modern buildings are often dead — intended as private open spaces but ending up unused\nThree ways these courtyards fail:\n\nToo little ambiguity between indoors and outdoors\nNot enough doors into the courtyard\nToo enclosed\n\nTherefore: Place every courtyard so there is a view out to a larger open space; place doors so natural paths cross the courtyard; add a roofed veranda or porch continuous with both the inside and the courtyard\n\n\nPhotograph of an interior courtyard with columns, arches and potted plants, illustrating Alexander’s pattern for courtyards that successfully connect indoor and outdoor space",
+    "crumbs": [
+      "Week 1",
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "week-1/03-welcome.html#the-nature-of-design-patterns",
+    "href": "week-1/03-welcome.html#the-nature-of-design-patterns",
+    "title": "Design Patterns: UIs, Games, Learning",
+    "section": "The Nature of Design Patterns",
+    "text": "The Nature of Design Patterns\n\nNot too general and not too specific\nUse a solution “a million times over, without ever doing it the same way twice”\nDesign patterns are a shared language for “building and planning towns, neighborhoods, houses, gardens, & rooms”\nExample: a beer hall\n\nIs part of a center for public life\nNeeds spaces for groups to be alone — ALCOVES",
+    "crumbs": [
+      "Week 1",
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "week-1/03-welcome.html#pattern-format",
+    "href": "week-1/03-welcome.html#pattern-format",
+    "title": "Design Patterns: UIs, Games, Learning",
+    "section": "Pattern Format",
+    "text": "Pattern Format\n\nPattern Name\nContext\nForces\nProblem Statement\nSolution\nSolution Sketch\nOther Patterns to Consider",
+    "crumbs": [
+      "Week 1",
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "week-1/03-welcome.html#example---alcoves",
+    "href": "week-1/03-welcome.html#example---alcoves",
+    "title": "Design Patterns: UIs, Games, Learning",
+    "section": "Example - Alcoves",
+    "text": "Example - Alcoves\n\nPattern Title: Alcoves\nContext: Collaborative and common areas in buildings\nForces: Open spaces are inviting, but people want a sense of enclosure for private discussions\nProblem Statement: Create a space that invites collaboration but also supports private discussion",
+    "crumbs": [
+      "Week 1",
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "week-1/03-welcome.html#example---alcoves-solution",
+    "href": "week-1/03-welcome.html#example---alcoves-solution",
+    "title": "Design Patterns: UIs, Games, Learning",
+    "section": "Example - Alcoves (Solution)",
+    "text": "Example - Alcoves (Solution)\n\nSolution: Make small places at the edge of any common room, usually no more than 6 feet wide and 3 to 6 feet deep, large enough for two people to sit, chat, or play, and sometimes large enough for a desk or table\n\n\nIllustration of the Alcoves pattern text alongside a sketch showing small alcove spaces branching off a central common room, demonstrating the solution in both words and diagram form",
+    "crumbs": [
+      "Week 1",
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "week-1/03-welcome.html#many-patterns-form-a-pattern-language",
+    "href": "week-1/03-welcome.html#many-patterns-form-a-pattern-language",
+    "title": "Design Patterns: UIs, Games, Learning",
+    "section": "Many Patterns Form a Pattern Language",
+    "text": "Many Patterns Form a Pattern Language\n\nPatterns within a domain should be organized into a logical, naturally intuitive structure\nEach pattern should indicate its relationship to other patterns and to the pattern language as a whole\nA pattern language:\n\nNotices and names common problems in a field of interest\nDescribes key characteristics of effective solutions for a stated goal\nHelps the designer move from problem to problem in a logical way\nAllows for many different paths through the design process",
+    "crumbs": [
+      "Week 1",
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "week-1/03-welcome.html#pattern-languages",
+    "href": "week-1/03-welcome.html#pattern-languages",
+    "title": "Design Patterns: UIs, Games, Learning",
+    "section": "Pattern Languages",
+    "text": "Pattern Languages\n\nAlexander emphasized the importance of pattern languages — more than just collections of patterns\nLanguages are sets of patterns that fill out a design space, chosen to complement each other\nThe forces described in each pattern may explain its relations with other patterns",
+    "crumbs": [
+      "Week 1",
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "week-1/03-welcome.html#a-pattern-language-for-interactive-exhibits",
+    "href": "week-1/03-welcome.html#a-pattern-language-for-interactive-exhibits",
+    "title": "Design Patterns: UIs, Games, Learning",
+    "section": "A Pattern Language for Interactive Exhibits",
+    "text": "A Pattern Language for Interactive Exhibits\n\nFrom [Borchers 2001]\n\n\nTree diagram of a pattern language for interactive exhibits, showing how high-level goals such as Attract Visitor, Engage Visitor and Deliver Message branch into specific patterns like Sparse Layout, Script Font, Incremental Revealing and Closed Loop",
+    "crumbs": [
+      "Week 1",
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "week-1/03-welcome.html#discussion",
+    "href": "week-1/03-welcome.html#discussion",
+    "title": "Design Patterns: UIs, Games, Learning",
+    "section": "Discussion",
+    "text": "Discussion\n\nWhat’s the difference between design patterns and some experts’ tips in design?\nWhy is context required in documenting a pattern?\nCan design patterns replace hands-on practice in design?",
+    "crumbs": [
+      "Week 1",
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "week-1/03-welcome.html#from-architecture-to-computer-science",
+    "href": "week-1/03-welcome.html#from-architecture-to-computer-science",
+    "title": "Design Patterns: UIs, Games, Learning",
+    "section": "From Architecture to Computer Science",
+    "text": "From Architecture to Computer Science\n\nIn the early 90s, Gamma et al. borrowed the idea from architecture and used it in software engineering\nPurpose: to communicate object-oriented software design problems and solutions\n\n\nCover of ‘Design Patterns: Elements of Reusable Object-Oriented Software’ by Gamma, Helm, Johnson and Vlissides — the influential book that brought Alexander’s pattern-language idea into software engineering",
+    "crumbs": [
+      "Week 1",
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "week-1/03-welcome.html#patterns-in-hciui-design",
+    "href": "week-1/03-welcome.html#patterns-in-hciui-design",
+    "title": "Design Patterns: UIs, Games, Learning",
+    "section": "Patterns in HCI/UI Design",
+    "text": "Patterns in HCI/UI Design\n\nKey references for interaction design patterns:\n\n[Borchers 2001]\n[Tidwell 2005]\n[Duyne et al. 2002]\nhttp://www.hcipatterns.org/\nhttp://www.visi.com/~snowfall/InteractionPatterns.html\n\n\n\n\n\nCover of ‘Designing Interfaces: Patterns for Effective Interaction Design’ by Jenifer Tidwell, a widely used catalogue of interaction design patterns\n\n\n\n\n\nCover of ‘A Pattern Approach to Interaction Design’ by Jan Borchers, one of the early works applying pattern languages to interactive systems\n\n\n\n\n\nCover of a further interaction design patterns reference cited alongside Tidwell’s and Borchers’ books, part of the literature collected at resources such as hcipatterns.org",
+    "crumbs": [
+      "Week 1",
+      "Welcome"
     ]
   },
   {
