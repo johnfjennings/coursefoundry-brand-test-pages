@@ -330,6 +330,576 @@
     ]
   },
   {
+    "objectID": "week13/03-gamedesignpatterns.html#topics",
+    "href": "week13/03-gamedesignpatterns.html#topics",
+    "title": "Design Patterns: UIs, Games, Learning",
+    "section": "Topics",
+    "text": "Topics\n\nMotivation\nDesign Patterns in UI Design\nDesign Patterns in Game Design\nDesign Patterns in Learning\nClosing Discussions",
+    "crumbs": [
+      "Week13",
+      "Gamedesignpatterns"
+    ]
+  },
+  {
+    "objectID": "week13/03-gamedesignpatterns.html#design-solutions",
+    "href": "week13/03-gamedesignpatterns.html#design-solutions",
+    "title": "Design Patterns: UIs, Games, Learning",
+    "section": "Design = Solutions",
+    "text": "Design = Solutions\n\nDesign is about finding solutions.\nUnfortunately, designers often reinvent solutions to problems that have already been solved.\nThis happens because it is hard to know:\n\nHow things were done before.\nWhy things were done a certain way.\nHow to reuse existing solutions.",
+    "crumbs": [
+      "Week13",
+      "Gamedesignpatterns"
+    ]
+  },
+  {
+    "objectID": "week13/03-gamedesignpatterns.html#how-can-we-codify-design-knowledge",
+    "href": "week13/03-gamedesignpatterns.html#how-can-we-codify-design-knowledge",
+    "title": "Design Patterns: UIs, Games, Learning",
+    "section": "How Can We Codify Design Knowledge?",
+    "text": "How Can We Codify Design Knowledge?\n\nAn effective and flexible design is difficult to get “right” the first time.\nYet experienced designers do make good designs.\nNew designers are usually overwhelmed by all the design options available.\nExperienced designers evidently know something inexperienced ones don’t — what is it?",
+    "crumbs": [
+      "Week13",
+      "Gamedesignpatterns"
+    ]
+  },
+  {
+    "objectID": "week13/03-gamedesignpatterns.html#how-experienced-designers-solve-a-problem",
+    "href": "week13/03-gamedesignpatterns.html#how-experienced-designers-solve-a-problem",
+    "title": "Design Patterns: UIs, Games, Learning",
+    "section": "How Experienced Designers Solve a Problem",
+    "text": "How Experienced Designers Solve a Problem\n\nExpert designers usually do not solve every problem from first principles — they reuse solutions that have worked for them in the past.\nWhen they find a good solution, they use it again and again.\nSuch experience is part of what makes them experts.\nThese experiences can be recorded as design patterns.",
+    "crumbs": [
+      "Week13",
+      "Gamedesignpatterns"
+    ]
+  },
+  {
+    "objectID": "week13/03-gamedesignpatterns.html#excerpt-from-last-week",
+    "href": "week13/03-gamedesignpatterns.html#excerpt-from-last-week",
+    "title": "Design Patterns: UIs, Games, Learning",
+    "section": "Excerpt from Last Week",
+    "text": "Excerpt from Last Week\n\n“Good artists borrow (from other artists), but great artists steal!” — Pablo Picasso\nCompelling visual design takes practice and experience — a natural part of which is study and critique of others’ work.\n\n\nBlack-and-white portrait photograph of Pablo Picasso wearing a flat cap, used to introduce the quote about artists borrowing and stealing ideas",
+    "crumbs": [
+      "Week13",
+      "Gamedesignpatterns"
+    ]
+  },
+  {
+    "objectID": "week13/03-gamedesignpatterns.html#novelists-use-patterns",
+    "href": "week13/03-gamedesignpatterns.html#novelists-use-patterns",
+    "title": "Design Patterns: UIs, Games, Learning",
+    "section": "Novelists Use Patterns",
+    "text": "Novelists Use Patterns\n\nNovelists and playwrights rarely design their plots from scratch.\nThey follow patterns like “Tragically Flawed Hero” (Macbeth, Hamlet, etc.) or “The Romantic Novel” (countless romance novels).\n\n\nIllustration referenced in the source alongside the discussion of narrative patterns such as the Tragically Flawed Hero and the Romantic Novel (files named “hamlet-gill1” and “soustitre” in the original slide)",
+    "crumbs": [
+      "Week13",
+      "Gamedesignpatterns"
+    ]
+  },
+  {
+    "objectID": "week13/03-gamedesignpatterns.html#game-players-use-patterns",
+    "href": "week13/03-gamedesignpatterns.html#game-players-use-patterns",
+    "title": "Design Patterns: UIs, Games, Learning",
+    "section": "Game Players Use Patterns",
+    "text": "Game Players Use Patterns\n\nChess players, Go players, and basketball players all rely on “patterns.”\nExamples given in the source: the 1-4 offense pick-and-roll (basketball), a star-point joseki (Go), and the Queen’s Gambit (chess).\n\n\n\n\nDiagram referenced in the source illustrating a recurring game strategy — the basketball pick-and-roll play described in the original slide as “14HPPickRolla”\n\n\n\n\n\nImage referenced in the source alongside the Go joseki example (“300px-Joseki1”), illustrating a recurring opening pattern used by Go players",
+    "crumbs": [
+      "Week13",
+      "Gamedesignpatterns"
+    ]
+  },
+  {
+    "objectID": "week13/03-gamedesignpatterns.html#the-design-methods-hierarchy",
+    "href": "week13/03-gamedesignpatterns.html#the-design-methods-hierarchy",
+    "title": "Design Patterns: UIs, Games, Learning",
+    "section": "The Design Methods Hierarchy",
+    "text": "The Design Methods Hierarchy\nDesign knowledge can be organised from abstract to concrete:\n\nDesign Philosophy (most abstract)\nDesign Principles\nDesign Patterns\nDesign Idioms, Specific Knowledge and Tips (most concrete)",
+    "crumbs": [
+      "Week13",
+      "Gamedesignpatterns"
+    ]
+  },
+  {
+    "objectID": "week13/03-gamedesignpatterns.html#design-patterns-vs.-design-guidelines",
+    "href": "week13/03-gamedesignpatterns.html#design-patterns-vs.-design-guidelines",
+    "title": "Design Patterns: UIs, Games, Learning",
+    "section": "Design Patterns vs. Design Guidelines",
+    "text": "Design Patterns vs. Design Guidelines\n\nDesign guidelines can be either abstract or concrete.\nAbstract guidelines usually do not suggest how to solve a problem.\nConcrete guidelines are usually too tailored to a specific interface.\nGuidelines assume absolute validity, while design patterns emphasize effectiveness in a particular context.\nGuidelines are more useful for describing requirements; patterns are useful tools for translating requirements into specific software solutions.",
+    "crumbs": [
+      "Week13",
+      "Gamedesignpatterns"
+    ]
+  },
+  {
+    "objectID": "week13/03-gamedesignpatterns.html#patterns-vs.-idioms",
+    "href": "week13/03-gamedesignpatterns.html#patterns-vs.-idioms",
+    "title": "Design Patterns: UIs, Games, Learning",
+    "section": "Patterns vs. Idioms",
+    "text": "Patterns vs. Idioms\n\nNot every design idea that uses the pattern syntax is a pattern.\nIf an idea is too specific (e.g. programming-language specific), it is not a pattern — such specific ideas are called idioms.\nPatterns also cannot be too general.\nIt must be clear how the pattern should be applied in a context.",
+    "crumbs": [
+      "Week13",
+      "Gamedesignpatterns"
+    ]
+  },
+  {
+    "objectID": "week13/03-gamedesignpatterns.html#patterns-vs.-lexiconvocabulary",
+    "href": "week13/03-gamedesignpatterns.html#patterns-vs.-lexiconvocabulary",
+    "title": "Design Patterns: UIs, Games, Learning",
+    "section": "Patterns vs. Lexicon/Vocabulary",
+    "text": "Patterns vs. Lexicon/Vocabulary\n\nIf a technique appears so often in a domain that everyone knows and uses it in almost any situation, it is most likely not a pattern.\nExample, in game design: Player, Stage, Enemy, Gun shots — these are vocabulary, not patterns.",
+    "crumbs": [
+      "Week13",
+      "Gamedesignpatterns"
+    ]
+  },
+  {
+    "objectID": "week13/03-gamedesignpatterns.html#what-are-design-patterns",
+    "href": "week13/03-gamedesignpatterns.html#what-are-design-patterns",
+    "title": "Design Patterns: UIs, Games, Learning",
+    "section": "What Are Design Patterns…",
+    "text": "What Are Design Patterns…\n\n“Patterns communicate insights into design problems, capturing the essence of the problems and their solutions in a compact form. They describe the problem in depth, the rationale for the solution, and some of the trade-offs in applying the solution.” — The Design of Sites, Van Duyne et al. 2003\n“Each pattern describes a problem which occurs over and over again in our environment, and then describes the core of the solution to that problem, in such a way that you can use this solution a million times over, without ever doing it the same way twice.” — A Pattern Language, Alexander et al. 1977\n“A pattern is the abstraction from a concrete form which keeps recurring in specific non-arbitrary contexts.” — Riehle and Zullighoven, Understanding and Using Patterns in Software Development",
+    "crumbs": [
+      "Week13",
+      "Gamedesignpatterns"
+    ]
+  },
+  {
+    "objectID": "week13/03-gamedesignpatterns.html#design-patterns-a-brief-history",
+    "href": "week13/03-gamedesignpatterns.html#design-patterns-a-brief-history",
+    "title": "Design Patterns: UIs, Games, Learning",
+    "section": "Design Patterns: A Brief History",
+    "text": "Design Patterns: A Brief History\nA short look back at where design patterns come from.",
+    "crumbs": [
+      "Week13",
+      "Gamedesignpatterns"
+    ]
+  },
+  {
+    "objectID": "week13/03-gamedesignpatterns.html#christopher-alexander",
+    "href": "week13/03-gamedesignpatterns.html#christopher-alexander",
+    "title": "Design Patterns: UIs, Games, Learning",
+    "section": "Christopher Alexander",
+    "text": "Christopher Alexander\nPatterns for Architecture:\n\nThe Timeless Way of Building\nA Pattern Language\nThe Oregon Experiment\n\nOrganised across levels: Towns, buildings, construction → Network → A language.\n\n\n\nBook cover of “A Pattern Language” by Christopher Alexander, one of the foundational texts introducing design patterns for architecture\n\n\n\n\n\nBook cover of “The Timeless Way of Building” by Christopher Alexander, the companion volume describing the philosophy behind pattern languages",
+    "crumbs": [
+      "Week13",
+      "Gamedesignpatterns"
+    ]
+  },
+  {
+    "objectID": "week13/03-gamedesignpatterns.html#christopher-alexander-pattern-115-courtyards-which-live",
+    "href": "week13/03-gamedesignpatterns.html#christopher-alexander-pattern-115-courtyards-which-live",
+    "title": "Design Patterns: UIs, Games, Learning",
+    "section": "Christopher Alexander: Pattern 115 — Courtyards Which Live",
+    "text": "Christopher Alexander: Pattern 115 — Courtyards Which Live\n\nCourtyards built in modern buildings are often “dead” — intended as private open spaces, but ending up unused.\nThree ways courtyards fail:\n\nToo little ambiguity between indoors and outdoors.\nNot enough doors into the courtyard.\nToo enclosed.\n\nTherefore: place every courtyard so there is a view out to a larger open space; add at least two or three doors opening into it along natural paths; and add a roofed veranda or porch continuous with both the inside and the courtyard, following the ARCADE, GALLERY SURROUND, and SIX-FOOT BALCONY patterns.\nSource: A Pattern Language, Alexander et al., 1977.\n\n\nPhotograph of a plant-filled courtyard with tiled arcades and columns, illustrating Alexander’s Pattern 115 “Courtyards Which Live”",
+    "crumbs": [
+      "Week13",
+      "Gamedesignpatterns"
+    ]
+  },
+  {
+    "objectID": "week13/03-gamedesignpatterns.html#the-nature-of-design-patterns",
+    "href": "week13/03-gamedesignpatterns.html#the-nature-of-design-patterns",
+    "title": "Design Patterns: UIs, Games, Learning",
+    "section": "The Nature of Design Patterns",
+    "text": "The Nature of Design Patterns\n\nNot too general and not too specific.\nUse a solution “a million times over, without ever doing it the same way twice.”\nDesign patterns are a shared language for “building and planning towns, neighborhoods, houses, gardens, & rooms.”\nExample: a beer hall is part of a center for public life, and needs spaces for groups to be alone — the ALCOVES pattern.",
+    "crumbs": [
+      "Week13",
+      "Gamedesignpatterns"
+    ]
+  },
+  {
+    "objectID": "week13/03-gamedesignpatterns.html#pattern-format",
+    "href": "week13/03-gamedesignpatterns.html#pattern-format",
+    "title": "Design Patterns: UIs, Games, Learning",
+    "section": "Pattern Format",
+    "text": "Pattern Format\nA pattern is typically documented with:\n\nPattern Name\nContext\nForces\nProblem Statement\nSolution\nSolution Sketch\nOther Patterns to Consider",
+    "crumbs": [
+      "Week13",
+      "Gamedesignpatterns"
+    ]
+  },
+  {
+    "objectID": "week13/03-gamedesignpatterns.html#example-alcoves",
+    "href": "week13/03-gamedesignpatterns.html#example-alcoves",
+    "title": "Design Patterns: UIs, Games, Learning",
+    "section": "Example – Alcoves",
+    "text": "Example – Alcoves\n\nPattern Title: Alcoves\nContext: Collaborative and common areas in buildings.\nForces: Open spaces are inviting, but people want a sense of enclosure for private discussions.\nProblem Statement: Create a space that invites collaboration but also supports private discussion.",
+    "crumbs": [
+      "Week13",
+      "Gamedesignpatterns"
+    ]
+  },
+  {
+    "objectID": "week13/03-gamedesignpatterns.html#example-alcoves-solution",
+    "href": "week13/03-gamedesignpatterns.html#example-alcoves-solution",
+    "title": "Design Patterns: UIs, Games, Learning",
+    "section": "Example – Alcoves: Solution",
+    "text": "Example – Alcoves: Solution\n“Make small places at the edge of any common room, usually no more than 6 feet wide and 3 to 6 feet deep and possibly much smaller. These alcoves should be large enough for two people to sit, chat, or play and sometimes large enough to contain a desk or a table.”\n\nPage excerpt showing the Alcove pattern’s solution text alongside a sketch of a puzzle-piece-shaped room with small alcove extensions labelled “alcoves”",
+    "crumbs": [
+      "Week13",
+      "Gamedesignpatterns"
+    ]
+  },
+  {
+    "objectID": "week13/03-gamedesignpatterns.html#many-patterns-form-a-pattern-language",
+    "href": "week13/03-gamedesignpatterns.html#many-patterns-form-a-pattern-language",
+    "title": "Design Patterns: UIs, Games, Learning",
+    "section": "Many Patterns Form a Pattern Language",
+    "text": "Many Patterns Form a Pattern Language\n\nThe patterns within a domain should be organised into a logical or naturally intuitive structure.\nEach pattern should indicate its relationship to other patterns and to the pattern language as a whole.\nA pattern language helps by:\n\nNoticing and naming common problems in a field of interest.\nDescribing key characteristics of effective solutions for a stated goal.\nHelping the designer move from problem to problem in a logical way.\nAllowing for many different paths through the design process.",
+    "crumbs": [
+      "Week13",
+      "Gamedesignpatterns"
+    ]
+  },
+  {
+    "objectID": "week13/03-gamedesignpatterns.html#pattern-languages",
+    "href": "week13/03-gamedesignpatterns.html#pattern-languages",
+    "title": "Design Patterns: UIs, Games, Learning",
+    "section": "Pattern Languages",
+    "text": "Pattern Languages\n\nAlexander emphasized the importance of pattern languages — more than just collections of patterns.\nLanguages are sets of patterns that fill out a design space and are chosen to complement each other.\nForces in each pattern may explain its relations with other patterns.",
+    "crumbs": [
+      "Week13",
+      "Gamedesignpatterns"
+    ]
+  },
+  {
+    "objectID": "week13/03-gamedesignpatterns.html#a-pattern-language-for-interactive-exhibits",
+    "href": "week13/03-gamedesignpatterns.html#a-pattern-language-for-interactive-exhibits",
+    "title": "Design Patterns: UIs, Games, Learning",
+    "section": "A Pattern Language for Interactive Exhibits",
+    "text": "A Pattern Language for Interactive Exhibits\nSource: [Borchers 2001]\n\nTree diagram showing a pattern language for interactive exhibits, branching from “Interactive Exhibit” into Attract Visitor, Engage Visitor, and Deliver Message, and connecting to patterns such as Simple Impression, Innovative Appearance, Universal Access, Incremental Revealing, and Closed Loop",
+    "crumbs": [
+      "Week13",
+      "Gamedesignpatterns"
+    ]
+  },
+  {
+    "objectID": "week13/03-gamedesignpatterns.html#discussion",
+    "href": "week13/03-gamedesignpatterns.html#discussion",
+    "title": "Design Patterns: UIs, Games, Learning",
+    "section": "Discussion",
+    "text": "Discussion\n\nWhat’s the difference between design patterns and some experts’ tips in design?\nWhy is context required in documenting a pattern?\nCan design patterns replace hands-on practice in design?",
+    "crumbs": [
+      "Week13",
+      "Gamedesignpatterns"
+    ]
+  },
+  {
+    "objectID": "week13/03-gamedesignpatterns.html#from-architecture-to-computer-science",
+    "href": "week13/03-gamedesignpatterns.html#from-architecture-to-computer-science",
+    "title": "Design Patterns: UIs, Games, Learning",
+    "section": "From Architecture to Computer Science",
+    "text": "From Architecture to Computer Science\n\nIn the early 1990s, Gamma et al. borrowed the idea from architecture and used it in software engineering.\nPurpose: communicate object-oriented software design problems and solutions.\n\n\nCover of “Design Patterns: Elements of Reusable Object-Oriented Software” by Gamma, Helm, Johnson and Vlissides, the influential book that brought the pattern concept into software engineering",
+    "crumbs": [
+      "Week13",
+      "Gamedesignpatterns"
+    ]
+  },
+  {
+    "objectID": "week13/03-gamedesignpatterns.html#patterns-in-hciui-design",
+    "href": "week13/03-gamedesignpatterns.html#patterns-in-hciui-design",
+    "title": "Design Patterns: UIs, Games, Learning",
+    "section": "Patterns in HCI/UI Design",
+    "text": "Patterns in HCI/UI Design\nKey sources: [Borchers 2001], [Tidwell 2005], [Duyne et al. 2002], and community sites such as hcipatterns.org and InteractionPatterns.html.\n\n\n\nBook cover of “Designing Interfaces” by Jenifer Tidwell, a widely used catalogue of interaction design patterns\n\n\n![Book cover of “A Pattern Appro\n\n\n\nImage17\n\n\n\n\n\nImage21\n\n\n\n\n\nImage22\n\n\n\n\n\nImage23",
+    "crumbs": [
+      "Week13",
+      "Gamedesignpatterns"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/02-slides2.html#welcome",
+    "href": "modules/01-introduction/02-slides2.html#welcome",
+    "title": "Course Kickoff",
+    "section": "Welcome!",
+    "text": "Welcome!\n\nA quick tour of what we’ll cover\nHow the course is structured\nWhat you’ll be able to do by the end",
+    "crumbs": [
+      "Introduction",
+      "Slides2"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/02-slides2.html#about-this-course",
+    "href": "modules/01-introduction/02-slides2.html#about-this-course",
+    "title": "Course Kickoff",
+    "section": "About This Course",
+    "text": "About This Course\nBrand Test is designed to take you from foundational concepts to practical application.\n\n\n\n\n\n\nNote\n\n\nNo prior experience required — we’ll build up together, step by step.",
+    "crumbs": [
+      "Introduction",
+      "Slides2"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/02-slides2.html#learning-outcomes",
+    "href": "modules/01-introduction/02-slides2.html#learning-outcomes",
+    "title": "Course Kickoff",
+    "section": "Learning Outcomes",
+    "text": "Learning Outcomes\nBy the end of this course, you will be able to:\n\nUnderstand the core concepts introduced in this course\nApply those concepts to realistic scenarios\nEvaluate outcomes and make informed decisions",
+    "crumbs": [
+      "Introduction",
+      "Slides2"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/02-slides2.html#how-this-course-works",
+    "href": "modules/01-introduction/02-slides2.html#how-this-course-works",
+    "title": "Course Kickoff",
+    "section": "How This Course Works",
+    "text": "How This Course Works\n\n📖 Short lessons introduce key ideas\n🛠️ Activities let you practice\n✅ Checks for understanding along the way",
+    "crumbs": [
+      "Introduction",
+      "Slides2"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/02-slides2.html#module-roadmap",
+    "href": "modules/01-introduction/02-slides2.html#module-roadmap",
+    "title": "Course Kickoff",
+    "section": "Module Roadmap",
+    "text": "Module Roadmap\n\n\n\nModule\nFocus\n\n\n\n\n1. Introduction\nOrientation & foundations\n\n\n2. Core Concepts\nComing soon\n\n\n3. Application\nComing soon",
+    "crumbs": [
+      "Introduction",
+      "Slides2"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/02-slides2.html#a-quick-example",
+    "href": "modules/01-introduction/02-slides2.html#a-quick-example",
+    "title": "Course Kickoff",
+    "section": "A Quick Example",
+    "text": "A Quick Example\n\n\n\n\n\n\nTry it yourself\n\n\nAs you go through each lesson, pause and ask: “How would I explain this to a friend?”",
+    "crumbs": [
+      "Introduction",
+      "Slides2"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/02-slides2.html#b",
+    "href": "modules/01-introduction/02-slides2.html#b",
+    "title": "Course Kickoff",
+    "section": "b",
+    "text": "b",
+    "crumbs": [
+      "Introduction",
+      "Slides2"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/02-slides2.html#lets-get-started",
+    "href": "modules/01-introduction/02-slides2.html#lets-get-started",
+    "title": "Course Kickoff",
+    "section": "Let’s Get Started",
+    "text": "Let’s Get Started\n\nHead back to the course landing page\nBegin with Lesson 1: Welcome\nReach out with questions anytime\n\nThank you! 🎉",
+    "crumbs": [
+      "Introduction",
+      "Slides2"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/02-slides2.html#the-world-of-bees",
+    "href": "modules/01-introduction/02-slides2.html#the-world-of-bees",
+    "title": "Course Kickoff",
+    "section": "The World of Bees",
+    "text": "The World of Bees\n\nBees are flying insects closely related to wasps and ants\nFound on every continent except Antarctica\nPlay a vital role in pollinating flowers, crops, and wild plants\n\n\n\n\n\n\n\nDid you know?\n\n\nA single bee colony can pollinate hundreds of millions of flowers over its lifetime.",
+    "crumbs": [
+      "Introduction",
+      "Slides2"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/02-slides2.html#bee-colonies",
+    "href": "modules/01-introduction/02-slides2.html#bee-colonies",
+    "title": "Course Kickoff",
+    "section": "Bee Colonies",
+    "text": "Bee Colonies\n\nA colony can hold tens of thousands of bees working toward one shared goal\nThree castes divide the labor: queen, workers, and drones\nThe queen is the colony’s sole egg-layer, often living for several years\nWorker bees handle nearly everything else: foraging, building, cleaning, and defending\n\n\n\n\n\n\n\nDid you know?\n\n\nA single colony can visit millions of flowers in one day.",
+    "crumbs": [
+      "Introduction",
+      "Slides2"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/03-welcome.html",
+    "href": "modules/01-introduction/03-welcome.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "Start writing your first lesson here. Use Markdown syntax to format your content.\n\n\n\nKey concept one\nKey concept two\nKey concept three\n\n\n\n\nReplace this content with your lesson material.",
+    "crumbs": [
+      "Introduction",
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/03-welcome.html#introduction",
+    "href": "modules/01-introduction/03-welcome.html#introduction",
+    "title": "Welcome",
+    "section": "",
+    "text": "Start writing your first lesson here. Use Markdown syntax to format your content.\n\n\n\nKey concept one\nKey concept two\nKey concept three\n\n\n\n\nReplace this content with your lesson material.",
+    "crumbs": [
+      "Introduction",
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/01-slides.html#section-title",
+    "href": "modules/01-introduction/01-slides.html#section-title",
+    "title": "Course Kickoff",
+    "section": "Section title",
+    "text": "Section title\nSubtitle or context linebbnmbnmbmbnmmmgmmgmgmghm ## Welcome! {background-image=“https://odvtslzlamhvkuthtsnx.supabase.co/storage/v1/object/public/course-assets/40a9cb3d-a7cc-42f0-a3e2-e06827fc61c6/images/151711-apps-feature-high-res-zoom-backgrounds-image1-9smf2lhgqa.jpg” transition=“zoom”}\n\n\n\nA quick tour of what we’ll cover\nHow the course is structured\nWhat you’ll be able to do by the end\n\n\ndfdf",
+    "crumbs": [
+      "Introduction",
+      "Slides"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/01-slides.html#slide",
+    "href": "modules/01-introduction/01-slides.html#slide",
+    "title": "Course Kickoff",
+    "section": "Slide",
+    "text": "Slide\n\n\n\n\n\n\nDescribe the image",
+    "crumbs": [
+      "Introduction",
+      "Slides"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/01-slides.html#section-title-1",
+    "href": "modules/01-introduction/01-slides.html#section-title-1",
+    "title": "Course Kickoff",
+    "section": "Section title",
+    "text": "Section title\nSubtitle or context line ## Two columns\n\n\nLeft column content\n\nRight column content",
+    "crumbs": [
+      "Introduction",
+      "Slides"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/01-slides.html#image-and-text",
+    "href": "modules/01-introduction/01-slides.html#image-and-text",
+    "title": "Course Kickoff",
+    "section": "Image and text",
+    "text": "Image and text\n\n\n\n\n\n\nDescribe the image\n\n\n\n\n\n\n\nDescribe the image\n\n\n\n\n\n\nDescribe the image\n\n\nText alongside the image",
+    "crumbs": [
+      "Introduction",
+      "Slides"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/01-slides.html#quote",
+    "href": "modules/01-introduction/01-slides.html#quote",
+    "title": "Course Kickoff",
+    "section": "Quote",
+    "text": "Quote\n\nThe quotation goes here.\n— Attribution ## Slide\n\n\n\n\n\n\n\n\nPlaceholder slide - fill in with content or delete if not needed before presenting.",
+    "crumbs": [
+      "Introduction",
+      "Slides"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/01-slides.html#about-this-course",
+    "href": "modules/01-introduction/01-slides.html#about-this-course",
+    "title": "Course Kickoff",
+    "section": "About This Course",
+    "text": "About This Course\nBrand Test is designed to take you from foundational concepts to practical application.\n\n\n\n\n\n\nNote\n\n\nNo prior experience required — we’ll build up together, step by step.\n\n\n\n\nReassure the audience this is a welcoming starting point - no prior experience needed. Emphasize the step-by-step structure to reduce anxiety about pace.",
+    "crumbs": [
+      "Introduction",
+      "Slides"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/01-slides.html#learning-outcomes",
+    "href": "modules/01-introduction/01-slides.html#learning-outcomes",
+    "title": "Course Kickoff",
+    "section": "Learning Outcomes",
+    "text": "Learning Outcomes\nBy the end of this course, you will be able to:\n\nUnderstand the core concepts introduced in this course\nApply those concepts to realistic scenarios\nEvaluate outcomes and make informed decisions\n\n\nWalk through each outcome and briefly explain what “success” looks like at each level (understand vs. apply vs. evaluate). Tie back to Bloom’s taxonomy if useful for context.",
+    "crumbs": [
+      "Introduction",
+      "Slides"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/01-slides.html#a-quick-example",
+    "href": "modules/01-introduction/01-slides.html#a-quick-example",
+    "title": "Course Kickoff",
+    "section": "A Quick Example",
+    "text": "A Quick Example\n\n\n\n\n\n\nTry it yourself\n\n\nAs you go through each lesson, pause and ask: “How would I explain this to a friend?”\n\n\n\n\nEncourage learners to actually try this reflection prompt during lessons, not just read past it. Consider pausing here for a quick verbal example if time allows.",
+    "crumbs": [
+      "Introduction",
+      "Slides"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/01-slides.html#image-and-text-1",
+    "href": "modules/01-introduction/01-slides.html#image-and-text-1",
+    "title": "Course Kickoff",
+    "section": "Image and text",
+    "text": "Image and text\n\n\n\n\n\n\nDescribe the image\n\n\n\nText alongside the imagexcvxzcvxcv\n\n\nReplace the placeholder image and caption text before presenting. Use this slide to reinforce a concept visually alongside a brief explanation.",
+    "crumbs": [
+      "Introduction",
+      "Slides"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/01-slides.html#how-this-course-works",
+    "href": "modules/01-introduction/01-slides.html#how-this-course-works",
+    "title": "Course Kickoff",
+    "section": "How This Course Works",
+    "text": "How This Course Works\n\n📖 Short lessons introduce key ideas\n🛠️ Activities let you practice\n✅ Checks for understanding along the way\n\n\nSet expectations for the course rhythm: short reading, hands-on practice, and low-stakes checks. Mention roughly how often these checks occur if known.",
+    "crumbs": [
+      "Introduction",
+      "Slides"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/01-slides.html#module-roadmap",
+    "href": "modules/01-introduction/01-slides.html#module-roadmap",
+    "title": "Course Kickoff",
+    "section": "Module Roadmap",
+    "text": "Module Roadmap\n\n\n\nModule\nFocus\n\n\n\n\n1. Introduction\nOrientation & foundations\n\n\n2. Core Concepts\nComing soon\n\n\n3. Application\nComing soon",
+    "crumbs": [
+      "Introduction",
+      "Slides"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/01-slides.html#lets-get-started",
+    "href": "modules/01-introduction/01-slides.html#lets-get-started",
+    "title": "Course Kickoff",
+    "section": "Let’s Get Started…",
+    "text": "Let’s Get Started…\n\n\n\nHead back to the course landing page\nBegin with Lesson 1: Welcome\nReach out with questions anytime\n\n\nThank you! 🎉\n\n\n\n151711 apps feature high res zoom backgrounds image1 9smf2lhgqa",
+    "crumbs": [
+      "Introduction",
+      "Slides"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/01-slides.html#section-title-2",
+    "href": "modules/01-introduction/01-slides.html#section-title-2",
+    "title": "Course Kickoff",
+    "section": "Section title",
+    "text": "Section title\nSubtitle or context line",
+    "crumbs": [
+      "Introduction",
+      "Slides"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Brand Test",
+    "section": "",
+    "text": "Course Cover",
+    "crumbs": [
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "index.html#who-this-is-for",
+    "href": "index.html#who-this-is-for",
+    "title": "Brand Test",
+    "section": "Who This Is For",
+    "text": "Who This Is For\nBeginners - no prior experience required.",
+    "crumbs": [
+      "Overview"
+    ]
+  },
+  {
     "objectID": "week13/02-gamedesignpatterns-2.html#design-patterns-uis-games-learning",
     "href": "week13/02-gamedesignpatterns-2.html#design-patterns-uis-games-learning",
     "title": "Design Patterns: UIs, Games, Learning",
@@ -933,750 +1503,5 @@
       "Week13",
       "Gamedesignpatterns 2"
     ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Brand Test",
-    "section": "",
-    "text": "Course Cover",
-    "crumbs": [
-      "Overview"
-    ]
-  },
-  {
-    "objectID": "index.html#who-this-is-for",
-    "href": "index.html#who-this-is-for",
-    "title": "Brand Test",
-    "section": "Who This Is For",
-    "text": "Who This Is For\nBeginners - no prior experience required.",
-    "crumbs": [
-      "Overview"
-    ]
-  },
-  {
-    "objectID": "modules/01-introduction/01-slides.html#section-title",
-    "href": "modules/01-introduction/01-slides.html#section-title",
-    "title": "Course Kickoff",
-    "section": "Section title",
-    "text": "Section title\nSubtitle or context linebbnmbnmbmbnmmmgmmgmgmghm ## Welcome! {background-image=“https://odvtslzlamhvkuthtsnx.supabase.co/storage/v1/object/public/course-assets/40a9cb3d-a7cc-42f0-a3e2-e06827fc61c6/images/151711-apps-feature-high-res-zoom-backgrounds-image1-9smf2lhgqa.jpg” transition=“zoom”}\n\n\n\nA quick tour of what we’ll cover\nHow the course is structured\nWhat you’ll be able to do by the end\n\n\ndfdf",
-    "crumbs": [
-      "Introduction",
-      "Slides"
-    ]
-  },
-  {
-    "objectID": "modules/01-introduction/01-slides.html#slide",
-    "href": "modules/01-introduction/01-slides.html#slide",
-    "title": "Course Kickoff",
-    "section": "Slide",
-    "text": "Slide\n\n\n\n\n\n\nDescribe the image",
-    "crumbs": [
-      "Introduction",
-      "Slides"
-    ]
-  },
-  {
-    "objectID": "modules/01-introduction/01-slides.html#section-title-1",
-    "href": "modules/01-introduction/01-slides.html#section-title-1",
-    "title": "Course Kickoff",
-    "section": "Section title",
-    "text": "Section title\nSubtitle or context line ## Two columns\n\n\nLeft column content\n\nRight column content",
-    "crumbs": [
-      "Introduction",
-      "Slides"
-    ]
-  },
-  {
-    "objectID": "modules/01-introduction/01-slides.html#image-and-text",
-    "href": "modules/01-introduction/01-slides.html#image-and-text",
-    "title": "Course Kickoff",
-    "section": "Image and text",
-    "text": "Image and text\n\n\n\n\n\n\nDescribe the image\n\n\n\n\n\n\n\nDescribe the image\n\n\n\n\n\n\nDescribe the image\n\n\nText alongside the image",
-    "crumbs": [
-      "Introduction",
-      "Slides"
-    ]
-  },
-  {
-    "objectID": "modules/01-introduction/01-slides.html#quote",
-    "href": "modules/01-introduction/01-slides.html#quote",
-    "title": "Course Kickoff",
-    "section": "Quote",
-    "text": "Quote\n\nThe quotation goes here.\n— Attribution ## Slide\n\n\n\n\n\n\n\n\nPlaceholder slide - fill in with content or delete if not needed before presenting.",
-    "crumbs": [
-      "Introduction",
-      "Slides"
-    ]
-  },
-  {
-    "objectID": "modules/01-introduction/01-slides.html#about-this-course",
-    "href": "modules/01-introduction/01-slides.html#about-this-course",
-    "title": "Course Kickoff",
-    "section": "About This Course",
-    "text": "About This Course\nBrand Test is designed to take you from foundational concepts to practical application.\n\n\n\n\n\n\nNote\n\n\nNo prior experience required — we’ll build up together, step by step.\n\n\n\n\nReassure the audience this is a welcoming starting point - no prior experience needed. Emphasize the step-by-step structure to reduce anxiety about pace.",
-    "crumbs": [
-      "Introduction",
-      "Slides"
-    ]
-  },
-  {
-    "objectID": "modules/01-introduction/01-slides.html#learning-outcomes",
-    "href": "modules/01-introduction/01-slides.html#learning-outcomes",
-    "title": "Course Kickoff",
-    "section": "Learning Outcomes",
-    "text": "Learning Outcomes\nBy the end of this course, you will be able to:\n\nUnderstand the core concepts introduced in this course\nApply those concepts to realistic scenarios\nEvaluate outcomes and make informed decisions\n\n\nWalk through each outcome and briefly explain what “success” looks like at each level (understand vs. apply vs. evaluate). Tie back to Bloom’s taxonomy if useful for context.",
-    "crumbs": [
-      "Introduction",
-      "Slides"
-    ]
-  },
-  {
-    "objectID": "modules/01-introduction/01-slides.html#a-quick-example",
-    "href": "modules/01-introduction/01-slides.html#a-quick-example",
-    "title": "Course Kickoff",
-    "section": "A Quick Example",
-    "text": "A Quick Example\n\n\n\n\n\n\nTry it yourself\n\n\nAs you go through each lesson, pause and ask: “How would I explain this to a friend?”\n\n\n\n\nEncourage learners to actually try this reflection prompt during lessons, not just read past it. Consider pausing here for a quick verbal example if time allows.",
-    "crumbs": [
-      "Introduction",
-      "Slides"
-    ]
-  },
-  {
-    "objectID": "modules/01-introduction/01-slides.html#image-and-text-1",
-    "href": "modules/01-introduction/01-slides.html#image-and-text-1",
-    "title": "Course Kickoff",
-    "section": "Image and text",
-    "text": "Image and text\n\n\n\n\n\n\nDescribe the image\n\n\n\nText alongside the imagexcvxzcvxcv\n\n\nReplace the placeholder image and caption text before presenting. Use this slide to reinforce a concept visually alongside a brief explanation.",
-    "crumbs": [
-      "Introduction",
-      "Slides"
-    ]
-  },
-  {
-    "objectID": "modules/01-introduction/01-slides.html#how-this-course-works",
-    "href": "modules/01-introduction/01-slides.html#how-this-course-works",
-    "title": "Course Kickoff",
-    "section": "How This Course Works",
-    "text": "How This Course Works\n\n📖 Short lessons introduce key ideas\n🛠️ Activities let you practice\n✅ Checks for understanding along the way\n\n\nSet expectations for the course rhythm: short reading, hands-on practice, and low-stakes checks. Mention roughly how often these checks occur if known.",
-    "crumbs": [
-      "Introduction",
-      "Slides"
-    ]
-  },
-  {
-    "objectID": "modules/01-introduction/01-slides.html#module-roadmap",
-    "href": "modules/01-introduction/01-slides.html#module-roadmap",
-    "title": "Course Kickoff",
-    "section": "Module Roadmap",
-    "text": "Module Roadmap\n\n\n\nModule\nFocus\n\n\n\n\n1. Introduction\nOrientation & foundations\n\n\n2. Core Concepts\nComing soon\n\n\n3. Application\nComing soon",
-    "crumbs": [
-      "Introduction",
-      "Slides"
-    ]
-  },
-  {
-    "objectID": "modules/01-introduction/01-slides.html#lets-get-started",
-    "href": "modules/01-introduction/01-slides.html#lets-get-started",
-    "title": "Course Kickoff",
-    "section": "Let’s Get Started…",
-    "text": "Let’s Get Started…\n\n\n\nHead back to the course landing page\nBegin with Lesson 1: Welcome\nReach out with questions anytime\n\n\nThank you! 🎉\n\n\n\n151711 apps feature high res zoom backgrounds image1 9smf2lhgqa",
-    "crumbs": [
-      "Introduction",
-      "Slides"
-    ]
-  },
-  {
-    "objectID": "modules/01-introduction/01-slides.html#section-title-2",
-    "href": "modules/01-introduction/01-slides.html#section-title-2",
-    "title": "Course Kickoff",
-    "section": "Section title",
-    "text": "Section title\nSubtitle or context line",
-    "crumbs": [
-      "Introduction",
-      "Slides"
-    ]
-  },
-  {
-    "objectID": "modules/01-introduction/03-welcome.html",
-    "href": "modules/01-introduction/03-welcome.html",
-    "title": "Welcome",
-    "section": "",
-    "text": "Start writing your first lesson here. Use Markdown syntax to format your content.\n\n\n\nKey concept one\nKey concept two\nKey concept three\n\n\n\n\nReplace this content with your lesson material.",
-    "crumbs": [
-      "Introduction",
-      "Welcome"
-    ]
-  },
-  {
-    "objectID": "modules/01-introduction/03-welcome.html#introduction",
-    "href": "modules/01-introduction/03-welcome.html#introduction",
-    "title": "Welcome",
-    "section": "",
-    "text": "Start writing your first lesson here. Use Markdown syntax to format your content.\n\n\n\nKey concept one\nKey concept two\nKey concept three\n\n\n\n\nReplace this content with your lesson material.",
-    "crumbs": [
-      "Introduction",
-      "Welcome"
-    ]
-  },
-  {
-    "objectID": "modules/01-introduction/02-slides2.html#welcome",
-    "href": "modules/01-introduction/02-slides2.html#welcome",
-    "title": "Course Kickoff",
-    "section": "Welcome!",
-    "text": "Welcome!\n\nA quick tour of what we’ll cover\nHow the course is structured\nWhat you’ll be able to do by the end",
-    "crumbs": [
-      "Introduction",
-      "Slides2"
-    ]
-  },
-  {
-    "objectID": "modules/01-introduction/02-slides2.html#about-this-course",
-    "href": "modules/01-introduction/02-slides2.html#about-this-course",
-    "title": "Course Kickoff",
-    "section": "About This Course",
-    "text": "About This Course\nBrand Test is designed to take you from foundational concepts to practical application.\n\n\n\n\n\n\nNote\n\n\nNo prior experience required — we’ll build up together, step by step.",
-    "crumbs": [
-      "Introduction",
-      "Slides2"
-    ]
-  },
-  {
-    "objectID": "modules/01-introduction/02-slides2.html#learning-outcomes",
-    "href": "modules/01-introduction/02-slides2.html#learning-outcomes",
-    "title": "Course Kickoff",
-    "section": "Learning Outcomes",
-    "text": "Learning Outcomes\nBy the end of this course, you will be able to:\n\nUnderstand the core concepts introduced in this course\nApply those concepts to realistic scenarios\nEvaluate outcomes and make informed decisions",
-    "crumbs": [
-      "Introduction",
-      "Slides2"
-    ]
-  },
-  {
-    "objectID": "modules/01-introduction/02-slides2.html#how-this-course-works",
-    "href": "modules/01-introduction/02-slides2.html#how-this-course-works",
-    "title": "Course Kickoff",
-    "section": "How This Course Works",
-    "text": "How This Course Works\n\n📖 Short lessons introduce key ideas\n🛠️ Activities let you practice\n✅ Checks for understanding along the way",
-    "crumbs": [
-      "Introduction",
-      "Slides2"
-    ]
-  },
-  {
-    "objectID": "modules/01-introduction/02-slides2.html#module-roadmap",
-    "href": "modules/01-introduction/02-slides2.html#module-roadmap",
-    "title": "Course Kickoff",
-    "section": "Module Roadmap",
-    "text": "Module Roadmap\n\n\n\nModule\nFocus\n\n\n\n\n1. Introduction\nOrientation & foundations\n\n\n2. Core Concepts\nComing soon\n\n\n3. Application\nComing soon",
-    "crumbs": [
-      "Introduction",
-      "Slides2"
-    ]
-  },
-  {
-    "objectID": "modules/01-introduction/02-slides2.html#a-quick-example",
-    "href": "modules/01-introduction/02-slides2.html#a-quick-example",
-    "title": "Course Kickoff",
-    "section": "A Quick Example",
-    "text": "A Quick Example\n\n\n\n\n\n\nTry it yourself\n\n\nAs you go through each lesson, pause and ask: “How would I explain this to a friend?”",
-    "crumbs": [
-      "Introduction",
-      "Slides2"
-    ]
-  },
-  {
-    "objectID": "modules/01-introduction/02-slides2.html#b",
-    "href": "modules/01-introduction/02-slides2.html#b",
-    "title": "Course Kickoff",
-    "section": "b",
-    "text": "b",
-    "crumbs": [
-      "Introduction",
-      "Slides2"
-    ]
-  },
-  {
-    "objectID": "modules/01-introduction/02-slides2.html#lets-get-started",
-    "href": "modules/01-introduction/02-slides2.html#lets-get-started",
-    "title": "Course Kickoff",
-    "section": "Let’s Get Started",
-    "text": "Let’s Get Started\n\nHead back to the course landing page\nBegin with Lesson 1: Welcome\nReach out with questions anytime\n\nThank you! 🎉",
-    "crumbs": [
-      "Introduction",
-      "Slides2"
-    ]
-  },
-  {
-    "objectID": "modules/01-introduction/02-slides2.html#the-world-of-bees",
-    "href": "modules/01-introduction/02-slides2.html#the-world-of-bees",
-    "title": "Course Kickoff",
-    "section": "The World of Bees",
-    "text": "The World of Bees\n\nBees are flying insects closely related to wasps and ants\nFound on every continent except Antarctica\nPlay a vital role in pollinating flowers, crops, and wild plants\n\n\n\n\n\n\n\nDid you know?\n\n\nA single bee colony can pollinate hundreds of millions of flowers over its lifetime.",
-    "crumbs": [
-      "Introduction",
-      "Slides2"
-    ]
-  },
-  {
-    "objectID": "modules/01-introduction/02-slides2.html#bee-colonies",
-    "href": "modules/01-introduction/02-slides2.html#bee-colonies",
-    "title": "Course Kickoff",
-    "section": "Bee Colonies",
-    "text": "Bee Colonies\n\nA colony can hold tens of thousands of bees working toward one shared goal\nThree castes divide the labor: queen, workers, and drones\nThe queen is the colony’s sole egg-layer, often living for several years\nWorker bees handle nearly everything else: foraging, building, cleaning, and defending\n\n\n\n\n\n\n\nDid you know?\n\n\nA single colony can visit millions of flowers in one day.",
-    "crumbs": [
-      "Introduction",
-      "Slides2"
-    ]
-  },
-  {
-    "objectID": "week13/03-gamedesignpatterns.html#topics",
-    "href": "week13/03-gamedesignpatterns.html#topics",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "Topics",
-    "text": "Topics\n\nMotivation\nDesign Patterns in UI Design\nDesign Patterns in Game Design\nDesign Patterns in Learning\nClosing Discussions",
-    "crumbs": [
-      "Week13",
-      "Gamedesignpatterns"
-    ]
-  },
-  {
-    "objectID": "week13/03-gamedesignpatterns.html#design-solutions",
-    "href": "week13/03-gamedesignpatterns.html#design-solutions",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "Design = Solutions",
-    "text": "Design = Solutions\n\nDesign is about finding solutions.\nUnfortunately, designers often reinvent solutions to problems that have already been solved.\nThis happens because it is hard to know:\n\nHow things were done before.\nWhy things were done a certain way.\nHow to reuse existing solutions.",
-    "crumbs": [
-      "Week13",
-      "Gamedesignpatterns"
-    ]
-  },
-  {
-    "objectID": "week13/03-gamedesignpatterns.html#how-can-we-codify-design-knowledge",
-    "href": "week13/03-gamedesignpatterns.html#how-can-we-codify-design-knowledge",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "How Can We Codify Design Knowledge?",
-    "text": "How Can We Codify Design Knowledge?\n\nAn effective and flexible design is difficult to get “right” the first time.\nYet experienced designers do make good designs.\nNew designers are usually overwhelmed by all the design options available.\nExperienced designers evidently know something inexperienced ones don’t — what is it?",
-    "crumbs": [
-      "Week13",
-      "Gamedesignpatterns"
-    ]
-  },
-  {
-    "objectID": "week13/03-gamedesignpatterns.html#how-experienced-designers-solve-a-problem",
-    "href": "week13/03-gamedesignpatterns.html#how-experienced-designers-solve-a-problem",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "How Experienced Designers Solve a Problem",
-    "text": "How Experienced Designers Solve a Problem\n\nExpert designers usually do not solve every problem from first principles — they reuse solutions that have worked for them in the past.\nWhen they find a good solution, they use it again and again.\nSuch experience is part of what makes them experts.\nThese experiences can be recorded as design patterns.",
-    "crumbs": [
-      "Week13",
-      "Gamedesignpatterns"
-    ]
-  },
-  {
-    "objectID": "week13/03-gamedesignpatterns.html#excerpt-from-last-week",
-    "href": "week13/03-gamedesignpatterns.html#excerpt-from-last-week",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "Excerpt from Last Week",
-    "text": "Excerpt from Last Week\n\n“Good artists borrow (from other artists), but great artists steal!” — Pablo Picasso\nCompelling visual design takes practice and experience — a natural part of which is study and critique of others’ work.\n\n\nBlack-and-white portrait photograph of Pablo Picasso wearing a flat cap, used to introduce the quote about artists borrowing and stealing ideas",
-    "crumbs": [
-      "Week13",
-      "Gamedesignpatterns"
-    ]
-  },
-  {
-    "objectID": "week13/03-gamedesignpatterns.html#novelists-use-patterns",
-    "href": "week13/03-gamedesignpatterns.html#novelists-use-patterns",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "Novelists Use Patterns",
-    "text": "Novelists Use Patterns\n\nNovelists and playwrights rarely design their plots from scratch.\nThey follow patterns like “Tragically Flawed Hero” (Macbeth, Hamlet, etc.) or “The Romantic Novel” (countless romance novels).\n\n\nIllustration referenced in the source alongside the discussion of narrative patterns such as the Tragically Flawed Hero and the Romantic Novel (files named “hamlet-gill1” and “soustitre” in the original slide)",
-    "crumbs": [
-      "Week13",
-      "Gamedesignpatterns"
-    ]
-  },
-  {
-    "objectID": "week13/03-gamedesignpatterns.html#game-players-use-patterns",
-    "href": "week13/03-gamedesignpatterns.html#game-players-use-patterns",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "Game Players Use Patterns",
-    "text": "Game Players Use Patterns\n\nChess players, Go players, and basketball players all rely on “patterns.”\nExamples given in the source: the 1-4 offense pick-and-roll (basketball), a star-point joseki (Go), and the Queen’s Gambit (chess).\n\n\n\n\nDiagram referenced in the source illustrating a recurring game strategy — the basketball pick-and-roll play described in the original slide as “14HPPickRolla”\n\n\n\n\n\nImage referenced in the source alongside the Go joseki example (“300px-Joseki1”), illustrating a recurring opening pattern used by Go players",
-    "crumbs": [
-      "Week13",
-      "Gamedesignpatterns"
-    ]
-  },
-  {
-    "objectID": "week13/03-gamedesignpatterns.html#the-design-methods-hierarchy",
-    "href": "week13/03-gamedesignpatterns.html#the-design-methods-hierarchy",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "The Design Methods Hierarchy",
-    "text": "The Design Methods Hierarchy\nDesign knowledge can be organised from abstract to concrete:\n\nDesign Philosophy (most abstract)\nDesign Principles\nDesign Patterns\nDesign Idioms, Specific Knowledge and Tips (most concrete)",
-    "crumbs": [
-      "Week13",
-      "Gamedesignpatterns"
-    ]
-  },
-  {
-    "objectID": "week13/03-gamedesignpatterns.html#design-patterns-vs.-design-guidelines",
-    "href": "week13/03-gamedesignpatterns.html#design-patterns-vs.-design-guidelines",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "Design Patterns vs. Design Guidelines",
-    "text": "Design Patterns vs. Design Guidelines\n\nDesign guidelines can be either abstract or concrete.\nAbstract guidelines usually do not suggest how to solve a problem.\nConcrete guidelines are usually too tailored to a specific interface.\nGuidelines assume absolute validity, while design patterns emphasize effectiveness in a particular context.\nGuidelines are more useful for describing requirements; patterns are useful tools for translating requirements into specific software solutions.",
-    "crumbs": [
-      "Week13",
-      "Gamedesignpatterns"
-    ]
-  },
-  {
-    "objectID": "week13/03-gamedesignpatterns.html#patterns-vs.-idioms",
-    "href": "week13/03-gamedesignpatterns.html#patterns-vs.-idioms",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "Patterns vs. Idioms",
-    "text": "Patterns vs. Idioms\n\nNot every design idea that uses the pattern syntax is a pattern.\nIf an idea is too specific (e.g. programming-language specific), it is not a pattern — such specific ideas are called idioms.\nPatterns also cannot be too general.\nIt must be clear how the pattern should be applied in a context.",
-    "crumbs": [
-      "Week13",
-      "Gamedesignpatterns"
-    ]
-  },
-  {
-    "objectID": "week13/03-gamedesignpatterns.html#patterns-vs.-lexiconvocabulary",
-    "href": "week13/03-gamedesignpatterns.html#patterns-vs.-lexiconvocabulary",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "Patterns vs. Lexicon/Vocabulary",
-    "text": "Patterns vs. Lexicon/Vocabulary\n\nIf a technique appears so often in a domain that everyone knows and uses it in almost any situation, it is most likely not a pattern.\nExample, in game design: Player, Stage, Enemy, Gun shots — these are vocabulary, not patterns.",
-    "crumbs": [
-      "Week13",
-      "Gamedesignpatterns"
-    ]
-  },
-  {
-    "objectID": "week13/03-gamedesignpatterns.html#what-are-design-patterns",
-    "href": "week13/03-gamedesignpatterns.html#what-are-design-patterns",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "What Are Design Patterns…",
-    "text": "What Are Design Patterns…\n\n“Patterns communicate insights into design problems, capturing the essence of the problems and their solutions in a compact form. They describe the problem in depth, the rationale for the solution, and some of the trade-offs in applying the solution.” — The Design of Sites, Van Duyne et al. 2003\n“Each pattern describes a problem which occurs over and over again in our environment, and then describes the core of the solution to that problem, in such a way that you can use this solution a million times over, without ever doing it the same way twice.” — A Pattern Language, Alexander et al. 1977\n“A pattern is the abstraction from a concrete form which keeps recurring in specific non-arbitrary contexts.” — Riehle and Zullighoven, Understanding and Using Patterns in Software Development",
-    "crumbs": [
-      "Week13",
-      "Gamedesignpatterns"
-    ]
-  },
-  {
-    "objectID": "week13/03-gamedesignpatterns.html#design-patterns-a-brief-history",
-    "href": "week13/03-gamedesignpatterns.html#design-patterns-a-brief-history",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "Design Patterns: A Brief History",
-    "text": "Design Patterns: A Brief History\nA short look back at where design patterns come from.",
-    "crumbs": [
-      "Week13",
-      "Gamedesignpatterns"
-    ]
-  },
-  {
-    "objectID": "week13/03-gamedesignpatterns.html#christopher-alexander",
-    "href": "week13/03-gamedesignpatterns.html#christopher-alexander",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "Christopher Alexander",
-    "text": "Christopher Alexander\nPatterns for Architecture:\n\nThe Timeless Way of Building\nA Pattern Language\nThe Oregon Experiment\n\nOrganised across levels: Towns, buildings, construction → Network → A language.\n\n\n\nBook cover of “A Pattern Language” by Christopher Alexander, one of the foundational texts introducing design patterns for architecture\n\n\n\n\n\nBook cover of “The Timeless Way of Building” by Christopher Alexander, the companion volume describing the philosophy behind pattern languages",
-    "crumbs": [
-      "Week13",
-      "Gamedesignpatterns"
-    ]
-  },
-  {
-    "objectID": "week13/03-gamedesignpatterns.html#christopher-alexander-pattern-115-courtyards-which-live",
-    "href": "week13/03-gamedesignpatterns.html#christopher-alexander-pattern-115-courtyards-which-live",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "Christopher Alexander: Pattern 115 — Courtyards Which Live",
-    "text": "Christopher Alexander: Pattern 115 — Courtyards Which Live\n\nCourtyards built in modern buildings are often “dead” — intended as private open spaces, but ending up unused.\nThree ways courtyards fail:\n\nToo little ambiguity between indoors and outdoors.\nNot enough doors into the courtyard.\nToo enclosed.\n\nTherefore: place every courtyard so there is a view out to a larger open space; add at least two or three doors opening into it along natural paths; and add a roofed veranda or porch continuous with both the inside and the courtyard, following the ARCADE, GALLERY SURROUND, and SIX-FOOT BALCONY patterns.\nSource: A Pattern Language, Alexander et al., 1977.\n\n\nPhotograph of a plant-filled courtyard with tiled arcades and columns, illustrating Alexander’s Pattern 115 “Courtyards Which Live”",
-    "crumbs": [
-      "Week13",
-      "Gamedesignpatterns"
-    ]
-  },
-  {
-    "objectID": "week13/03-gamedesignpatterns.html#the-nature-of-design-patterns",
-    "href": "week13/03-gamedesignpatterns.html#the-nature-of-design-patterns",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "The Nature of Design Patterns",
-    "text": "The Nature of Design Patterns\n\nNot too general and not too specific.\nUse a solution “a million times over, without ever doing it the same way twice.”\nDesign patterns are a shared language for “building and planning towns, neighborhoods, houses, gardens, & rooms.”\nExample: a beer hall is part of a center for public life, and needs spaces for groups to be alone — the ALCOVES pattern.",
-    "crumbs": [
-      "Week13",
-      "Gamedesignpatterns"
-    ]
-  },
-  {
-    "objectID": "week13/03-gamedesignpatterns.html#pattern-format",
-    "href": "week13/03-gamedesignpatterns.html#pattern-format",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "Pattern Format",
-    "text": "Pattern Format\nA pattern is typically documented with:\n\nPattern Name\nContext\nForces\nProblem Statement\nSolution\nSolution Sketch\nOther Patterns to Consider",
-    "crumbs": [
-      "Week13",
-      "Gamedesignpatterns"
-    ]
-  },
-  {
-    "objectID": "week13/03-gamedesignpatterns.html#example-alcoves",
-    "href": "week13/03-gamedesignpatterns.html#example-alcoves",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "Example – Alcoves",
-    "text": "Example – Alcoves\n\nPattern Title: Alcoves\nContext: Collaborative and common areas in buildings.\nForces: Open spaces are inviting, but people want a sense of enclosure for private discussions.\nProblem Statement: Create a space that invites collaboration but also supports private discussion.",
-    "crumbs": [
-      "Week13",
-      "Gamedesignpatterns"
-    ]
-  },
-  {
-    "objectID": "week13/03-gamedesignpatterns.html#example-alcoves-solution",
-    "href": "week13/03-gamedesignpatterns.html#example-alcoves-solution",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "Example – Alcoves: Solution",
-    "text": "Example – Alcoves: Solution\n“Make small places at the edge of any common room, usually no more than 6 feet wide and 3 to 6 feet deep and possibly much smaller. These alcoves should be large enough for two people to sit, chat, or play and sometimes large enough to contain a desk or a table.”\n\nPage excerpt showing the Alcove pattern’s solution text alongside a sketch of a puzzle-piece-shaped room with small alcove extensions labelled “alcoves”",
-    "crumbs": [
-      "Week13",
-      "Gamedesignpatterns"
-    ]
-  },
-  {
-    "objectID": "week13/03-gamedesignpatterns.html#many-patterns-form-a-pattern-language",
-    "href": "week13/03-gamedesignpatterns.html#many-patterns-form-a-pattern-language",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "Many Patterns Form a Pattern Language",
-    "text": "Many Patterns Form a Pattern Language\n\nThe patterns within a domain should be organised into a logical or naturally intuitive structure.\nEach pattern should indicate its relationship to other patterns and to the pattern language as a whole.\nA pattern language helps by:\n\nNoticing and naming common problems in a field of interest.\nDescribing key characteristics of effective solutions for a stated goal.\nHelping the designer move from problem to problem in a logical way.\nAllowing for many different paths through the design process.",
-    "crumbs": [
-      "Week13",
-      "Gamedesignpatterns"
-    ]
-  },
-  {
-    "objectID": "week13/03-gamedesignpatterns.html#pattern-languages",
-    "href": "week13/03-gamedesignpatterns.html#pattern-languages",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "Pattern Languages",
-    "text": "Pattern Languages\n\nAlexander emphasized the importance of pattern languages — more than just collections of patterns.\nLanguages are sets of patterns that fill out a design space and are chosen to complement each other.\nForces in each pattern may explain its relations with other patterns.",
-    "crumbs": [
-      "Week13",
-      "Gamedesignpatterns"
-    ]
-  },
-  {
-    "objectID": "week13/03-gamedesignpatterns.html#a-pattern-language-for-interactive-exhibits",
-    "href": "week13/03-gamedesignpatterns.html#a-pattern-language-for-interactive-exhibits",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "A Pattern Language for Interactive Exhibits",
-    "text": "A Pattern Language for Interactive Exhibits\nSource: [Borchers 2001]\n\nTree diagram showing a pattern language for interactive exhibits, branching from “Interactive Exhibit” into Attract Visitor, Engage Visitor, and Deliver Message, and connecting to patterns such as Simple Impression, Innovative Appearance, Universal Access, Incremental Revealing, and Closed Loop",
-    "crumbs": [
-      "Week13",
-      "Gamedesignpatterns"
-    ]
-  },
-  {
-    "objectID": "week13/03-gamedesignpatterns.html#discussion",
-    "href": "week13/03-gamedesignpatterns.html#discussion",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "Discussion",
-    "text": "Discussion\n\nWhat’s the difference between design patterns and some experts’ tips in design?\nWhy is context required in documenting a pattern?\nCan design patterns replace hands-on practice in design?",
-    "crumbs": [
-      "Week13",
-      "Gamedesignpatterns"
-    ]
-  },
-  {
-    "objectID": "week13/03-gamedesignpatterns.html#from-architecture-to-computer-science",
-    "href": "week13/03-gamedesignpatterns.html#from-architecture-to-computer-science",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "From Architecture to Computer Science",
-    "text": "From Architecture to Computer Science\n\nIn the early 1990s, Gamma et al. borrowed the idea from architecture and used it in software engineering.\nPurpose: communicate object-oriented software design problems and solutions.\n\n\nCover of “Design Patterns: Elements of Reusable Object-Oriented Software” by Gamma, Helm, Johnson and Vlissides, the influential book that brought the pattern concept into software engineering",
-    "crumbs": [
-      "Week13",
-      "Gamedesignpatterns"
-    ]
-  },
-  {
-    "objectID": "week13/03-gamedesignpatterns.html#patterns-in-hciui-design",
-    "href": "week13/03-gamedesignpatterns.html#patterns-in-hciui-design",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "Patterns in HCI/UI Design",
-    "text": "Patterns in HCI/UI Design\nKey sources: [Borchers 2001], [Tidwell 2005], [Duyne et al. 2002], and community sites such as hcipatterns.org and InteractionPatterns.html.\n\n\n\nBook cover of “Designing Interfaces” by Jenifer Tidwell, a widely used catalogue of interaction design patterns\n\n\n![Book cover of “A Pattern Appro\n\n\n\nImage17\n\n\n\n\n\nImage21\n\n\n\n\n\nImage22\n\n\n\n\n\nImage23",
-    "crumbs": [
-      "Week13",
-      "Gamedesignpatterns"
-    ]
-  },
-  {
-    "objectID": "week13/gamedesignpatterns.html#topics",
-    "href": "week13/gamedesignpatterns.html#topics",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "Topics",
-    "text": "Topics\n\nMotivation\nDesign Patterns in UI Design\nDesign Patterns in Game Design\nDesign Patterns in Learning\nClosing Discussions"
-  },
-  {
-    "objectID": "week13/gamedesignpatterns.html#design-solutions",
-    "href": "week13/gamedesignpatterns.html#design-solutions",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "Design = Solutions",
-    "text": "Design = Solutions\n\nDesign is about finding solutions.\nUnfortunately, designers often reinvent solutions to problems that have already been solved.\nThis happens because it is hard to know:\n\nHow things were done before.\nWhy things were done a certain way.\nHow to reuse existing solutions."
-  },
-  {
-    "objectID": "week13/gamedesignpatterns.html#how-can-we-codify-design-knowledge",
-    "href": "week13/gamedesignpatterns.html#how-can-we-codify-design-knowledge",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "How Can We Codify Design Knowledge?",
-    "text": "How Can We Codify Design Knowledge?\n\nAn effective and flexible design is difficult to get “right” the first time.\nYet experienced designers do make good designs.\nNew designers are usually overwhelmed by all the design options available.\nExperienced designers evidently know something inexperienced ones don’t — what is it?"
-  },
-  {
-    "objectID": "week13/gamedesignpatterns.html#how-experienced-designers-solve-a-problem",
-    "href": "week13/gamedesignpatterns.html#how-experienced-designers-solve-a-problem",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "How Experienced Designers Solve a Problem",
-    "text": "How Experienced Designers Solve a Problem\n\nExpert designers usually do not solve every problem from first principles — they reuse solutions that have worked for them in the past.\nWhen they find a good solution, they use it again and again.\nSuch experience is part of what makes them experts.\nThese experiences can be recorded as design patterns."
-  },
-  {
-    "objectID": "week13/gamedesignpatterns.html#excerpt-from-last-week",
-    "href": "week13/gamedesignpatterns.html#excerpt-from-last-week",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "Excerpt from Last Week",
-    "text": "Excerpt from Last Week\n\n“Good artists borrow (from other artists), but great artists steal!” — Pablo Picasso\nCompelling visual design takes practice and experience — a natural part of which is study and critique of others’ work.\n\n\nBlack-and-white portrait photograph of Pablo Picasso wearing a flat cap, used to introduce the quote about artists borrowing and stealing ideas"
-  },
-  {
-    "objectID": "week13/gamedesignpatterns.html#novelists-use-patterns",
-    "href": "week13/gamedesignpatterns.html#novelists-use-patterns",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "Novelists Use Patterns",
-    "text": "Novelists Use Patterns\n\nNovelists and playwrights rarely design their plots from scratch.\nThey follow patterns like “Tragically Flawed Hero” (Macbeth, Hamlet, etc.) or “The Romantic Novel” (countless romance novels).\n\n\nIllustration referenced in the source alongside the discussion of narrative patterns such as the Tragically Flawed Hero and the Romantic Novel (files named “hamlet-gill1” and “soustitre” in the original slide)"
-  },
-  {
-    "objectID": "week13/gamedesignpatterns.html#game-players-use-patterns",
-    "href": "week13/gamedesignpatterns.html#game-players-use-patterns",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "Game Players Use Patterns",
-    "text": "Game Players Use Patterns\n\nChess players, Go players, and basketball players all rely on “patterns.”\nExamples given in the source: the 1-4 offense pick-and-roll (basketball), a star-point joseki (Go), and the Queen’s Gambit (chess).\n\n\n\n\nDiagram referenced in the source illustrating a recurring game strategy — the basketball pick-and-roll play described in the original slide as “14HPPickRolla”\n\n\n\n\n\nImage referenced in the source alongside the Go joseki example (“300px-Joseki1”), illustrating a recurring opening pattern used by Go players"
-  },
-  {
-    "objectID": "week13/gamedesignpatterns.html#the-design-methods-hierarchy",
-    "href": "week13/gamedesignpatterns.html#the-design-methods-hierarchy",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "The Design Methods Hierarchy",
-    "text": "The Design Methods Hierarchy\nDesign knowledge can be organised from abstract to concrete:\n\nDesign Philosophy (most abstract)\nDesign Principles\nDesign Patterns\nDesign Idioms, Specific Knowledge and Tips (most concrete)"
-  },
-  {
-    "objectID": "week13/gamedesignpatterns.html#design-patterns-vs.-design-guidelines",
-    "href": "week13/gamedesignpatterns.html#design-patterns-vs.-design-guidelines",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "Design Patterns vs. Design Guidelines",
-    "text": "Design Patterns vs. Design Guidelines\n\nDesign guidelines can be either abstract or concrete.\nAbstract guidelines usually do not suggest how to solve a problem.\nConcrete guidelines are usually too tailored to a specific interface.\nGuidelines assume absolute validity, while design patterns emphasize effectiveness in a particular context.\nGuidelines are more useful for describing requirements; patterns are useful tools for translating requirements into specific software solutions."
-  },
-  {
-    "objectID": "week13/gamedesignpatterns.html#patterns-vs.-idioms",
-    "href": "week13/gamedesignpatterns.html#patterns-vs.-idioms",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "Patterns vs. Idioms",
-    "text": "Patterns vs. Idioms\n\nNot every design idea that uses the pattern syntax is a pattern.\nIf an idea is too specific (e.g. programming-language specific), it is not a pattern — such specific ideas are called idioms.\nPatterns also cannot be too general.\nIt must be clear how the pattern should be applied in a context."
-  },
-  {
-    "objectID": "week13/gamedesignpatterns.html#patterns-vs.-lexiconvocabulary",
-    "href": "week13/gamedesignpatterns.html#patterns-vs.-lexiconvocabulary",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "Patterns vs. Lexicon/Vocabulary",
-    "text": "Patterns vs. Lexicon/Vocabulary\n\nIf a technique appears so often in a domain that everyone knows and uses it in almost any situation, it is most likely not a pattern.\nExample, in game design: Player, Stage, Enemy, Gun shots — these are vocabulary, not patterns."
-  },
-  {
-    "objectID": "week13/gamedesignpatterns.html#what-are-design-patterns",
-    "href": "week13/gamedesignpatterns.html#what-are-design-patterns",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "What Are Design Patterns…",
-    "text": "What Are Design Patterns…\n\n“Patterns communicate insights into design problems, capturing the essence of the problems and their solutions in a compact form. They describe the problem in depth, the rationale for the solution, and some of the trade-offs in applying the solution.” — The Design of Sites, Van Duyne et al. 2003\n“Each pattern describes a problem which occurs over and over again in our environment, and then describes the core of the solution to that problem, in such a way that you can use this solution a million times over, without ever doing it the same way twice.” — A Pattern Language, Alexander et al. 1977\n“A pattern is the abstraction from a concrete form which keeps recurring in specific non-arbitrary contexts.” — Riehle and Zullighoven, Understanding and Using Patterns in Software Development"
-  },
-  {
-    "objectID": "week13/gamedesignpatterns.html#design-patterns-a-brief-history",
-    "href": "week13/gamedesignpatterns.html#design-patterns-a-brief-history",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "Design Patterns: A Brief History",
-    "text": "Design Patterns: A Brief History\nA short look back at where design patterns come from."
-  },
-  {
-    "objectID": "week13/gamedesignpatterns.html#christopher-alexander",
-    "href": "week13/gamedesignpatterns.html#christopher-alexander",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "Christopher Alexander",
-    "text": "Christopher Alexander\nPatterns for Architecture:\n\nThe Timeless Way of Building\nA Pattern Language\nThe Oregon Experiment\n\nOrganised across levels: Towns, buildings, construction → Network → A language.\n\n\n\nBook cover of “A Pattern Language” by Christopher Alexander, one of the foundational texts introducing design patterns for architecture\n\n\n\n\n\nBook cover of “The Timeless Way of Building” by Christopher Alexander, the companion volume describing the philosophy behind pattern languages"
-  },
-  {
-    "objectID": "week13/gamedesignpatterns.html#christopher-alexander-pattern-115-courtyards-which-live",
-    "href": "week13/gamedesignpatterns.html#christopher-alexander-pattern-115-courtyards-which-live",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "Christopher Alexander: Pattern 115 — Courtyards Which Live",
-    "text": "Christopher Alexander: Pattern 115 — Courtyards Which Live\n\nCourtyards built in modern buildings are often “dead” — intended as private open spaces, but ending up unused.\nThree ways courtyards fail:\n\nToo little ambiguity between indoors and outdoors.\nNot enough doors into the courtyard.\nToo enclosed.\n\nTherefore: place every courtyard so there is a view out to a larger open space; add at least two or three doors opening into it along natural paths; and add a roofed veranda or porch continuous with both the inside and the courtyard, following the ARCADE, GALLERY SURROUND, and SIX-FOOT BALCONY patterns.\nSource: A Pattern Language, Alexander et al., 1977.\n\n\nPhotograph of a plant-filled courtyard with tiled arcades and columns, illustrating Alexander’s Pattern 115 “Courtyards Which Live”"
-  },
-  {
-    "objectID": "week13/gamedesignpatterns.html#the-nature-of-design-patterns",
-    "href": "week13/gamedesignpatterns.html#the-nature-of-design-patterns",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "The Nature of Design Patterns",
-    "text": "The Nature of Design Patterns\n\nNot too general and not too specific.\nUse a solution “a million times over, without ever doing it the same way twice.”\nDesign patterns are a shared language for “building and planning towns, neighborhoods, houses, gardens, & rooms.”\nExample: a beer hall is part of a center for public life, and needs spaces for groups to be alone — the ALCOVES pattern."
-  },
-  {
-    "objectID": "week13/gamedesignpatterns.html#pattern-format",
-    "href": "week13/gamedesignpatterns.html#pattern-format",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "Pattern Format",
-    "text": "Pattern Format\nA pattern is typically documented with:\n\nPattern Name\nContext\nForces\nProblem Statement\nSolution\nSolution Sketch\nOther Patterns to Consider"
-  },
-  {
-    "objectID": "week13/gamedesignpatterns.html#example-alcoves",
-    "href": "week13/gamedesignpatterns.html#example-alcoves",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "Example – Alcoves",
-    "text": "Example – Alcoves\n\nPattern Title: Alcoves\nContext: Collaborative and common areas in buildings.\nForces: Open spaces are inviting, but people want a sense of enclosure for private discussions.\nProblem Statement: Create a space that invites collaboration but also supports private discussion."
-  },
-  {
-    "objectID": "week13/gamedesignpatterns.html#example-alcoves-solution",
-    "href": "week13/gamedesignpatterns.html#example-alcoves-solution",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "Example – Alcoves: Solution",
-    "text": "Example – Alcoves: Solution\n“Make small places at the edge of any common room, usually no more than 6 feet wide and 3 to 6 feet deep and possibly much smaller. These alcoves should be large enough for two people to sit, chat, or play and sometimes large enough to contain a desk or a table.”\n\nPage excerpt showing the Alcove pattern’s solution text alongside a sketch of a puzzle-piece-shaped room with small alcove extensions labelled “alcoves”"
-  },
-  {
-    "objectID": "week13/gamedesignpatterns.html#many-patterns-form-a-pattern-language",
-    "href": "week13/gamedesignpatterns.html#many-patterns-form-a-pattern-language",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "Many Patterns Form a Pattern Language",
-    "text": "Many Patterns Form a Pattern Language\n\nThe patterns within a domain should be organised into a logical or naturally intuitive structure.\nEach pattern should indicate its relationship to other patterns and to the pattern language as a whole.\nA pattern language helps by:\n\nNoticing and naming common problems in a field of interest.\nDescribing key characteristics of effective solutions for a stated goal.\nHelping the designer move from problem to problem in a logical way.\nAllowing for many different paths through the design process."
-  },
-  {
-    "objectID": "week13/gamedesignpatterns.html#pattern-languages",
-    "href": "week13/gamedesignpatterns.html#pattern-languages",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "Pattern Languages",
-    "text": "Pattern Languages\n\nAlexander emphasized the importance of pattern languages — more than just collections of patterns.\nLanguages are sets of patterns that fill out a design space and are chosen to complement each other.\nForces in each pattern may explain its relations with other patterns."
-  },
-  {
-    "objectID": "week13/gamedesignpatterns.html#a-pattern-language-for-interactive-exhibits",
-    "href": "week13/gamedesignpatterns.html#a-pattern-language-for-interactive-exhibits",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "A Pattern Language for Interactive Exhibits",
-    "text": "A Pattern Language for Interactive Exhibits\nSource: [Borchers 2001]\n\nTree diagram showing a pattern language for interactive exhibits, branching from “Interactive Exhibit” into Attract Visitor, Engage Visitor, and Deliver Message, and connecting to patterns such as Simple Impression, Innovative Appearance, Universal Access, Incremental Revealing, and Closed Loop"
-  },
-  {
-    "objectID": "week13/gamedesignpatterns.html#discussion",
-    "href": "week13/gamedesignpatterns.html#discussion",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "Discussion",
-    "text": "Discussion\n\nWhat’s the difference between design patterns and some experts’ tips in design?\nWhy is context required in documenting a pattern?\nCan design patterns replace hands-on practice in design?"
-  },
-  {
-    "objectID": "week13/gamedesignpatterns.html#from-architecture-to-computer-science",
-    "href": "week13/gamedesignpatterns.html#from-architecture-to-computer-science",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "From Architecture to Computer Science",
-    "text": "From Architecture to Computer Science\n\nIn the early 1990s, Gamma et al. borrowed the idea from architecture and used it in software engineering.\nPurpose: communicate object-oriented software design problems and solutions.\n\n\nCover of “Design Patterns: Elements of Reusable Object-Oriented Software” by Gamma, Helm, Johnson and Vlissides, the influential book that brought the pattern concept into software engineering"
-  },
-  {
-    "objectID": "week13/gamedesignpatterns.html#patterns-in-hciui-design",
-    "href": "week13/gamedesignpatterns.html#patterns-in-hciui-design",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "Patterns in HCI/UI Design",
-    "text": "Patterns in HCI/UI Design\nKey sources: [Borchers 2001], [Tidwell 2005], [Duyne et al. 2002], and community sites such as hcipatterns.org and InteractionPatterns.html.\n\n\n\nBook cover of “Designing Interfaces” by Jenifer Tidwell, a widely used catalogue of interaction design patterns\n\n\n![Book cover of “A Pattern Appro\n\n\n\nImage17\n\n\n\n\n\nImage21\n\n\n\n\n\nImage22\n\n\n\n\n\nImage23"
   }
 ]
