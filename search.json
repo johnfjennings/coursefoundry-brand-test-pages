@@ -1,388 +1,333 @@
 [
   {
-    "objectID": "week13/acav3-en-m17-bridgingtocertification-instructor-deck.html#secure-public-cloud-services",
-    "href": "week13/acav3-en-m17-bridgingtocertification-instructor-deck.html#secure-public-cloud-services",
+    "objectID": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#secure-public-cloud-services",
+    "href": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#secure-public-cloud-services",
     "title": "Bridging to Certification",
     "section": "Secure Public Cloud Services",
-    "text": "Secure Public Cloud Services\n\nAWS logo mark alongside the “Training & Certification” wordmark, used here as the course branding image for the title slideJohn Jennings\nAcademic Year 2024-25"
+    "text": "Secure Public Cloud Services\n\nAWS logo mark alongside the “Training & Certification” wordmark, used here as the course branding image for the title slideJohn Jennings\nAcademic Year 2024-25",
+    "crumbs": [
+      "Week13",
+      "Acav3 En M17 Bridgingtocertification Instructor Deck"
+    ]
   },
   {
-    "objectID": "week13/acav3-en-m17-bridgingtocertification-instructor-deck.html#bridging-to-certification",
-    "href": "week13/acav3-en-m17-bridgingtocertification-instructor-deck.html#bridging-to-certification",
+    "objectID": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#bridging-to-certification",
+    "href": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#bridging-to-certification",
     "title": "Bridging to Certification",
     "section": "Bridging to Certification",
-    "text": "Bridging to Certification\nAWS Academy Cloud Architecting"
+    "text": "Bridging to Certification\nAWS Academy Cloud Architecting",
+    "crumbs": [
+      "Week13",
+      "Acav3 En M17 Bridgingtocertification Instructor Deck"
+    ]
   },
   {
-    "objectID": "week13/acav3-en-m17-bridgingtocertification-instructor-deck.html#introduction",
-    "href": "week13/acav3-en-m17-bridgingtocertification-instructor-deck.html#introduction",
+    "objectID": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#introduction",
+    "href": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#introduction",
     "title": "Bridging to Certification",
     "section": "Introduction",
-    "text": "Introduction\nBridging to Certification"
+    "text": "Introduction\nBridging to Certification",
+    "crumbs": [
+      "Week13",
+      "Acav3 En M17 Bridgingtocertification Instructor Deck"
+    ]
   },
   {
-    "objectID": "week13/acav3-en-m17-bridgingtocertification-instructor-deck.html#module-objectives",
-    "href": "week13/acav3-en-m17-bridgingtocertification-instructor-deck.html#module-objectives",
+    "objectID": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#module-objectives",
+    "href": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#module-objectives",
     "title": "Bridging to Certification",
     "section": "Module objectives",
-    "text": "Module objectives\nThis module prepares you to do the following:\n\nIdentify how to prepare for the AWS Certified Solutions Architect – Associate exam.\nFind resources to prepare for the exam."
+    "text": "Module objectives\nThis module prepares you to do the following:\n\nIdentify how to prepare for the AWS Certified Solutions Architect – Associate exam.\nFind resources to prepare for the exam.",
+    "crumbs": [
+      "Week13",
+      "Acav3 En M17 Bridgingtocertification Instructor Deck"
+    ]
   },
   {
-    "objectID": "week13/acav3-en-m17-bridgingtocertification-instructor-deck.html#module-overview",
-    "href": "week13/acav3-en-m17-bridgingtocertification-instructor-deck.html#module-overview",
+    "objectID": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#module-overview",
+    "href": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#module-overview",
     "title": "Bridging to Certification",
     "section": "Module overview",
-    "text": "Module overview\nPresentation sections\n\nSolutions Architect – Associate certification domains\nSolutions Architect – Associate certification exam resources\nAdditional resources"
+    "text": "Module overview\nPresentation sections\n\nSolutions Architect – Associate certification domains\nSolutions Architect – Associate certification exam resources\nAdditional resources",
+    "crumbs": [
+      "Week13",
+      "Acav3 En M17 Bridgingtocertification Instructor Deck"
+    ]
   },
   {
-    "objectID": "week13/acav3-en-m17-bridgingtocertification-instructor-deck.html#about-aws-certification-exams",
-    "href": "week13/acav3-en-m17-bridgingtocertification-instructor-deck.html#about-aws-certification-exams",
+    "objectID": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#about-aws-certification-exams",
+    "href": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#about-aws-certification-exams",
     "title": "Bridging to Certification",
     "section": "About AWS Certification exams",
-    "text": "About AWS Certification exams\nExam content\n\nContent is divided into domains and task statements.\nEach domain is weighted.\nQuestions include multiple choice and multiple response types.\n\nExam scoring\n\nExams have a pass or fail designation.\nUnanswered questions are scored as incorrect.\nEach exam includes some unscored questions that do not affect your score."
+    "text": "About AWS Certification exams\nExam content\n\nContent is divided into domains and task statements.\nEach domain is weighted.\nQuestions include multiple choice and multiple response types.\n\nExam scoring\n\nExams have a pass or fail designation.\nUnanswered questions are scored as incorrect.\nEach exam includes some unscored questions that do not affect your score.",
+    "crumbs": [
+      "Week13",
+      "Acav3 En M17 Bridgingtocertification Instructor Deck"
+    ]
   },
   {
-    "objectID": "week13/acav3-en-m17-bridgingtocertification-instructor-deck.html#about-the-solutions-architect-associate-certification",
-    "href": "week13/acav3-en-m17-bridgingtocertification-instructor-deck.html#about-the-solutions-architect-associate-certification",
+    "objectID": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#about-the-solutions-architect-associate-certification",
+    "href": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#about-the-solutions-architect-associate-certification",
     "title": "Bridging to Certification",
     "section": "About the Solutions Architect – Associate Certification",
-    "text": "About the Solutions Architect – Associate Certification\nRecommended candidate for exam\n\nPerforms a solutions architect role\nHas at least 1 year of hands-on experience designing cloud solutions that use AWS services\n\nKnowledge and skills validated by the exam\n\nAbility to design solutions based on the AWS Well-Architected Framework\nAbility to complete the following tasks:\n\nDesign solutions that incorporate AWS services to meet current business requirements and future projected needs.\nDesign architectures that are secure, resilient, high-performing, and cost-optimized.\nReview existing solutions and determine improvements."
+    "text": "About the Solutions Architect – Associate Certification\nRecommended candidate for exam\n\nPerforms a solutions architect role\nHas at least 1 year of hands-on experience designing cloud solutions that use AWS services\n\nKnowledge and skills validated by the exam\n\nAbility to design solutions based on the AWS Well-Architected Framework\nAbility to complete the following tasks:\n\nDesign solutions that incorporate AWS services to meet current business requirements and future projected needs.\nDesign architectures that are secure, resilient, high-performing, and cost-optimized.\nReview existing solutions and determine improvements.",
+    "crumbs": [
+      "Week13",
+      "Acav3 En M17 Bridgingtocertification Instructor Deck"
+    ]
   },
   {
-    "objectID": "week13/acav3-en-m17-bridgingtocertification-instructor-deck.html#solutions-architect-associate-certification-domains-and-task-statements",
-    "href": "week13/acav3-en-m17-bridgingtocertification-instructor-deck.html#solutions-architect-associate-certification-domains-and-task-statements",
+    "objectID": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#solutions-architect-associate-certification-domains-and-task-statements",
+    "href": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#solutions-architect-associate-certification-domains-and-task-statements",
     "title": "Bridging to Certification",
     "section": "Solutions Architect – Associate Certification domains and task statements",
-    "text": "Solutions Architect – Associate Certification domains and task statements\nBridging to Certification"
+    "text": "Solutions Architect – Associate Certification domains and task statements\nBridging to Certification",
+    "crumbs": [
+      "Week13",
+      "Acav3 En M17 Bridgingtocertification Instructor Deck"
+    ]
   },
   {
-    "objectID": "week13/acav3-en-m17-bridgingtocertification-instructor-deck.html#solutions-architect-associate-content-domains",
-    "href": "week13/acav3-en-m17-bridgingtocertification-instructor-deck.html#solutions-architect-associate-content-domains",
+    "objectID": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#solutions-architect-associate-content-domains",
+    "href": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#solutions-architect-associate-content-domains",
     "title": "Bridging to Certification",
     "section": "Solutions Architect – Associate content domains",
-    "text": "Solutions Architect – Associate content domains\n\nDomain 1 (30%): Design Secure Architectures\nDomain 2 (26%): Design Resilient Architectures\nDomain 3 (24%): Design High-Performing Architectures\nDomain 4 (20%): Design Cost-Optimized Architectures\n\n\n\n\nIcon representing the Design Secure Architectures domain, one of four domain icons shown together on the content domains overview slide\n\n\n\n\n\nIcon representing the Design Resilient Architectures domain, shown alongside the other three domain icons on this overview slide\n\n\n\n\n\nIcon representing the Design High-Performing Architectures domain, part of the set of four domain icons on this slide\n\n\n\n\n\nIcon representing the Design Cost-Optimized Architectures domain, completing the set of four domain icons on this slide"
+    "text": "Solutions Architect – Associate content domains\n\nDomain 1 (30%): Design Secure Architectures\nDomain 2 (26%): Design Resilient Architectures\nDomain 3 (24%): Design High-Performing Architectures\nDomain 4 (20%): Design Cost-Optimized Architectures\n\n\n\n\nIcon representing the Design Secure Architectures domain, one of four domain icons shown together on the content domains overview slide\n\n\n\n\n\nIcon representing the Design Resilient Architectures domain, shown alongside the other three domain icons on this overview slide\n\n\n\n\n\nIcon representing the Design High-Performing Architectures domain, part of the set of four domain icons on this slide\n\n\n\n\n\nIcon representing the Design Cost-Optimized Architectures domain, completing the set of four domain icons on this slide",
+    "crumbs": [
+      "Week13",
+      "Acav3 En M17 Bridgingtocertification Instructor Deck"
+    ]
   },
   {
-    "objectID": "week13/acav3-en-m17-bridgingtocertification-instructor-deck.html#certification-content-domain-1-task-statements",
-    "href": "week13/acav3-en-m17-bridgingtocertification-instructor-deck.html#certification-content-domain-1-task-statements",
+    "objectID": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#certification-content-domain-1-task-statements",
+    "href": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#certification-content-domain-1-task-statements",
     "title": "Bridging to Certification",
     "section": "Certification content domain 1 task statements",
-    "text": "Certification content domain 1 task statements\nDesign Secure Architectures (30%)\n\n1.1: Design secure access to AWS resources.\n1.2: Design secure workloads and applications.\n1.3: Determine appropriate data security controls."
+    "text": "Certification content domain 1 task statements\nDesign Secure Architectures (30%)\n\n1.1: Design secure access to AWS resources.\n1.2: Design secure workloads and applications.\n1.3: Determine appropriate data security controls.",
+    "crumbs": [
+      "Week13",
+      "Acav3 En M17 Bridgingtocertification Instructor Deck"
+    ]
   },
   {
-    "objectID": "week13/acav3-en-m17-bridgingtocertification-instructor-deck.html#certification-content-domain-2-task-statements",
-    "href": "week13/acav3-en-m17-bridgingtocertification-instructor-deck.html#certification-content-domain-2-task-statements",
+    "objectID": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#certification-content-domain-2-task-statements",
+    "href": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#certification-content-domain-2-task-statements",
     "title": "Bridging to Certification",
     "section": "Certification content domain 2 task statements",
-    "text": "Certification content domain 2 task statements\nDesign Resilient Architectures (26%)\n\n2.1: Design scalable and loosely coupled architectures.\n2.2: Design highly available and/or fault-tolerant architectures."
+    "text": "Certification content domain 2 task statements\nDesign Resilient Architectures (26%)\n\n2.1: Design scalable and loosely coupled architectures.\n2.2: Design highly available and/or fault-tolerant architectures.",
+    "crumbs": [
+      "Week13",
+      "Acav3 En M17 Bridgingtocertification Instructor Deck"
+    ]
   },
   {
-    "objectID": "week13/acav3-en-m17-bridgingtocertification-instructor-deck.html#certification-content-domain-3-task-statements",
-    "href": "week13/acav3-en-m17-bridgingtocertification-instructor-deck.html#certification-content-domain-3-task-statements",
+    "objectID": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#certification-content-domain-3-task-statements",
+    "href": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#certification-content-domain-3-task-statements",
     "title": "Bridging to Certification",
     "section": "Certification content domain 3 task statements",
-    "text": "Certification content domain 3 task statements\nDesign High-Performing Architectures (24%)\n\n3.1: Determine high-performing and/or scalable storage solutions.\n3.2: Design high-performing and elastic compute solutions.\n3.3: Determine high-performing database solutions.\n3.4: Determine high-performing and/or scalable network architectures.\n3.5: Determine high-performing data ingestion and transformation solutions."
+    "text": "Certification content domain 3 task statements\nDesign High-Performing Architectures (24%)\n\n3.1: Determine high-performing and/or scalable storage solutions.\n3.2: Design high-performing and elastic compute solutions.\n3.3: Determine high-performing database solutions.\n3.4: Determine high-performing and/or scalable network architectures.\n3.5: Determine high-performing data ingestion and transformation solutions.",
+    "crumbs": [
+      "Week13",
+      "Acav3 En M17 Bridgingtocertification Instructor Deck"
+    ]
   },
   {
-    "objectID": "week13/acav3-en-m17-bridgingtocertification-instructor-deck.html#certification-content-domain-4-task-statements",
-    "href": "week13/acav3-en-m17-bridgingtocertification-instructor-deck.html#certification-content-domain-4-task-statements",
+    "objectID": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#certification-content-domain-4-task-statements",
+    "href": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#certification-content-domain-4-task-statements",
     "title": "Bridging to Certification",
     "section": "Certification content domain 4 task statements",
-    "text": "Certification content domain 4 task statements\nDesign Cost-Optimized Architectures (20%)\n\n4.1: Design cost-optimized storage solutions.\n4.2: Design cost-optimized compute solutions.\n4.3: Design cost-optimized database solutions.\n4.4: Design cost-optimized network architectures."
+    "text": "Certification content domain 4 task statements\nDesign Cost-Optimized Architectures (20%)\n\n4.1: Design cost-optimized storage solutions.\n4.2: Design cost-optimized compute solutions.\n4.3: Design cost-optimized database solutions.\n4.4: Design cost-optimized network architectures.",
+    "crumbs": [
+      "Week13",
+      "Acav3 En M17 Bridgingtocertification Instructor Deck"
+    ]
   },
   {
-    "objectID": "week13/acav3-en-m17-bridgingtocertification-instructor-deck.html#solutions-architect-associate-certification-exam-preparation-resources",
-    "href": "week13/acav3-en-m17-bridgingtocertification-instructor-deck.html#solutions-architect-associate-certification-exam-preparation-resources",
+    "objectID": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#solutions-architect-associate-certification-exam-preparation-resources",
+    "href": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#solutions-architect-associate-certification-exam-preparation-resources",
     "title": "Bridging to Certification",
     "section": "Solutions Architect – Associate Certification exam preparation resources",
-    "text": "Solutions Architect – Associate Certification exam preparation resources\nBridging to Certification"
+    "text": "Solutions Architect – Associate Certification exam preparation resources\nBridging to Certification",
+    "crumbs": [
+      "Week13",
+      "Acav3 En M17 Bridgingtocertification Instructor Deck"
+    ]
   },
   {
-    "objectID": "week13/acav3-en-m17-bridgingtocertification-instructor-deck.html#aws-certification-resources",
-    "href": "week13/acav3-en-m17-bridgingtocertification-instructor-deck.html#aws-certification-resources",
+    "objectID": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#aws-certification-resources",
+    "href": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#aws-certification-resources",
     "title": "Bridging to Certification",
     "section": "AWS Certification resources",
-    "text": "AWS Certification resources\n\n\n\n\n\n\n\nWebpage address\nDescription\n\n\n\n\nhttps://aws.amazon.com/certification\nAWS Certification overview: Includes links to resources and information about each certification\n\n\nhttps://aws.amazon.com/certification/certified-solutions-architect-associate\nAWS Certified Solutions Architect – Associate Certification: Includes details about the Solutions Architect – Associate exam with links to exam guide, sample questions, and available training"
+    "text": "AWS Certification resources\n\n\n\n\n\n\n\nWebpage address\nDescription\n\n\n\n\nhttps://aws.amazon.com/certification\nAWS Certification overview: Includes links to resources and information about each certification\n\n\nhttps://aws.amazon.com/certification/certified-solutions-architect-associate\nAWS Certified Solutions Architect – Associate Certification: Includes details about the Solutions Architect – Associate exam with links to exam guide, sample questions, and available training",
+    "crumbs": [
+      "Week13",
+      "Acav3 En M17 Bridgingtocertification Instructor Deck"
+    ]
   },
   {
-    "objectID": "week13/acav3-en-m17-bridgingtocertification-instructor-deck.html#free-exam-readiness-resources",
-    "href": "week13/acav3-en-m17-bridgingtocertification-instructor-deck.html#free-exam-readiness-resources",
+    "objectID": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#free-exam-readiness-resources",
+    "href": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#free-exam-readiness-resources",
     "title": "Bridging to Certification",
     "section": "Free exam readiness resources",
-    "text": "Free exam readiness resources\n\nExam Guide: PDF document that explains the test and the certification domains in detail. Appendix includes technologies and concepts that might appear on the exam, and in-scope and out-of-scope AWS services and features.\nSample questions: PDF document with ten questions that demonstrate the format of the questions used on the exam. Includes rationales for the correct answers.\nAWS Certified Solutions Architect – Associate webinar: 3-hour virtual event that explores topic areas and how they map to architecting on AWS and to specific areas of study. Requires registration.\nExam Prep Standard Course: AWS Certified Solutions Architect – Associate: Digital training course that walks you through each of the domains, explaining what you should know. Includes reviews of exam-style questions. Requires an AWS Skill Builder account.\nExam Prep Official Practice Question Set: AWS Certified Solutions Architect – Associate: 20 exam-style questions delivered online in a format similar to the certification exam. Includes detailed feedback and recommended resources to help you prepare for your exam."
+    "text": "Free exam readiness resources\n\nExam Guide: PDF document that explains the test and the certification domains in detail. Appendix includes technologies and concepts that might appear on the exam, and in-scope and out-of-scope AWS services and features.\nSample questions: PDF document with ten questions that demonstrate the format of the questions used on the exam. Includes rationales for the correct answers.\nAWS Certified Solutions Architect – Associate webinar: 3-hour virtual event that explores topic areas and how they map to architecting on AWS and to specific areas of study. Requires registration.\nExam Prep Standard Course: AWS Certified Solutions Architect – Associate: Digital training course that walks you through each of the domains, explaining what you should know. Includes reviews of exam-style questions. Requires an AWS Skill Builder account.\nExam Prep Official Practice Question Set: AWS Certified Solutions Architect – Associate: 20 exam-style questions delivered online in a format similar to the certification exam. Includes detailed feedback and recommended resources to help you prepare for your exam.",
+    "crumbs": [
+      "Week13",
+      "Acav3 En M17 Bridgingtocertification Instructor Deck"
+    ]
   },
   {
-    "objectID": "week13/acav3-en-m17-bridgingtocertification-instructor-deck.html#exam-readiness-with-an-aws-skill-builder-subscription",
-    "href": "week13/acav3-en-m17-bridgingtocertification-instructor-deck.html#exam-readiness-with-an-aws-skill-builder-subscription",
+    "objectID": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#exam-readiness-with-an-aws-skill-builder-subscription",
+    "href": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#exam-readiness-with-an-aws-skill-builder-subscription",
     "title": "Bridging to Certification",
     "section": "Exam readiness with an AWS Skill Builder subscription",
-    "text": "Exam readiness with an AWS Skill Builder subscription\n\nEnhanced digital training. Requires subscription.\nAWS Cloud Quest: Solutions Architect. Requires subscription.\nOfficial practice exam. Requires subscription.\n\n\n\n\nScreenshot representing the Enhanced digital training resource available through an AWS Skill Builder subscription\n\n\n\n\n\nScreenshot representing the AWS Cloud Quest: Solutions Architect gamified learning experience available through an AWS Skill Builder subscription\n\n\n\n\n\nScreenshot representing the Official practice exam available through an AWS Skill Builder subscription"
+    "text": "Exam readiness with an AWS Skill Builder subscription\n\nEnhanced digital training. Requires subscription.\nAWS Cloud Quest: Solutions Architect. Requires subscription.\nOfficial practice exam. Requires subscription.\n\n\n\n\nScreenshot representing the Enhanced digital training resource available through an AWS Skill Builder subscription\n\n\n\n\n\nScreenshot representing the AWS Cloud Quest: Solutions Architect gamified learning experience available through an AWS Skill Builder subscription\n\n\n\n\n\nScreenshot representing the Official practice exam available through an AWS Skill Builder subscription",
+    "crumbs": [
+      "Week13",
+      "Acav3 En M17 Bridgingtocertification Instructor Deck"
+    ]
   },
   {
-    "objectID": "week13/acav3-en-m17-bridgingtocertification-instructor-deck.html#additional-resources",
-    "href": "week13/acav3-en-m17-bridgingtocertification-instructor-deck.html#additional-resources",
+    "objectID": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#additional-resources",
+    "href": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#additional-resources",
     "title": "Bridging to Certification",
     "section": "Additional resources",
-    "text": "Additional resources\nBridging to Certification"
+    "text": "Additional resources\nBridging to Certification",
+    "crumbs": [
+      "Week13",
+      "Acav3 En M17 Bridgingtocertification Instructor Deck"
+    ]
   },
   {
-    "objectID": "week13/acav3-en-m17-bridgingtocertification-instructor-deck.html#aws-well-architected-framework",
-    "href": "week13/acav3-en-m17-bridgingtocertification-instructor-deck.html#aws-well-architected-framework",
+    "objectID": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#aws-well-architected-framework",
+    "href": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#aws-well-architected-framework",
     "title": "Bridging to Certification",
     "section": "AWS Well-Architected Framework",
-    "text": "AWS Well-Architected Framework\n\nDiagram illustrating the AWS Well-Architected Framework hub page, from which learners can reach the framework overview and its pillars"
+    "text": "AWS Well-Architected Framework\n\nDiagram illustrating the AWS Well-Architected Framework hub page, from which learners can reach the framework overview and its pillars",
+    "crumbs": [
+      "Week13",
+      "Acav3 En M17 Bridgingtocertification Instructor Deck"
+    ]
   },
   {
-    "objectID": "week13/acav3-en-m17-bridgingtocertification-instructor-deck.html#centralized-hubs-for-finding-aws-resources",
-    "href": "week13/acav3-en-m17-bridgingtocertification-instructor-deck.html#centralized-hubs-for-finding-aws-resources",
+    "objectID": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#centralized-hubs-for-finding-aws-resources",
+    "href": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#centralized-hubs-for-finding-aws-resources",
     "title": "Bridging to Certification",
     "section": "Centralized hubs for finding AWS resources",
-    "text": "Centralized hubs for finding AWS resources\n\n\n\n\n\n\n\nWebpage\nDescription\n\n\n\n\nAWS Architecture Center\nhttps://aws.amazon.com/architecture\n\n\nAWS Documentation (services)\nhttps://docs.aws.amazon.com\n\n\nAWS Frequently asked questions (FAQs)\nhttps://aws.amazon.com/faqs\n\n\nGetting Started Resource Center\nhttps://aws.amazon.com/getting-started\n\n\nAWS Builder Labs (Subscription-based hands-on labs)\nhttps://aws.amazon.com/training/digital/aws-builder-labs\n\n\nAWS Ramp-Up Guides\nhttps://aws.amazon.com/training/ramp-up-guides"
+    "text": "Centralized hubs for finding AWS resources\n\n\n\n\n\n\n\nWebpage\nDescription\n\n\n\n\nAWS Architecture Center\nhttps://aws.amazon.com/architecture\n\n\nAWS Documentation (services)\nhttps://docs.aws.amazon.com\n\n\nAWS Frequently asked questions (FAQs)\nhttps://aws.amazon.com/faqs\n\n\nGetting Started Resource Center\nhttps://aws.amazon.com/getting-started\n\n\nAWS Builder Labs (Subscription-based hands-on labs)\nhttps://aws.amazon.com/training/digital/aws-builder-labs\n\n\nAWS Ramp-Up Guides\nhttps://aws.amazon.com/training/ramp-up-guides",
+    "crumbs": [
+      "Week13",
+      "Acav3 En M17 Bridgingtocertification Instructor Deck"
+    ]
   },
   {
-    "objectID": "week13/acav3-en-m17-bridgingtocertification-instructor-deck.html#architecture-center-resource-categories",
-    "href": "week13/acav3-en-m17-bridgingtocertification-instructor-deck.html#architecture-center-resource-categories",
+    "objectID": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#architecture-center-resource-categories",
+    "href": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#architecture-center-resource-categories",
     "title": "Bridging to Certification",
     "section": "Architecture Center resource categories",
-    "text": "Architecture Center resource categories\nBest practices\n\nOrganized by technology category\nPresented in the context of a project’s lifecycle steps\n\nVideo series\n\nFocused on practical use cases\nPresented by AWS Solutions Architects, AWS Partners, and customers\n\nLibraries\n\nOrganized into searchable and filterable collections\nIncludes the following:\n\nReference architectures\nWhitepapers\nQuick Starts"
+    "text": "Architecture Center resource categories\nBest practices\n\nOrganized by technology category\nPresented in the context of a project’s lifecycle steps\n\nVideo series\n\nFocused on practical use cases\nPresented by AWS Solutions Architects, AWS Partners, and customers\n\nLibraries\n\nOrganized into searchable and filterable collections\nIncludes the following:\n\nReference architectures\nWhitepapers\nQuick Starts",
+    "crumbs": [
+      "Week13",
+      "Acav3 En M17 Bridgingtocertification Instructor Deck"
+    ]
   },
   {
-    "objectID": "week13/acav3-en-m17-bridgingtocertification-instructor-deck.html#suggested-aws-video-series-for-architecting",
-    "href": "week13/acav3-en-m17-bridgingtocertification-instructor-deck.html#suggested-aws-video-series-for-architecting",
+    "objectID": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#suggested-aws-video-series-for-architecting",
+    "href": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#suggested-aws-video-series-for-architecting",
     "title": "Bridging to Certification",
     "section": "Suggested AWS Video Series for architecting",
-    "text": "Suggested AWS Video Series for architecting\nThis is My Architecture\nAWS Cloud customers and partners explain elements of their specific architectural solutions.\nhttps://aws.amazon.com/architecture/this-is-my-architecture\nBack to Basics\nAWS Solutions Architects explain a specific architectural building block independent of a particular cloud solution.\nhttps://aws.amazon.com/architecture/back-to-basics\n\n\n\nThumbnail image for the “This is My Architecture” video series, featuring customer and partner architecture walkthroughs\n\n\n\n\n\nThumbnail image for the “Back to Basics” video series, featuring AWS Solutions Architects explaining core architectural building blocks"
+    "text": "Suggested AWS Video Series for architecting\nThis is My Architecture\nAWS Cloud customers and partners explain elements of their specific architectural solutions.\nhttps://aws.amazon.com/architecture/this-is-my-architecture\nBack to Basics\nAWS Solutions Architects explain a specific architectural building block independent of a particular cloud solution.\nhttps://aws.amazon.com/architecture/back-to-basics\n\n\n\nThumbnail image for the “This is My Architecture” video series, featuring customer and partner architecture walkthroughs\n\n\n\n\n\nThumbnail image for the “Back to Basics” video series, featuring AWS Solutions Architects explaining core architectural building blocks",
+    "crumbs": [
+      "Week13",
+      "Acav3 En M17 Bridgingtocertification Instructor Deck"
+    ]
   },
   {
-    "objectID": "week13/acav3-en-m17-bridgingtocertification-instructor-deck.html#aws-service-documentation-at-docs.aws.amazon.com",
-    "href": "week13/acav3-en-m17-bridgingtocertification-instructor-deck.html#aws-service-documentation-at-docs.aws.amazon.com",
+    "objectID": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#aws-service-documentation-at-docs.aws.amazon.com",
+    "href": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#aws-service-documentation-at-docs.aws.amazon.com",
     "title": "Bridging to Certification",
     "section": "AWS service documentation at docs.aws.amazon.com",
-    "text": "AWS service documentation at docs.aws.amazon.com\n\nSelect a service from the Product guides and references section.\nUser guides, developer guides, and best practices are good sources for certification exam preparation.\nHelpful sections in these resources include the following:\n\nWhat is\nHow it works\nGetting started\n\n\n\nGraphic illustrating the structure of the AWS documentation site, docs.aws.amazon.com, showing how product guides are organized"
+    "text": "AWS service documentation at docs.aws.amazon.com\n\nSelect a service from the Product guides and references section.\nUser guides, developer guides, and best practices are good sources for certification exam preparation.\nHelpful sections in these resources include the following:\n\nWhat is\nHow it works\nGetting started\n\n\n\nGraphic illustrating the structure of the AWS documentation site, docs.aws.amazon.com, showing how product guides are organized",
+    "crumbs": [
+      "Week13",
+      "Acav3 En M17 Bridgingtocertification Instructor Deck"
+    ]
   },
   {
-    "objectID": "week13/acav3-en-m17-bridgingtocertification-instructor-deck.html#aws-faq-resources",
-    "href": "week13/acav3-en-m17-bridgingtocertification-instructor-deck.html#aws-faq-resources",
+    "objectID": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#aws-faq-resources",
+    "href": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#aws-faq-resources",
     "title": "Bridging to Certification",
     "section": "AWS FAQ resources",
-    "text": "AWS FAQ resources\nProduct-related\nSelect a product to navigate to its product page FAQ. Examples include the following:\n\nAmazon EC2 Auto Scaling FAQ\nAmazon S3 FAQ\n\nCloud computing concepts\nChoose a question or follow the link to the Cloud Computing Concepts Hub to search for questions by topic.\n\nWhat is machine learning (ML)?\nWhat is Data Mining?\n\nCloud comparison tool\nChoose a topic or follow the link to the Cloud Comparison tool to search for comparisons by topic. Examples include the following:\n\nETL vs. ELT\nArtificial Intelligence vs Machine Learning"
+    "text": "AWS FAQ resources\nProduct-related\nSelect a product to navigate to its product page FAQ. Examples include the following:\n\nAmazon EC2 Auto Scaling FAQ\nAmazon S3 FAQ\n\nCloud computing concepts\nChoose a question or follow the link to the Cloud Computing Concepts Hub to search for questions by topic.\n\nWhat is machine learning (ML)?\nWhat is Data Mining?\n\nCloud comparison tool\nChoose a topic or follow the link to the Cloud Comparison tool to search for comparisons by topic. Examples include the following:\n\nETL vs. ELT\nArtificial Intelligence vs Machine Learning",
+    "crumbs": [
+      "Week13",
+      "Acav3 En M17 Bridgingtocertification Instructor Deck"
+    ]
   },
   {
-    "objectID": "week13/acav3-en-m17-bridgingtocertification-instructor-deck.html#getting-started-resource-center-links",
-    "href": "week13/acav3-en-m17-bridgingtocertification-instructor-deck.html#getting-started-resource-center-links",
+    "objectID": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#getting-started-resource-center-links",
+    "href": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#getting-started-resource-center-links",
     "title": "Bridging to Certification",
     "section": "Getting Started Resource Center links",
-    "text": "Getting Started Resource Center links\nHands-on Tutorials\nFilter by technology category and tutorial type (Getting Started guides, How-To guides, and tutorials). Available directly at https://aws.amazon.com/getting-started/hands-on\nDecision guides\nSelect a technology category to read the related guide.\nhttps://aws.amazon.com/getting-started/decision-guides"
+    "text": "Getting Started Resource Center links\nHands-on Tutorials\nFilter by technology category and tutorial type (Getting Started guides, How-To guides, and tutorials). Available directly at https://aws.amazon.com/getting-started/hands-on\nDecision guides\nSelect a technology category to read the related guide.\nhttps://aws.amazon.com/getting-started/decision-guides",
+    "crumbs": [
+      "Week13",
+      "Acav3 En M17 Bridgingtocertification Instructor Deck"
+    ]
   },
   {
-    "objectID": "week13/acav3-en-m17-bridgingtocertification-instructor-deck.html#aws-builder-labs",
-    "href": "week13/acav3-en-m17-bridgingtocertification-instructor-deck.html#aws-builder-labs",
+    "objectID": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#aws-builder-labs",
+    "href": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#aws-builder-labs",
     "title": "Bridging to Certification",
     "section": "AWS Builder Labs",
-    "text": "AWS Builder Labs\n\nBrowse the catalog of self-paced labs available.\nSelf-paced labs run in an AWS environment similar to the labs in the course.\nLabs require a Skill Builder subscription.\n\n\nGraphic representing the AWS Builder Labs catalog, where learners can browse self-paced, hands-on labs"
+    "text": "AWS Builder Labs\n\nBrowse the catalog of self-paced labs available.\nSelf-paced labs run in an AWS environment similar to the labs in the course.\nLabs require a Skill Builder subscription.\n\n\nGraphic representing the AWS Builder Labs catalog, where learners can browse self-paced, hands-on labs",
+    "crumbs": [
+      "Week13",
+      "Acav3 En M17 Bridgingtocertification Instructor Deck"
+    ]
   },
   {
-    "objectID": "week13/acav3-en-m17-bridgingtocertification-instructor-deck.html#aws-ramp-up-guides",
-    "href": "week13/acav3-en-m17-bridgingtocertification-instructor-deck.html#aws-ramp-up-guides",
+    "objectID": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#aws-ramp-up-guides",
+    "href": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#aws-ramp-up-guides",
     "title": "Bridging to Certification",
     "section": "AWS Ramp-Up Guides",
-    "text": "AWS Ramp-Up Guides\nExplore the following guides by role, solution, or industry area.\n\nDownloadable guides with curated links from AWS classroom and digital curricula, video library, and AWS Builder Labs\nThe Solutions Architect Ramp-Up Guide includes specific resources from many of the resource types highlighted in this module.\nTo access the Solutions Architect Ramp-Up Guide, see https://d1.awsstatic.com/training-and-certification/ramp-up_guides/Ramp-Up_Guide_Architect.pdf\n\n\nGraphic representing the AWS Ramp-Up Guides resource, which compiles curated learning materials by role, solution, or industry"
+    "text": "AWS Ramp-Up Guides\nExplore the following guides by role, solution, or industry area.\n\nDownloadable guides with curated links from AWS classroom and digital curricula, video library, and AWS Builder Labs\nThe Solutions Architect Ramp-Up Guide includes specific resources from many of the resource types highlighted in this module.\nTo access the Solutions Architect Ramp-Up Guide, see https://d1.awsstatic.com/training-and-certification/ramp-up_guides/Ramp-Up_Guide_Architect.pdf\n\n\nGraphic representing the AWS Ramp-Up Guides resource, which compiles curated learning materials by role, solution, or industry",
+    "crumbs": [
+      "Week13",
+      "Acav3 En M17 Bridgingtocertification Instructor Deck"
+    ]
   },
   {
-    "objectID": "week13/acav3-en-m17-bridgingtocertification-instructor-deck.html#module-wrap-up",
-    "href": "week13/acav3-en-m17-bridgingtocertification-instructor-deck.html#module-wrap-up",
+    "objectID": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#module-wrap-up",
+    "href": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#module-wrap-up",
     "title": "Bridging to Certification",
     "section": "Module wrap-up",
-    "text": "Module wrap-up\nBridging to Certification"
+    "text": "Module wrap-up\nBridging to Certification",
+    "crumbs": [
+      "Week13",
+      "Acav3 En M17 Bridgingtocertification Instructor Deck"
+    ]
   },
   {
-    "objectID": "week13/acav3-en-m17-bridgingtocertification-instructor-deck.html#module-summary",
-    "href": "week13/acav3-en-m17-bridgingtocertification-instructor-deck.html#module-summary",
+    "objectID": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#module-summary",
+    "href": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#module-summary",
     "title": "Bridging to Certification",
     "section": "Module summary",
-    "text": "Module summary\nThis module prepared you to do the following:\n\nIdentify how to prepare for the AWS Certified Solutions Architect – Associate exam.\nFind resources to prepare for the exam."
+    "text": "Module summary\nThis module prepared you to do the following:\n\nIdentify how to prepare for the AWS Certified Solutions Architect – Associate exam.\nFind resources to prepare for the exam.",
+    "crumbs": [
+      "Week13",
+      "Acav3 En M17 Bridgingtocertification Instructor Deck"
+    ]
   },
   {
-    "objectID": "week13/acav3-en-m17-bridgingtocertification-instructor-deck.html#thank-you",
-    "href": "week13/acav3-en-m17-bridgingtocertification-instructor-deck.html#thank-you",
+    "objectID": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#thank-you",
+    "href": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#thank-you",
     "title": "Bridging to Certification",
     "section": "Thank you",
-    "text": "Thank you\nCorrections, feedback, or other questions?\nContact us at https://support.aws.amazon.com/#/contacts/aws-academy\n\n\n\nDecorative closing graphic used on the final “Thank you” slide of the presentation"
-  },
-  {
-    "objectID": "week13/gamedesignpatterns.html#topics",
-    "href": "week13/gamedesignpatterns.html#topics",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "Topics",
-    "text": "Topics\n\nMotivation\nDesign Patterns in UI Design\nDesign Patterns in Game Design\nDesign Patterns in Learning\nClosing Discussions"
-  },
-  {
-    "objectID": "week13/gamedesignpatterns.html#design-solutions",
-    "href": "week13/gamedesignpatterns.html#design-solutions",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "Design = Solutions",
-    "text": "Design = Solutions\n\nDesign is about finding solutions.\nUnfortunately, designers often reinvent solutions to problems that have already been solved.\nThis happens because it is hard to know:\n\nHow things were done before.\nWhy things were done a certain way.\nHow to reuse existing solutions."
-  },
-  {
-    "objectID": "week13/gamedesignpatterns.html#how-can-we-codify-design-knowledge",
-    "href": "week13/gamedesignpatterns.html#how-can-we-codify-design-knowledge",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "How Can We Codify Design Knowledge?",
-    "text": "How Can We Codify Design Knowledge?\n\nAn effective and flexible design is difficult to get “right” the first time.\nYet experienced designers do make good designs.\nNew designers are usually overwhelmed by all the design options available.\nExperienced designers evidently know something inexperienced ones don’t — what is it?"
-  },
-  {
-    "objectID": "week13/gamedesignpatterns.html#how-experienced-designers-solve-a-problem",
-    "href": "week13/gamedesignpatterns.html#how-experienced-designers-solve-a-problem",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "How Experienced Designers Solve a Problem",
-    "text": "How Experienced Designers Solve a Problem\n\nExpert designers usually do not solve every problem from first principles — they reuse solutions that have worked for them in the past.\nWhen they find a good solution, they use it again and again.\nSuch experience is part of what makes them experts.\nThese experiences can be recorded as design patterns."
-  },
-  {
-    "objectID": "week13/gamedesignpatterns.html#excerpt-from-last-week",
-    "href": "week13/gamedesignpatterns.html#excerpt-from-last-week",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "Excerpt from Last Week",
-    "text": "Excerpt from Last Week\n\n“Good artists borrow (from other artists), but great artists steal!” — Pablo Picasso\nCompelling visual design takes practice and experience — a natural part of which is study and critique of others’ work.\n\n\nBlack-and-white portrait photograph of Pablo Picasso wearing a flat cap, used to introduce the quote about artists borrowing and stealing ideas"
-  },
-  {
-    "objectID": "week13/gamedesignpatterns.html#novelists-use-patterns",
-    "href": "week13/gamedesignpatterns.html#novelists-use-patterns",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "Novelists Use Patterns",
-    "text": "Novelists Use Patterns\n\nNovelists and playwrights rarely design their plots from scratch.\nThey follow patterns like “Tragically Flawed Hero” (Macbeth, Hamlet, etc.) or “The Romantic Novel” (countless romance novels).\n\n\nIllustration referenced in the source alongside the discussion of narrative patterns such as the Tragically Flawed Hero and the Romantic Novel (files named “hamlet-gill1” and “soustitre” in the original slide)"
-  },
-  {
-    "objectID": "week13/gamedesignpatterns.html#game-players-use-patterns",
-    "href": "week13/gamedesignpatterns.html#game-players-use-patterns",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "Game Players Use Patterns",
-    "text": "Game Players Use Patterns\n\nChess players, Go players, and basketball players all rely on “patterns.”\nExamples given in the source: the 1-4 offense pick-and-roll (basketball), a star-point joseki (Go), and the Queen’s Gambit (chess).\n\n\n\n\nDiagram referenced in the source illustrating a recurring game strategy — the basketball pick-and-roll play described in the original slide as “14HPPickRolla”\n\n\n\n\n\nImage referenced in the source alongside the Go joseki example (“300px-Joseki1”), illustrating a recurring opening pattern used by Go players"
-  },
-  {
-    "objectID": "week13/gamedesignpatterns.html#the-design-methods-hierarchy",
-    "href": "week13/gamedesignpatterns.html#the-design-methods-hierarchy",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "The Design Methods Hierarchy",
-    "text": "The Design Methods Hierarchy\nDesign knowledge can be organised from abstract to concrete:\n\nDesign Philosophy (most abstract)\nDesign Principles\nDesign Patterns\nDesign Idioms, Specific Knowledge and Tips (most concrete)"
-  },
-  {
-    "objectID": "week13/gamedesignpatterns.html#design-patterns-vs.-design-guidelines",
-    "href": "week13/gamedesignpatterns.html#design-patterns-vs.-design-guidelines",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "Design Patterns vs. Design Guidelines",
-    "text": "Design Patterns vs. Design Guidelines\n\nDesign guidelines can be either abstract or concrete.\nAbstract guidelines usually do not suggest how to solve a problem.\nConcrete guidelines are usually too tailored to a specific interface.\nGuidelines assume absolute validity, while design patterns emphasize effectiveness in a particular context.\nGuidelines are more useful for describing requirements; patterns are useful tools for translating requirements into specific software solutions."
-  },
-  {
-    "objectID": "week13/gamedesignpatterns.html#patterns-vs.-idioms",
-    "href": "week13/gamedesignpatterns.html#patterns-vs.-idioms",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "Patterns vs. Idioms",
-    "text": "Patterns vs. Idioms\n\nNot every design idea that uses the pattern syntax is a pattern.\nIf an idea is too specific (e.g. programming-language specific), it is not a pattern — such specific ideas are called idioms.\nPatterns also cannot be too general.\nIt must be clear how the pattern should be applied in a context."
-  },
-  {
-    "objectID": "week13/gamedesignpatterns.html#patterns-vs.-lexiconvocabulary",
-    "href": "week13/gamedesignpatterns.html#patterns-vs.-lexiconvocabulary",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "Patterns vs. Lexicon/Vocabulary",
-    "text": "Patterns vs. Lexicon/Vocabulary\n\nIf a technique appears so often in a domain that everyone knows and uses it in almost any situation, it is most likely not a pattern.\nExample, in game design: Player, Stage, Enemy, Gun shots — these are vocabulary, not patterns."
-  },
-  {
-    "objectID": "week13/gamedesignpatterns.html#what-are-design-patterns",
-    "href": "week13/gamedesignpatterns.html#what-are-design-patterns",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "What Are Design Patterns…",
-    "text": "What Are Design Patterns…\n\n“Patterns communicate insights into design problems, capturing the essence of the problems and their solutions in a compact form. They describe the problem in depth, the rationale for the solution, and some of the trade-offs in applying the solution.” — The Design of Sites, Van Duyne et al. 2003\n“Each pattern describes a problem which occurs over and over again in our environment, and then describes the core of the solution to that problem, in such a way that you can use this solution a million times over, without ever doing it the same way twice.” — A Pattern Language, Alexander et al. 1977\n“A pattern is the abstraction from a concrete form which keeps recurring in specific non-arbitrary contexts.” — Riehle and Zullighoven, Understanding and Using Patterns in Software Development"
-  },
-  {
-    "objectID": "week13/gamedesignpatterns.html#design-patterns-a-brief-history",
-    "href": "week13/gamedesignpatterns.html#design-patterns-a-brief-history",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "Design Patterns: A Brief History",
-    "text": "Design Patterns: A Brief History\nA short look back at where design patterns come from."
-  },
-  {
-    "objectID": "week13/gamedesignpatterns.html#christopher-alexander",
-    "href": "week13/gamedesignpatterns.html#christopher-alexander",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "Christopher Alexander",
-    "text": "Christopher Alexander\nPatterns for Architecture:\n\nThe Timeless Way of Building\nA Pattern Language\nThe Oregon Experiment\n\nOrganised across levels: Towns, buildings, construction → Network → A language.\n\n\n\nBook cover of “A Pattern Language” by Christopher Alexander, one of the foundational texts introducing design patterns for architecture\n\n\n\n\n\nBook cover of “The Timeless Way of Building” by Christopher Alexander, the companion volume describing the philosophy behind pattern languages"
-  },
-  {
-    "objectID": "week13/gamedesignpatterns.html#christopher-alexander-pattern-115-courtyards-which-live",
-    "href": "week13/gamedesignpatterns.html#christopher-alexander-pattern-115-courtyards-which-live",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "Christopher Alexander: Pattern 115 — Courtyards Which Live",
-    "text": "Christopher Alexander: Pattern 115 — Courtyards Which Live\n\nCourtyards built in modern buildings are often “dead” — intended as private open spaces, but ending up unused.\nThree ways courtyards fail:\n\nToo little ambiguity between indoors and outdoors.\nNot enough doors into the courtyard.\nToo enclosed.\n\nTherefore: place every courtyard so there is a view out to a larger open space; add at least two or three doors opening into it along natural paths; and add a roofed veranda or porch continuous with both the inside and the courtyard, following the ARCADE, GALLERY SURROUND, and SIX-FOOT BALCONY patterns.\nSource: A Pattern Language, Alexander et al., 1977.\n\n\nPhotograph of a plant-filled courtyard with tiled arcades and columns, illustrating Alexander’s Pattern 115 “Courtyards Which Live”"
-  },
-  {
-    "objectID": "week13/gamedesignpatterns.html#the-nature-of-design-patterns",
-    "href": "week13/gamedesignpatterns.html#the-nature-of-design-patterns",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "The Nature of Design Patterns",
-    "text": "The Nature of Design Patterns\n\nNot too general and not too specific.\nUse a solution “a million times over, without ever doing it the same way twice.”\nDesign patterns are a shared language for “building and planning towns, neighborhoods, houses, gardens, & rooms.”\nExample: a beer hall is part of a center for public life, and needs spaces for groups to be alone — the ALCOVES pattern."
-  },
-  {
-    "objectID": "week13/gamedesignpatterns.html#pattern-format",
-    "href": "week13/gamedesignpatterns.html#pattern-format",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "Pattern Format",
-    "text": "Pattern Format\nA pattern is typically documented with:\n\nPattern Name\nContext\nForces\nProblem Statement\nSolution\nSolution Sketch\nOther Patterns to Consider"
-  },
-  {
-    "objectID": "week13/gamedesignpatterns.html#example-alcoves",
-    "href": "week13/gamedesignpatterns.html#example-alcoves",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "Example – Alcoves",
-    "text": "Example – Alcoves\n\nPattern Title: Alcoves\nContext: Collaborative and common areas in buildings.\nForces: Open spaces are inviting, but people want a sense of enclosure for private discussions.\nProblem Statement: Create a space that invites collaboration but also supports private discussion."
-  },
-  {
-    "objectID": "week13/gamedesignpatterns.html#example-alcoves-solution",
-    "href": "week13/gamedesignpatterns.html#example-alcoves-solution",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "Example – Alcoves: Solution",
-    "text": "Example – Alcoves: Solution\n“Make small places at the edge of any common room, usually no more than 6 feet wide and 3 to 6 feet deep and possibly much smaller. These alcoves should be large enough for two people to sit, chat, or play and sometimes large enough to contain a desk or a table.”\n\nPage excerpt showing the Alcove pattern’s solution text alongside a sketch of a puzzle-piece-shaped room with small alcove extensions labelled “alcoves”"
-  },
-  {
-    "objectID": "week13/gamedesignpatterns.html#many-patterns-form-a-pattern-language",
-    "href": "week13/gamedesignpatterns.html#many-patterns-form-a-pattern-language",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "Many Patterns Form a Pattern Language",
-    "text": "Many Patterns Form a Pattern Language\n\nThe patterns within a domain should be organised into a logical or naturally intuitive structure.\nEach pattern should indicate its relationship to other patterns and to the pattern language as a whole.\nA pattern language helps by:\n\nNoticing and naming common problems in a field of interest.\nDescribing key characteristics of effective solutions for a stated goal.\nHelping the designer move from problem to problem in a logical way.\nAllowing for many different paths through the design process."
-  },
-  {
-    "objectID": "week13/gamedesignpatterns.html#pattern-languages",
-    "href": "week13/gamedesignpatterns.html#pattern-languages",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "Pattern Languages",
-    "text": "Pattern Languages\n\nAlexander emphasized the importance of pattern languages — more than just collections of patterns.\nLanguages are sets of patterns that fill out a design space and are chosen to complement each other.\nForces in each pattern may explain its relations with other patterns."
-  },
-  {
-    "objectID": "week13/gamedesignpatterns.html#a-pattern-language-for-interactive-exhibits",
-    "href": "week13/gamedesignpatterns.html#a-pattern-language-for-interactive-exhibits",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "A Pattern Language for Interactive Exhibits",
-    "text": "A Pattern Language for Interactive Exhibits\nSource: [Borchers 2001]\n\nTree diagram showing a pattern language for interactive exhibits, branching from “Interactive Exhibit” into Attract Visitor, Engage Visitor, and Deliver Message, and connecting to patterns such as Simple Impression, Innovative Appearance, Universal Access, Incremental Revealing, and Closed Loop"
-  },
-  {
-    "objectID": "week13/gamedesignpatterns.html#discussion",
-    "href": "week13/gamedesignpatterns.html#discussion",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "Discussion",
-    "text": "Discussion\n\nWhat’s the difference between design patterns and some experts’ tips in design?\nWhy is context required in documenting a pattern?\nCan design patterns replace hands-on practice in design?"
-  },
-  {
-    "objectID": "week13/gamedesignpatterns.html#from-architecture-to-computer-science",
-    "href": "week13/gamedesignpatterns.html#from-architecture-to-computer-science",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "From Architecture to Computer Science",
-    "text": "From Architecture to Computer Science\n\nIn the early 1990s, Gamma et al. borrowed the idea from architecture and used it in software engineering.\nPurpose: communicate object-oriented software design problems and solutions.\n\n\nCover of “Design Patterns: Elements of Reusable Object-Oriented Software” by Gamma, Helm, Johnson and Vlissides, the influential book that brought the pattern concept into software engineering"
-  },
-  {
-    "objectID": "week13/gamedesignpatterns.html#patterns-in-hciui-design",
-    "href": "week13/gamedesignpatterns.html#patterns-in-hciui-design",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "Patterns in HCI/UI Design",
-    "text": "Patterns in HCI/UI Design\nKey sources: [Borchers 2001], [Tidwell 2005], [Duyne et al. 2002], and community sites such as hcipatterns.org and InteractionPatterns.html.\n\n\n\nBook cover of “Designing Interfaces” by Jenifer Tidwell, a widely used catalogue of interaction design patterns\n\n\n![Book cover of “A Pattern Appro\n\n\n\nImage17\n\n\n\n\n\nImage21\n\n\n\n\n\nImage22\n\n\n\n\n\nImage23"
+    "text": "Thank you\nCorrections, feedback, or other questions?\nContact us at https://support.aws.amazon.com/#/contacts/aws-academy\n\n\n\nDecorative closing graphic used on the final “Thank you” slide of the presentation",
+    "crumbs": [
+      "Week13",
+      "Acav3 En M17 Bridgingtocertification Instructor Deck"
+    ]
   },
   {
     "objectID": "week13/02-gamedesignpatterns-2.html#design-patterns-uis-games-learning",
@@ -1560,718 +1505,178 @@
     ]
   },
   {
-    "objectID": "week13/gamedesignpatterns-2.html#design-patterns-uis-games-learning",
-    "href": "week13/gamedesignpatterns-2.html#design-patterns-uis-games-learning",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "Design Patterns: UIs, Games, Learning",
-    "text": "Design Patterns: UIs, Games, Learning\nA survey of how design patterns are used to codify and share design knowledge — from architecture, through user-interface design and game design, to learning and course design."
-  },
-  {
-    "objectID": "week13/gamedesignpatterns-2.html#topics",
-    "href": "week13/gamedesignpatterns-2.html#topics",
+    "objectID": "week13/gamedesignpatterns.html#topics",
+    "href": "week13/gamedesignpatterns.html#topics",
     "title": "Design Patterns: UIs, Games, Learning",
     "section": "Topics",
     "text": "Topics\n\nMotivation\nDesign Patterns in UI Design\nDesign Patterns in Game Design\nDesign Patterns in Learning\nClosing Discussions"
   },
   {
-    "objectID": "week13/gamedesignpatterns-2.html#design-solutions",
-    "href": "week13/gamedesignpatterns-2.html#design-solutions",
+    "objectID": "week13/gamedesignpatterns.html#design-solutions",
+    "href": "week13/gamedesignpatterns.html#design-solutions",
     "title": "Design Patterns: UIs, Games, Learning",
     "section": "Design = Solutions",
-    "text": "Design = Solutions\n\nDesign is about finding solutions.\nUnfortunately, designers often reinvent solutions instead of reusing them.\nTwo persistent problems:\n\nIt’s hard to know how things were done before.\nIt’s hard to know why things were done a certain way, and how to reuse the solution."
+    "text": "Design = Solutions\n\nDesign is about finding solutions.\nUnfortunately, designers often reinvent solutions to problems that have already been solved.\nThis happens because it is hard to know:\n\nHow things were done before.\nWhy things were done a certain way.\nHow to reuse existing solutions."
   },
   {
-    "objectID": "week13/gamedesignpatterns-2.html#how-can-we-codify-design-knowledge",
-    "href": "week13/gamedesignpatterns-2.html#how-can-we-codify-design-knowledge",
+    "objectID": "week13/gamedesignpatterns.html#how-can-we-codify-design-knowledge",
+    "href": "week13/gamedesignpatterns.html#how-can-we-codify-design-knowledge",
     "title": "Design Patterns: UIs, Games, Learning",
     "section": "How Can We Codify Design Knowledge?",
     "text": "How Can We Codify Design Knowledge?\n\nAn effective and flexible design is difficult to get “right” the first time.\nYet experienced designers do make good designs.\nNew designers are usually overwhelmed by all the design options available.\nExperienced designers evidently know something inexperienced ones don’t — what is it?"
   },
   {
-    "objectID": "week13/gamedesignpatterns-2.html#how-experienced-designers-solve-a-problem",
-    "href": "week13/gamedesignpatterns-2.html#how-experienced-designers-solve-a-problem",
+    "objectID": "week13/gamedesignpatterns.html#how-experienced-designers-solve-a-problem",
+    "href": "week13/gamedesignpatterns.html#how-experienced-designers-solve-a-problem",
     "title": "Design Patterns: UIs, Games, Learning",
     "section": "How Experienced Designers Solve a Problem",
-    "text": "How Experienced Designers Solve a Problem\n\nExpert designers usually do not solve every problem from first principles — they reuse solutions that have worked for them in the past.\nWhen they find a good solution, they use it again and again.\nSuch experience is part of what makes them experts.\nThese kinds of experiences can be recorded as design patterns."
+    "text": "How Experienced Designers Solve a Problem\n\nExpert designers usually do not solve every problem from first principles — they reuse solutions that have worked for them in the past.\nWhen they find a good solution, they use it again and again.\nSuch experience is part of what makes them experts.\nThese experiences can be recorded as design patterns."
   },
   {
-    "objectID": "week13/gamedesignpatterns-2.html#excerpt-from-last-week",
-    "href": "week13/gamedesignpatterns-2.html#excerpt-from-last-week",
+    "objectID": "week13/gamedesignpatterns.html#excerpt-from-last-week",
+    "href": "week13/gamedesignpatterns.html#excerpt-from-last-week",
     "title": "Design Patterns: UIs, Games, Learning",
     "section": "Excerpt from Last Week",
-    "text": "Excerpt from Last Week\n\n“Good artists borrow (from other artists), but great artists steal!” — Pablo Picasso\n\n\nCompelling visual design takes practice and experience, a natural part of which is study and critique of others’ work.\n\n\nBlack-and-white portrait photograph of Pablo Picasso wearing a flat cap, illustrating the quote about artists borrowing and stealing ideas from one another"
+    "text": "Excerpt from Last Week\n\n“Good artists borrow (from other artists), but great artists steal!” — Pablo Picasso\nCompelling visual design takes practice and experience — a natural part of which is study and critique of others’ work.\n\n\nBlack-and-white portrait photograph of Pablo Picasso wearing a flat cap, used to introduce the quote about artists borrowing and stealing ideas"
   },
   {
-    "objectID": "week13/gamedesignpatterns-2.html#novelists-uses-patterns",
-    "href": "week13/gamedesignpatterns-2.html#novelists-uses-patterns",
+    "objectID": "week13/gamedesignpatterns.html#novelists-use-patterns",
+    "href": "week13/gamedesignpatterns.html#novelists-use-patterns",
     "title": "Design Patterns: UIs, Games, Learning",
-    "section": "Novelists uses Patterns",
-    "text": "Novelists uses Patterns\n\nNovelists and playwrights rarely design their plots from scratch.\nThey follow patterns like “Tragically Flawed Hero” (Macbeth, Hamlet, etc.) or “The Romantic Novel” (countless romance novels).\n\n\nIllustration of Hamlet, referenced as an example of the “Tragically Flawed Hero” narrative pattern used repeatedly by playwrights"
+    "section": "Novelists Use Patterns",
+    "text": "Novelists Use Patterns\n\nNovelists and playwrights rarely design their plots from scratch.\nThey follow patterns like “Tragically Flawed Hero” (Macbeth, Hamlet, etc.) or “The Romantic Novel” (countless romance novels).\n\n\nIllustration referenced in the source alongside the discussion of narrative patterns such as the Tragically Flawed Hero and the Romantic Novel (files named “hamlet-gill1” and “soustitre” in the original slide)"
   },
   {
-    "objectID": "week13/gamedesignpatterns-2.html#game-players-use-patterns",
-    "href": "week13/gamedesignpatterns-2.html#game-players-use-patterns",
+    "objectID": "week13/gamedesignpatterns.html#game-players-use-patterns",
+    "href": "week13/gamedesignpatterns.html#game-players-use-patterns",
     "title": "Design Patterns: UIs, Games, Learning",
-    "section": "Game Players use Patterns",
-    "text": "Game Players use Patterns\n\nChess players, Go players, and basketball players all rely on “patterns.”\nExamples shown: the 1-4 offense pick-n-roll in basketball, a star-point Joseki opening in Go, and the Queen’s Gambit in chess — all recognised, reusable patterns of play."
+    "section": "Game Players Use Patterns",
+    "text": "Game Players Use Patterns\n\nChess players, Go players, and basketball players all rely on “patterns.”\nExamples given in the source: the 1-4 offense pick-and-roll (basketball), a star-point joseki (Go), and the Queen’s Gambit (chess).\n\n\n\n\nDiagram referenced in the source illustrating a recurring game strategy — the basketball pick-and-roll play described in the original slide as “14HPPickRolla”\n\n\n\n\n\nImage referenced in the source alongside the Go joseki example (“300px-Joseki1”), illustrating a recurring opening pattern used by Go players"
   },
   {
-    "objectID": "week13/gamedesignpatterns-2.html#the-design-methods-hierarchy",
-    "href": "week13/gamedesignpatterns-2.html#the-design-methods-hierarchy",
+    "objectID": "week13/gamedesignpatterns.html#the-design-methods-hierarchy",
+    "href": "week13/gamedesignpatterns.html#the-design-methods-hierarchy",
     "title": "Design Patterns: UIs, Games, Learning",
     "section": "The Design Methods Hierarchy",
-    "text": "The Design Methods Hierarchy\n\nDesign knowledge can be arranged in a hierarchy from concrete to abstract:\n\nDesign Idioms, Specific Knowledge and Tips (most concrete)\nDesign Patterns\nDesign Principles\nDesign Philosophy (most abstract)"
+    "text": "The Design Methods Hierarchy\nDesign knowledge can be organised from abstract to concrete:\n\nDesign Philosophy (most abstract)\nDesign Principles\nDesign Patterns\nDesign Idioms, Specific Knowledge and Tips (most concrete)"
   },
   {
-    "objectID": "week13/gamedesignpatterns-2.html#design-patterns-vs.-design-guidelines",
-    "href": "week13/gamedesignpatterns-2.html#design-patterns-vs.-design-guidelines",
+    "objectID": "week13/gamedesignpatterns.html#design-patterns-vs.-design-guidelines",
+    "href": "week13/gamedesignpatterns.html#design-patterns-vs.-design-guidelines",
     "title": "Design Patterns: UIs, Games, Learning",
     "section": "Design Patterns vs. Design Guidelines",
     "text": "Design Patterns vs. Design Guidelines\n\nDesign guidelines can be either abstract or concrete.\nAbstract guidelines usually do not suggest how to solve a problem.\nConcrete guidelines are usually too tailored to a specific interface.\nGuidelines assume absolute validity, while design patterns emphasize effectiveness in a particular context.\nGuidelines are more useful for describing requirements; patterns are useful tools for translating requirements into specific software solutions."
   },
   {
-    "objectID": "week13/gamedesignpatterns-2.html#patterns-vs.-idioms",
-    "href": "week13/gamedesignpatterns-2.html#patterns-vs.-idioms",
+    "objectID": "week13/gamedesignpatterns.html#patterns-vs.-idioms",
+    "href": "week13/gamedesignpatterns.html#patterns-vs.-idioms",
     "title": "Design Patterns: UIs, Games, Learning",
     "section": "Patterns vs. Idioms",
-    "text": "Patterns vs. Idioms\n\nNot every design idea that uses the pattern syntax is actually a pattern.\nIf an idea is too specific (e.g., programming-language specific), it is not a pattern — such specific ideas are called idioms.\nPatterns also cannot be too general — it must be clear how the pattern should be applied in a context."
+    "text": "Patterns vs. Idioms\n\nNot every design idea that uses the pattern syntax is a pattern.\nIf an idea is too specific (e.g. programming-language specific), it is not a pattern — such specific ideas are called idioms.\nPatterns also cannot be too general.\nIt must be clear how the pattern should be applied in a context."
   },
   {
-    "objectID": "week13/gamedesignpatterns-2.html#patterns-vs.-lexiconvocabulary",
-    "href": "week13/gamedesignpatterns-2.html#patterns-vs.-lexiconvocabulary",
+    "objectID": "week13/gamedesignpatterns.html#patterns-vs.-lexiconvocabulary",
+    "href": "week13/gamedesignpatterns.html#patterns-vs.-lexiconvocabulary",
     "title": "Design Patterns: UIs, Games, Learning",
     "section": "Patterns vs. Lexicon/Vocabulary",
-    "text": "Patterns vs. Lexicon/Vocabulary\n\nIf a technique appears so often in a domain that everyone knows and uses it in almost any situation, it is most likely not a pattern — it is part of the domain’s basic vocabulary.\nExample, in game design: Player, Stage, Enemy, Gun shots — these are lexicon, not patterns."
+    "text": "Patterns vs. Lexicon/Vocabulary\n\nIf a technique appears so often in a domain that everyone knows and uses it in almost any situation, it is most likely not a pattern.\nExample, in game design: Player, Stage, Enemy, Gun shots — these are vocabulary, not patterns."
   },
   {
-    "objectID": "week13/gamedesignpatterns-2.html#what-are-design-patterns",
-    "href": "week13/gamedesignpatterns-2.html#what-are-design-patterns",
+    "objectID": "week13/gamedesignpatterns.html#what-are-design-patterns",
+    "href": "week13/gamedesignpatterns.html#what-are-design-patterns",
     "title": "Design Patterns: UIs, Games, Learning",
-    "section": "What are Design Patterns…",
-    "text": "What are Design Patterns…\n\n“Patterns communicate insights into design problems, capturing the essence of the problems and their solutions in a compact form. They describe the problem in depth, the rationale for the solution, and some of the trade-offs in applying the solution.” — The Design of Sites, Van Duyne et al., 2003\n“Each pattern describes a problem which occurs over and over again in our environment, and then describes the core of the solution to that problem, in such a way that you can use this solution a million times over, without ever doing it the same way twice.” — A Pattern Language, Alexander et al., 1977\n“A pattern is the abstraction from a concrete form which keeps recurring in specific non-arbitrary contexts.” — Riehle and Zullighoven, Understanding and Using Patterns in Software Development"
+    "section": "What Are Design Patterns…",
+    "text": "What Are Design Patterns…\n\n“Patterns communicate insights into design problems, capturing the essence of the problems and their solutions in a compact form. They describe the problem in depth, the rationale for the solution, and some of the trade-offs in applying the solution.” — The Design of Sites, Van Duyne et al. 2003\n“Each pattern describes a problem which occurs over and over again in our environment, and then describes the core of the solution to that problem, in such a way that you can use this solution a million times over, without ever doing it the same way twice.” — A Pattern Language, Alexander et al. 1977\n“A pattern is the abstraction from a concrete form which keeps recurring in specific non-arbitrary contexts.” — Riehle and Zullighoven, Understanding and Using Patterns in Software Development"
   },
   {
-    "objectID": "week13/gamedesignpatterns-2.html#design-patterns",
-    "href": "week13/gamedesignpatterns-2.html#design-patterns",
+    "objectID": "week13/gamedesignpatterns.html#design-patterns-a-brief-history",
+    "href": "week13/gamedesignpatterns.html#design-patterns-a-brief-history",
     "title": "Design Patterns: UIs, Games, Learning",
-    "section": "Design Patterns",
-    "text": "Design Patterns\nA (very) brief history…"
+    "section": "Design Patterns: A Brief History",
+    "text": "Design Patterns: A Brief History\nA short look back at where design patterns come from."
   },
   {
-    "objectID": "week13/gamedesignpatterns-2.html#christopher-alexander",
-    "href": "week13/gamedesignpatterns-2.html#christopher-alexander",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "Christopher Alexander",
-    "text": "Christopher Alexander\n\nPatterns for Architecture, developed across several key works:\n\nThe Timeless Way of Building\nA Pattern Language\nThe Oregon Experiment\n\nOrganised across levels: Towns, buildings, construction → a Network → a Language.\n\n\nCover of “The Timeless Way of Building” by Christopher Alexander, one of his foundational texts introducing the concept of design patterns in architecture"
-  },
-  {
-    "objectID": "week13/gamedesignpatterns-2.html#christopher-alexander-1",
-    "href": "week13/gamedesignpatterns-2.html#christopher-alexander-1",
+    "objectID": "week13/gamedesignpatterns.html#christopher-alexander",
+    "href": "week13/gamedesignpatterns.html#christopher-alexander",
     "title": "Design Patterns: UIs, Games, Learning",
     "section": "Christopher Alexander",
-    "text": "Christopher Alexander\nPattern 115: Courtyards Which Live\n\nCourtyards built in modern buildings are very often dead — intended as private open spaces but ending up unused, full of gravel and abstract sculptures.\nThree ways such courtyards fail: too little ambiguity between indoors and outdoors; not enough doors into the courtyard; too enclosed.\nTherefore: Place every courtyard so there is a view out to a larger open space; place it so at least two or three doors open into it and natural paths cross it; and at one edge, beside a door, build a roofed veranda or porch continuous with both the inside and the courtyard. Build the porch according to the patterns for ARCADE (119), GALLERY SURROUND (166), and SIX-FOOT BALCONY (167).\n(from A Pattern Language, Alexander et al., 1977)\n\n\nPhotograph of an elegant tiled courtyard with arched colonnades and potted palms, illustrating Alexander’s “Courtyards Which Live” pattern in a real building"
+    "text": "Christopher Alexander\nPatterns for Architecture:\n\nThe Timeless Way of Building\nA Pattern Language\nThe Oregon Experiment\n\nOrganised across levels: Towns, buildings, construction → Network → A language.\n\n\n\nBook cover of “A Pattern Language” by Christopher Alexander, one of the foundational texts introducing design patterns for architecture\n\n\n\n\n\nBook cover of “The Timeless Way of Building” by Christopher Alexander, the companion volume describing the philosophy behind pattern languages"
   },
   {
-    "objectID": "week13/gamedesignpatterns-2.html#the-nature-of-design-patterns",
-    "href": "week13/gamedesignpatterns-2.html#the-nature-of-design-patterns",
+    "objectID": "week13/gamedesignpatterns.html#christopher-alexander-pattern-115-courtyards-which-live",
+    "href": "week13/gamedesignpatterns.html#christopher-alexander-pattern-115-courtyards-which-live",
+    "title": "Design Patterns: UIs, Games, Learning",
+    "section": "Christopher Alexander: Pattern 115 — Courtyards Which Live",
+    "text": "Christopher Alexander: Pattern 115 — Courtyards Which Live\n\nCourtyards built in modern buildings are often “dead” — intended as private open spaces, but ending up unused.\nThree ways courtyards fail:\n\nToo little ambiguity between indoors and outdoors.\nNot enough doors into the courtyard.\nToo enclosed.\n\nTherefore: place every courtyard so there is a view out to a larger open space; add at least two or three doors opening into it along natural paths; and add a roofed veranda or porch continuous with both the inside and the courtyard, following the ARCADE, GALLERY SURROUND, and SIX-FOOT BALCONY patterns.\nSource: A Pattern Language, Alexander et al., 1977.\n\n\nPhotograph of a plant-filled courtyard with tiled arcades and columns, illustrating Alexander’s Pattern 115 “Courtyards Which Live”"
+  },
+  {
+    "objectID": "week13/gamedesignpatterns.html#the-nature-of-design-patterns",
+    "href": "week13/gamedesignpatterns.html#the-nature-of-design-patterns",
     "title": "Design Patterns: UIs, Games, Learning",
     "section": "The Nature of Design Patterns",
-    "text": "The Nature of Design Patterns\n\nNot too general and not too specific.\nMeant to be used “a million times over, without ever doing it the same way twice.”\nDesign patterns form a shared language for “building and planning towns, neighborhoods, houses, gardens, and rooms.”\nExample: a beer hall is part of a center for public life, yet also needs spaces for groups to be alone — solved by the ALCOVES pattern."
+    "text": "The Nature of Design Patterns\n\nNot too general and not too specific.\nUse a solution “a million times over, without ever doing it the same way twice.”\nDesign patterns are a shared language for “building and planning towns, neighborhoods, houses, gardens, & rooms.”\nExample: a beer hall is part of a center for public life, and needs spaces for groups to be alone — the ALCOVES pattern."
   },
   {
-    "objectID": "week13/gamedesignpatterns-2.html#pattern-format",
-    "href": "week13/gamedesignpatterns-2.html#pattern-format",
+    "objectID": "week13/gamedesignpatterns.html#pattern-format",
+    "href": "week13/gamedesignpatterns.html#pattern-format",
     "title": "Design Patterns: UIs, Games, Learning",
     "section": "Pattern Format",
-    "text": "Pattern Format\nA typical pattern is documented using a structured format:\n\nPattern Name\nContext\nForces\nProblem Statement\nSolution\nSolution Sketch\nOther Patterns to Consider"
+    "text": "Pattern Format\nA pattern is typically documented with:\n\nPattern Name\nContext\nForces\nProblem Statement\nSolution\nSolution Sketch\nOther Patterns to Consider"
   },
   {
-    "objectID": "week13/gamedesignpatterns-2.html#example---alcoves",
-    "href": "week13/gamedesignpatterns-2.html#example---alcoves",
+    "objectID": "week13/gamedesignpatterns.html#example-alcoves",
+    "href": "week13/gamedesignpatterns.html#example-alcoves",
     "title": "Design Patterns: UIs, Games, Learning",
-    "section": "Example - Alcoves",
-    "text": "Example - Alcoves\n\nPattern Title: Alcoves\nContext: Collaborative and common areas in buildings.\nForces: Open spaces are inviting, but people want a sense of enclosure for private discussions.\nProblem Statement: Create a space that invites collaboration but also supports private discussion."
+    "section": "Example – Alcoves",
+    "text": "Example – Alcoves\n\nPattern Title: Alcoves\nContext: Collaborative and common areas in buildings.\nForces: Open spaces are inviting, but people want a sense of enclosure for private discussions.\nProblem Statement: Create a space that invites collaboration but also supports private discussion."
   },
   {
-    "objectID": "week13/gamedesignpatterns-2.html#example---alcoves-1",
-    "href": "week13/gamedesignpatterns-2.html#example---alcoves-1",
+    "objectID": "week13/gamedesignpatterns.html#example-alcoves-solution",
+    "href": "week13/gamedesignpatterns.html#example-alcoves-solution",
     "title": "Design Patterns: UIs, Games, Learning",
-    "section": "Example - Alcoves",
-    "text": "Example - Alcoves\nSolution + Sketch\n\nMake small places at the edge of any common room, usually no more than 6 feet wide and 3 to 6 feet deep, and possibly much smaller. These alcoves should be large enough for two people to sit, chat, or play, and sometimes large enough to contain a desk or table.\n\n\nDiagram from Alexander’s pattern language showing a puzzle-piece-shaped common room with small alcoves branching off it, illustrating the alcove pattern’s solution sketch"
+    "section": "Example – Alcoves: Solution",
+    "text": "Example – Alcoves: Solution\n“Make small places at the edge of any common room, usually no more than 6 feet wide and 3 to 6 feet deep and possibly much smaller. These alcoves should be large enough for two people to sit, chat, or play and sometimes large enough to contain a desk or a table.”\n\nPage excerpt showing the Alcove pattern’s solution text alongside a sketch of a puzzle-piece-shaped room with small alcove extensions labelled “alcoves”"
   },
   {
-    "objectID": "week13/gamedesignpatterns-2.html#many-patterns-form-a-pattern-language",
-    "href": "week13/gamedesignpatterns-2.html#many-patterns-form-a-pattern-language",
+    "objectID": "week13/gamedesignpatterns.html#many-patterns-form-a-pattern-language",
+    "href": "week13/gamedesignpatterns.html#many-patterns-form-a-pattern-language",
     "title": "Design Patterns: UIs, Games, Learning",
-    "section": "Many Patterns form a Pattern Language",
-    "text": "Many Patterns form a Pattern Language\n\nPatterns within a domain should be organised into a logical, intuitive structure. Each pattern should indicate its relationship to other patterns and to the pattern language as a whole.\nA pattern language helps by:\n\nNoticing and naming the common problems in a field of interest.\nDescribing the key characteristics of effective solutions for a stated goal.\nHelping the designer move from problem to problem in a logical way.\nAllowing many different paths through the design process."
+    "section": "Many Patterns Form a Pattern Language",
+    "text": "Many Patterns Form a Pattern Language\n\nThe patterns within a domain should be organised into a logical or naturally intuitive structure.\nEach pattern should indicate its relationship to other patterns and to the pattern language as a whole.\nA pattern language helps by:\n\nNoticing and naming common problems in a field of interest.\nDescribing key characteristics of effective solutions for a stated goal.\nHelping the designer move from problem to problem in a logical way.\nAllowing for many different paths through the design process."
   },
   {
-    "objectID": "week13/gamedesignpatterns-2.html#pattern-languages",
-    "href": "week13/gamedesignpatterns-2.html#pattern-languages",
+    "objectID": "week13/gamedesignpatterns.html#pattern-languages",
+    "href": "week13/gamedesignpatterns.html#pattern-languages",
     "title": "Design Patterns: UIs, Games, Learning",
     "section": "Pattern Languages",
-    "text": "Pattern Languages\n\nAlexander emphasized the importance of pattern languages — more than just collections of patterns.\nLanguages are sets of patterns that fill out a design space and are chosen to complement each other.\nThe forces described in each pattern may explain its relations with other patterns."
+    "text": "Pattern Languages\n\nAlexander emphasized the importance of pattern languages — more than just collections of patterns.\nLanguages are sets of patterns that fill out a design space and are chosen to complement each other.\nForces in each pattern may explain its relations with other patterns."
   },
   {
-    "objectID": "week13/gamedesignpatterns-2.html#a-pattern-language-for-interactive-exhibits",
-    "href": "week13/gamedesignpatterns-2.html#a-pattern-language-for-interactive-exhibits",
+    "objectID": "week13/gamedesignpatterns.html#a-pattern-language-for-interactive-exhibits",
+    "href": "week13/gamedesignpatterns.html#a-pattern-language-for-interactive-exhibits",
     "title": "Design Patterns: UIs, Games, Learning",
     "section": "A Pattern Language for Interactive Exhibits",
-    "text": "A Pattern Language for Interactive Exhibits\n\nAn example pattern language, organised hierarchically to guide exhibit design: from top-level goals like Attract Visitor, Engage Visitor, and Deliver Message, down through supporting patterns such as Simple Impression, Innovative Appearance, Universal Access, Incremental Revealing, and Closed Loop.\n(From Borchers, 2001)\n\n\nTree diagram of a pattern language for interactive exhibits, branching from “Interactive Exhibit” into goals like Attract Visitor, Engage Visitor, and Deliver Message, and down into specific patterns such as Sparse Layout, Batons, Incremental Revealing, and Closed Loop"
+    "text": "A Pattern Language for Interactive Exhibits\nSource: [Borchers 2001]\n\nTree diagram showing a pattern language for interactive exhibits, branching from “Interactive Exhibit” into Attract Visitor, Engage Visitor, and Deliver Message, and connecting to patterns such as Simple Impression, Innovative Appearance, Universal Access, Incremental Revealing, and Closed Loop"
   },
   {
-    "objectID": "week13/gamedesignpatterns-2.html#discussion",
-    "href": "week13/gamedesignpatterns-2.html#discussion",
+    "objectID": "week13/gamedesignpatterns.html#discussion",
+    "href": "week13/gamedesignpatterns.html#discussion",
     "title": "Design Patterns: UIs, Games, Learning",
     "section": "Discussion",
     "text": "Discussion\n\nWhat’s the difference between design patterns and some experts’ tips in design?\nWhy is context required in documenting a pattern?\nCan design patterns replace hands-on practice in design?"
   },
   {
-    "objectID": "week13/gamedesignpatterns-2.html#from-architecture-to-computer-science",
-    "href": "week13/gamedesignpatterns-2.html#from-architecture-to-computer-science",
+    "objectID": "week13/gamedesignpatterns.html#from-architecture-to-computer-science",
+    "href": "week13/gamedesignpatterns.html#from-architecture-to-computer-science",
     "title": "Design Patterns: UIs, Games, Learning",
     "section": "From Architecture to Computer Science",
-    "text": "From Architecture to Computer Science\n\nIn the early 1990s, Gamma et al. borrowed the idea from architecture and applied it to software engineering.\nTheir patterns communicate object-oriented software design problems and solutions.\n\n\nCover of “Design Patterns: Elements of Reusable Object-Oriented Software” by Gamma, Helm, Johnson, and Vlissides — the influential “Gang of Four” book that brought Alexander’s pattern concept into software engineering"
+    "text": "From Architecture to Computer Science\n\nIn the early 1990s, Gamma et al. borrowed the idea from architecture and used it in software engineering.\nPurpose: communicate object-oriented software design problems and solutions.\n\n\nCover of “Design Patterns: Elements of Reusable Object-Oriented Software” by Gamma, Helm, Johnson and Vlissides, the influential book that brought the pattern concept into software engineering"
   },
   {
-    "objectID": "week13/gamedesignpatterns-2.html#patterns-in-hciui-design",
-    "href": "week13/gamedesignpatterns-2.html#patterns-in-hciui-design",
+    "objectID": "week13/gamedesignpatterns.html#patterns-in-hciui-design",
+    "href": "week13/gamedesignpatterns.html#patterns-in-hciui-design",
     "title": "Design Patterns: UIs, Games, Learning",
     "section": "Patterns in HCI/UI Design",
-    "text": "Patterns in HCI/UI Design\nKey sources of interaction-design patterns:\n\nBorchers, 2001\nTidwell, 2005 — Designing Interfaces\nVan Duyne et al., 2002 — The Design of Sites\nwww.hcipatterns.org\nhttp://www.visi.com/~snowfall/InteractionPatterns.html\n\n\n\n\nCover of “Designing Interfaces: Patterns for Effective Interaction Design” by Jenifer Tidwell, featuring a duck illustration, a key reference collecting UI design patterns\n\n\n\n\n\nCover of “A Pattern Approach to Interaction Design” by Jan Borchers, showing the Sydney Opera House, another foundational reference for HCI design patterns\n\n\n\n\n\nCover of “The Design of Sites” by Van Duyne, Landay, and Hong, a further key reference collecting patterns for web interface design"
-  },
-  {
-    "objectID": "week13/gamedesignpatterns-2.html#ui-patterns-categorized-by-tidwell-2005",
-    "href": "week13/gamedesignpatterns-2.html#ui-patterns-categorized-by-tidwell-2005",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "UI Patterns Categorized by Tidwell 2005",
-    "text": "UI Patterns Categorized by Tidwell 2005\nTidwell organises UI patterns into categories such as:\n\nInformation architecture and application structure\nNavigation, signposts and way finding\nLayout of page elements\nActions and commands\nVisualization patterns\nForms and controls\nBuilders and editors\nVisual style and aesthetics"
-  },
-  {
-    "objectID": "week13/gamedesignpatterns-2.html#extras-on-demand",
-    "href": "week13/gamedesignpatterns-2.html#extras-on-demand",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "Extras on Demand",
-    "text": "Extras on Demand\nDescription: Show the most important content up front, but hide the rest. Let the user reach it via a single, simple gesture.\n\nScreenshot of an interface demonstrating the “Extras on Demand” pattern, showing primary content prominently while secondary options remain tucked away until requested"
-  },
-  {
-    "objectID": "week13/gamedesignpatterns-2.html#extras-on-demand-1",
-    "href": "week13/gamedesignpatterns-2.html#extras-on-demand-1",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "Extras on Demand",
-    "text": "Extras on Demand\n\nContext: There’s too much content to show on the page, but some of it isn’t very important. You’d rather have a simpler UI but need to put the extra content somewhere.\nSolution: Ruthlessly prune the UI down to its most commonly used, most important items. Put the remainder into its own page or section, hidden by default. On the simplified UI, add a clearly marked button or link to the remainder, such as “More Options,” often using “&gt;&gt;” or “…” as the label."
-  },
-  {
-    "objectID": "week13/gamedesignpatterns-2.html#extras-on-demand-2",
-    "href": "week13/gamedesignpatterns-2.html#extras-on-demand-2",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "Extras on Demand",
-    "text": "Extras on Demand\nExamples of the pattern in practice, showing how interfaces reveal additional options such as advanced settings or extended menus only when requested by the user.\n\nExample interface screenshot illustrating “Extras on Demand,” where advanced or secondary options are collapsed behind a “More Options” style control"
-  },
-  {
-    "objectID": "week13/gamedesignpatterns-2.html#breadcrumbs",
-    "href": "week13/gamedesignpatterns-2.html#breadcrumbs",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "Breadcrumbs",
-    "text": "Breadcrumbs\nDescription: On each page in a hierarchy, show a map of all the parent pages, up to the main page.\n\nReference: java.sun.com\n\n\nScreenshot of a website showing a breadcrumb navigation trail across the top of the page, indicating the hierarchy of pages from the home page to the current page"
-  },
-  {
-    "objectID": "week13/gamedesignpatterns-2.html#breadcrumbs-1",
-    "href": "week13/gamedesignpatterns-2.html#breadcrumbs-1",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "Breadcrumbs",
-    "text": "Breadcrumbs\n\nContext: The application or site has a straightforward tree structure without much interlinking among elements. Users work their way up and down this tree via navigation or searching.\nSolution: Near the top of the page, show a line of text or icons indicating the current level of hierarchy, from the top level down to the current page, separated by a graphic or character — usually a right-pointing arrow — to indicate movement between levels."
-  },
-  {
-    "objectID": "week13/gamedesignpatterns-2.html#breadcrumbs-2",
-    "href": "week13/gamedesignpatterns-2.html#breadcrumbs-2",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "Breadcrumbs",
-    "text": "Breadcrumbs\nExamples of breadcrumb trails used across different websites to show users their location within a site hierarchy.\n\nTwo example website screenshots demonstrating breadcrumb trails used to show hierarchical navigation paths to users"
-  },
-  {
-    "objectID": "week13/gamedesignpatterns-2.html#responsive-enabling",
-    "href": "week13/gamedesignpatterns-2.html#responsive-enabling",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "Responsive Enabling",
-    "text": "Responsive Enabling\nAn example screenshot demonstrates the “Responsive Enabling” pattern, where interface controls become available progressively as the user completes each step.\n\nScreenshot of an interface illustrating “Responsive Enabling,” where UI actions start disabled and become enabled as the user progresses through a task"
-  },
-  {
-    "objectID": "week13/gamedesignpatterns-2.html#responsive-enabling-1",
-    "href": "week13/gamedesignpatterns-2.html#responsive-enabling-1",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "Responsive Enabling",
-    "text": "Responsive Enabling\n\nContext: The UI walks the user through a complex step-by-step process, perhaps because the user is computer-naive or the task is rarely performed (as in a Wizard). You don’t want to force page-by-page navigation, but want to keep the interface stable.\nSolution: Most actions on the UI start off disabled — only actions relevant to the user’s first step are available. As the user makes choices and performs actions, more disabled items become enabled and brought into play."
-  },
-  {
-    "objectID": "week13/gamedesignpatterns-2.html#responsive-enabling-2",
-    "href": "week13/gamedesignpatterns-2.html#responsive-enabling-2",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "Responsive Enabling",
-    "text": "Responsive Enabling\nExamples show interfaces where controls are progressively enabled as the user completes each stage of a task, keeping the interface stable while guiding the user forward."
-  },
-  {
-    "objectID": "week13/gamedesignpatterns-2.html#structured-format",
-    "href": "week13/gamedesignpatterns-2.html#structured-format",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "Structured Format",
-    "text": "Structured Format\nDescription: Your interface requests a specific kind of text input from the user, formatted in a certain way."
-  },
-  {
-    "objectID": "week13/gamedesignpatterns-2.html#structured-format-1",
-    "href": "week13/gamedesignpatterns-2.html#structured-format-1",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "Structured Format",
-    "text": "Structured Format\n\nContext: The input format expected by the program is familiar and well-defined, and no users are expected to deviate from it. Examples include credit card information, local telephone numbers, and license strings or numbers.\nSolution: Design a set of text fields that reflect the expected format. Keep fields short as clues to the required length. Once the user finishes typing all digits or characters in one field, automatically move the input focus to the next field, while still allowing the user to go back and re-edit."
-  },
-  {
-    "objectID": "week13/gamedesignpatterns-2.html#structured-format-2",
-    "href": "week13/gamedesignpatterns-2.html#structured-format-2",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "Structured Format",
-    "text": "Structured Format\nExamples of structured format inputs, including fields for Telephone Number, Credit Card Number, Date, and ISBN Number, each broken into short segmented text boxes."
-  },
-  {
-    "objectID": "week13/gamedesignpatterns-2.html#patterns-in-game-design",
-    "href": "week13/gamedesignpatterns-2.html#patterns-in-game-design",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "Patterns in Game Design",
-    "text": "Patterns in Game Design\n\nBjork, 2004, catalogued patterns of game design elements.\nExample: MILLEE (Kam et al.) uses a pattern-based framework to design educational games for developing countries."
-  },
-  {
-    "objectID": "week13/gamedesignpatterns-2.html#game-patterns-categorized-by-bjork-2004",
-    "href": "week13/gamedesignpatterns-2.html#game-patterns-categorized-by-bjork-2004",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "Game Patterns Categorized by Bjork 2004",
-    "text": "Game Patterns Categorized by Bjork 2004\nBjork’s categories of game design patterns include:\n\nGame elements\nResource and resource management\nInformation, communication and presentation\nActions and event patterns\nNarrative structures, predictability and immersion patterns\nSocial interaction\nGoals\nGoal structures\nGame Sessions\nGame mastery and balancing\nMeta games, replayability and learning curves"
-  },
-  {
-    "objectID": "week13/gamedesignpatterns-2.html#producer-consumer",
-    "href": "week13/gamedesignpatterns-2.html#producer-consumer",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "Producer-Consumer",
-    "text": "Producer-Consumer\nDescription: The production of a resource by one game element that is consumed by another game element or game event.\n\nExamples include resource-producing buildings in real-time strategy games and the piece-generation mechanic in Tetris."
-  },
-  {
-    "objectID": "week13/gamedesignpatterns-2.html#producer-consumer-1",
-    "href": "week13/gamedesignpatterns-2.html#producer-consumer-1",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "Producer-Consumer",
-    "text": "Producer-Consumer\nConsequences:\n\nA concrete, and very common, pattern.\nCan regulate the flow of the game.\nCan increase the complexity of the game, especially if players can control the producer-consumer elements.\nCan increase the feeling of player control."
-  },
-  {
-    "objectID": "week13/gamedesignpatterns-2.html#producer-consumer-2",
-    "href": "week13/gamedesignpatterns-2.html#producer-consumer-2",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "Producer-Consumer",
-    "text": "Producer-Consumer\nUsing the pattern:\n\nProduction regulation: based on time or turn, player actions, game events, element configuration, continuous vs. one-time production, etc. Effects include what is produced, indicators to players, and play mode changes.\nConsumption regulation: based on and effects similar to production.\nOften used alongside related patterns such as Factory and Accumulator."
-  },
-  {
-    "objectID": "week13/gamedesignpatterns-2.html#high-score-lists",
-    "href": "week13/gamedesignpatterns-2.html#high-score-lists",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "High Score Lists",
-    "text": "High Score Lists\nDescription: Give players the chance to rank themselves against other players who have previously played the game."
-  },
-  {
-    "objectID": "week13/gamedesignpatterns-2.html#high-score-lists-1",
-    "href": "week13/gamedesignpatterns-2.html#high-score-lists-1",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "High Score Lists",
-    "text": "High Score Lists\n\nWhat’s the Context?\nWhat’s the Solution?\n\n(Discussion prompt for learners to articulate the pattern themselves.)"
-  },
-  {
-    "objectID": "week13/gamedesignpatterns-2.html#power-ups",
-    "href": "week13/gamedesignpatterns-2.html#power-ups",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "Power-Ups",
-    "text": "Power-Ups\nDescription: Power-Ups are game elements that give time-limited advantages to the player who picks them up.\n\nClassic example: power-ups in Super Mario Bros."
-  },
-  {
-    "objectID": "week13/gamedesignpatterns-2.html#power-ups-1",
-    "href": "week13/gamedesignpatterns-2.html#power-ups-1",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "Power-Ups",
-    "text": "Power-Ups\n\nWhat’s the context and solution of Power-Ups?\nCan you leverage Power-Ups in your project?"
-  },
-  {
-    "objectID": "week13/gamedesignpatterns-2.html#paper-rock-scissors",
-    "href": "week13/gamedesignpatterns-2.html#paper-rock-scissors",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "Paper-Rock-Scissors",
-    "text": "Paper-Rock-Scissors\nDescription: Sets of three or more actions form cycles where every action has an advantage over another action.\n\nExample: the rock-paper-scissors dynamic seen in fighting games like Street Fighter II."
-  },
-  {
-    "objectID": "week13/gamedesignpatterns-2.html#paper-rock-scissors-1",
-    "href": "week13/gamedesignpatterns-2.html#paper-rock-scissors-1",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "Paper-Rock-Scissors",
-    "text": "Paper-Rock-Scissors\n\nContext: Game designers want to avoid a general winning strategy, encouraging players to observe opponents’ activities and promoting tension and randomness in the game.\nSolution: It’s your turn now — show how you can design such an element in your class project."
-  },
-  {
-    "objectID": "week13/gamedesignpatterns-2.html#patterns-in-learning",
-    "href": "week13/gamedesignpatterns-2.html#patterns-in-learning",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "Patterns in Learning",
-    "text": "Patterns in Learning\n\nPedagogical Patterns — www.pedagogicalpatterns.org\nA Pattern Language for Course Development — http://csis.pace.edu/~bergin/patterns/coursepatternlanguage.html\nPACT (Pattern-Annotated Course Tool)\n(Reference: Carle et al., 2006)"
-  },
-  {
-    "objectID": "week13/gamedesignpatterns-2.html#discussion-1",
-    "href": "week13/gamedesignpatterns-2.html#discussion-1",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "Discussion",
-    "text": "Discussion\n\nIs design pattern a silver-bullet in creating effective interfaces?\nWill design patterns destroy creativity?"
-  },
-  {
-    "objectID": "week13/gamedesignpatterns-2.html#what-to-expect-from-design-patterns",
-    "href": "week13/gamedesignpatterns-2.html#what-to-expect-from-design-patterns",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "What to Expect from Design Patterns?",
-    "text": "What to Expect from Design Patterns?\n\nA common design vocabulary\nA documentation and learning aid\nAn adjunct to existing methods\nA target for refining existing design"
-  },
-  {
-    "objectID": "week13/gamedesignpatterns-2.html#summary",
-    "href": "week13/gamedesignpatterns-2.html#summary",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "Summary",
-    "text": "Summary\n\nMotivation for patterns\nWhat is a design pattern, and what is a pattern language\nA brief history of design patterns\nExamples of UI design patterns and game design patterns"
-  },
-  {
-    "objectID": "week13/gamedesignpatterns-2.html#a-parting-thought",
-    "href": "week13/gamedesignpatterns-2.html#a-parting-thought",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "A Parting Thought",
-    "text": "A Parting Thought\n\nThe best designs will use many design patterns that dovetail and intertwine to produce a greater whole.\n“It is possible to make buildings by stringing together patterns, in a rather loose way. A building made like this is an assembly of patterns. It is not dense. It is not profound. But it is also possible to put patterns together in such a way that many patterns overlap in the same physical space: the building is very dense; it has many meanings captured in a small space; and through this density, it becomes profound.”\n(from A Pattern Language, Alexander et al., 1977)"
-  },
-  {
-    "objectID": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#secure-public-cloud-services",
-    "href": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#secure-public-cloud-services",
-    "title": "Bridging to Certification",
-    "section": "Secure Public Cloud Services",
-    "text": "Secure Public Cloud Services\n\nAWS logo mark alongside the “Training & Certification” wordmark, used here as the course branding image for the title slideJohn Jennings\nAcademic Year 2024-25",
-    "crumbs": [
-      "Week13",
-      "Acav3 En M17 Bridgingtocertification Instructor Deck"
-    ]
-  },
-  {
-    "objectID": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#bridging-to-certification",
-    "href": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#bridging-to-certification",
-    "title": "Bridging to Certification",
-    "section": "Bridging to Certification",
-    "text": "Bridging to Certification\nAWS Academy Cloud Architecting",
-    "crumbs": [
-      "Week13",
-      "Acav3 En M17 Bridgingtocertification Instructor Deck"
-    ]
-  },
-  {
-    "objectID": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#introduction",
-    "href": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#introduction",
-    "title": "Bridging to Certification",
-    "section": "Introduction",
-    "text": "Introduction\nBridging to Certification",
-    "crumbs": [
-      "Week13",
-      "Acav3 En M17 Bridgingtocertification Instructor Deck"
-    ]
-  },
-  {
-    "objectID": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#module-objectives",
-    "href": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#module-objectives",
-    "title": "Bridging to Certification",
-    "section": "Module objectives",
-    "text": "Module objectives\nThis module prepares you to do the following:\n\nIdentify how to prepare for the AWS Certified Solutions Architect – Associate exam.\nFind resources to prepare for the exam.",
-    "crumbs": [
-      "Week13",
-      "Acav3 En M17 Bridgingtocertification Instructor Deck"
-    ]
-  },
-  {
-    "objectID": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#module-overview",
-    "href": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#module-overview",
-    "title": "Bridging to Certification",
-    "section": "Module overview",
-    "text": "Module overview\nPresentation sections\n\nSolutions Architect – Associate certification domains\nSolutions Architect – Associate certification exam resources\nAdditional resources",
-    "crumbs": [
-      "Week13",
-      "Acav3 En M17 Bridgingtocertification Instructor Deck"
-    ]
-  },
-  {
-    "objectID": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#about-aws-certification-exams",
-    "href": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#about-aws-certification-exams",
-    "title": "Bridging to Certification",
-    "section": "About AWS Certification exams",
-    "text": "About AWS Certification exams\nExam content\n\nContent is divided into domains and task statements.\nEach domain is weighted.\nQuestions include multiple choice and multiple response types.\n\nExam scoring\n\nExams have a pass or fail designation.\nUnanswered questions are scored as incorrect.\nEach exam includes some unscored questions that do not affect your score.",
-    "crumbs": [
-      "Week13",
-      "Acav3 En M17 Bridgingtocertification Instructor Deck"
-    ]
-  },
-  {
-    "objectID": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#about-the-solutions-architect-associate-certification",
-    "href": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#about-the-solutions-architect-associate-certification",
-    "title": "Bridging to Certification",
-    "section": "About the Solutions Architect – Associate Certification",
-    "text": "About the Solutions Architect – Associate Certification\nRecommended candidate for exam\n\nPerforms a solutions architect role\nHas at least 1 year of hands-on experience designing cloud solutions that use AWS services\n\nKnowledge and skills validated by the exam\n\nAbility to design solutions based on the AWS Well-Architected Framework\nAbility to complete the following tasks:\n\nDesign solutions that incorporate AWS services to meet current business requirements and future projected needs.\nDesign architectures that are secure, resilient, high-performing, and cost-optimized.\nReview existing solutions and determine improvements.",
-    "crumbs": [
-      "Week13",
-      "Acav3 En M17 Bridgingtocertification Instructor Deck"
-    ]
-  },
-  {
-    "objectID": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#solutions-architect-associate-certification-domains-and-task-statements",
-    "href": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#solutions-architect-associate-certification-domains-and-task-statements",
-    "title": "Bridging to Certification",
-    "section": "Solutions Architect – Associate Certification domains and task statements",
-    "text": "Solutions Architect – Associate Certification domains and task statements\nBridging to Certification",
-    "crumbs": [
-      "Week13",
-      "Acav3 En M17 Bridgingtocertification Instructor Deck"
-    ]
-  },
-  {
-    "objectID": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#solutions-architect-associate-content-domains",
-    "href": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#solutions-architect-associate-content-domains",
-    "title": "Bridging to Certification",
-    "section": "Solutions Architect – Associate content domains",
-    "text": "Solutions Architect – Associate content domains\n\nDomain 1 (30%): Design Secure Architectures\nDomain 2 (26%): Design Resilient Architectures\nDomain 3 (24%): Design High-Performing Architectures\nDomain 4 (20%): Design Cost-Optimized Architectures\n\n\n\n\nIcon representing the Design Secure Architectures domain, one of four domain icons shown together on the content domains overview slide\n\n\n\n\n\nIcon representing the Design Resilient Architectures domain, shown alongside the other three domain icons on this overview slide\n\n\n\n\n\nIcon representing the Design High-Performing Architectures domain, part of the set of four domain icons on this slide\n\n\n\n\n\nIcon representing the Design Cost-Optimized Architectures domain, completing the set of four domain icons on this slide",
-    "crumbs": [
-      "Week13",
-      "Acav3 En M17 Bridgingtocertification Instructor Deck"
-    ]
-  },
-  {
-    "objectID": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#certification-content-domain-1-task-statements",
-    "href": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#certification-content-domain-1-task-statements",
-    "title": "Bridging to Certification",
-    "section": "Certification content domain 1 task statements",
-    "text": "Certification content domain 1 task statements\nDesign Secure Architectures (30%)\n\n1.1: Design secure access to AWS resources.\n1.2: Design secure workloads and applications.\n1.3: Determine appropriate data security controls.",
-    "crumbs": [
-      "Week13",
-      "Acav3 En M17 Bridgingtocertification Instructor Deck"
-    ]
-  },
-  {
-    "objectID": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#certification-content-domain-2-task-statements",
-    "href": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#certification-content-domain-2-task-statements",
-    "title": "Bridging to Certification",
-    "section": "Certification content domain 2 task statements",
-    "text": "Certification content domain 2 task statements\nDesign Resilient Architectures (26%)\n\n2.1: Design scalable and loosely coupled architectures.\n2.2: Design highly available and/or fault-tolerant architectures.",
-    "crumbs": [
-      "Week13",
-      "Acav3 En M17 Bridgingtocertification Instructor Deck"
-    ]
-  },
-  {
-    "objectID": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#certification-content-domain-3-task-statements",
-    "href": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#certification-content-domain-3-task-statements",
-    "title": "Bridging to Certification",
-    "section": "Certification content domain 3 task statements",
-    "text": "Certification content domain 3 task statements\nDesign High-Performing Architectures (24%)\n\n3.1: Determine high-performing and/or scalable storage solutions.\n3.2: Design high-performing and elastic compute solutions.\n3.3: Determine high-performing database solutions.\n3.4: Determine high-performing and/or scalable network architectures.\n3.5: Determine high-performing data ingestion and transformation solutions.",
-    "crumbs": [
-      "Week13",
-      "Acav3 En M17 Bridgingtocertification Instructor Deck"
-    ]
-  },
-  {
-    "objectID": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#certification-content-domain-4-task-statements",
-    "href": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#certification-content-domain-4-task-statements",
-    "title": "Bridging to Certification",
-    "section": "Certification content domain 4 task statements",
-    "text": "Certification content domain 4 task statements\nDesign Cost-Optimized Architectures (20%)\n\n4.1: Design cost-optimized storage solutions.\n4.2: Design cost-optimized compute solutions.\n4.3: Design cost-optimized database solutions.\n4.4: Design cost-optimized network architectures.",
-    "crumbs": [
-      "Week13",
-      "Acav3 En M17 Bridgingtocertification Instructor Deck"
-    ]
-  },
-  {
-    "objectID": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#solutions-architect-associate-certification-exam-preparation-resources",
-    "href": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#solutions-architect-associate-certification-exam-preparation-resources",
-    "title": "Bridging to Certification",
-    "section": "Solutions Architect – Associate Certification exam preparation resources",
-    "text": "Solutions Architect – Associate Certification exam preparation resources\nBridging to Certification",
-    "crumbs": [
-      "Week13",
-      "Acav3 En M17 Bridgingtocertification Instructor Deck"
-    ]
-  },
-  {
-    "objectID": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#aws-certification-resources",
-    "href": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#aws-certification-resources",
-    "title": "Bridging to Certification",
-    "section": "AWS Certification resources",
-    "text": "AWS Certification resources\n\n\n\n\n\n\n\nWebpage address\nDescription\n\n\n\n\nhttps://aws.amazon.com/certification\nAWS Certification overview: Includes links to resources and information about each certification\n\n\nhttps://aws.amazon.com/certification/certified-solutions-architect-associate\nAWS Certified Solutions Architect – Associate Certification: Includes details about the Solutions Architect – Associate exam with links to exam guide, sample questions, and available training",
-    "crumbs": [
-      "Week13",
-      "Acav3 En M17 Bridgingtocertification Instructor Deck"
-    ]
-  },
-  {
-    "objectID": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#free-exam-readiness-resources",
-    "href": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#free-exam-readiness-resources",
-    "title": "Bridging to Certification",
-    "section": "Free exam readiness resources",
-    "text": "Free exam readiness resources\n\nExam Guide: PDF document that explains the test and the certification domains in detail. Appendix includes technologies and concepts that might appear on the exam, and in-scope and out-of-scope AWS services and features.\nSample questions: PDF document with ten questions that demonstrate the format of the questions used on the exam. Includes rationales for the correct answers.\nAWS Certified Solutions Architect – Associate webinar: 3-hour virtual event that explores topic areas and how they map to architecting on AWS and to specific areas of study. Requires registration.\nExam Prep Standard Course: AWS Certified Solutions Architect – Associate: Digital training course that walks you through each of the domains, explaining what you should know. Includes reviews of exam-style questions. Requires an AWS Skill Builder account.\nExam Prep Official Practice Question Set: AWS Certified Solutions Architect – Associate: 20 exam-style questions delivered online in a format similar to the certification exam. Includes detailed feedback and recommended resources to help you prepare for your exam.",
-    "crumbs": [
-      "Week13",
-      "Acav3 En M17 Bridgingtocertification Instructor Deck"
-    ]
-  },
-  {
-    "objectID": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#exam-readiness-with-an-aws-skill-builder-subscription",
-    "href": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#exam-readiness-with-an-aws-skill-builder-subscription",
-    "title": "Bridging to Certification",
-    "section": "Exam readiness with an AWS Skill Builder subscription",
-    "text": "Exam readiness with an AWS Skill Builder subscription\n\nEnhanced digital training. Requires subscription.\nAWS Cloud Quest: Solutions Architect. Requires subscription.\nOfficial practice exam. Requires subscription.\n\n\n\n\nScreenshot representing the Enhanced digital training resource available through an AWS Skill Builder subscription\n\n\n\n\n\nScreenshot representing the AWS Cloud Quest: Solutions Architect gamified learning experience available through an AWS Skill Builder subscription\n\n\n\n\n\nScreenshot representing the Official practice exam available through an AWS Skill Builder subscription",
-    "crumbs": [
-      "Week13",
-      "Acav3 En M17 Bridgingtocertification Instructor Deck"
-    ]
-  },
-  {
-    "objectID": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#additional-resources",
-    "href": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#additional-resources",
-    "title": "Bridging to Certification",
-    "section": "Additional resources",
-    "text": "Additional resources\nBridging to Certification",
-    "crumbs": [
-      "Week13",
-      "Acav3 En M17 Bridgingtocertification Instructor Deck"
-    ]
-  },
-  {
-    "objectID": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#aws-well-architected-framework",
-    "href": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#aws-well-architected-framework",
-    "title": "Bridging to Certification",
-    "section": "AWS Well-Architected Framework",
-    "text": "AWS Well-Architected Framework\n\nDiagram illustrating the AWS Well-Architected Framework hub page, from which learners can reach the framework overview and its pillars",
-    "crumbs": [
-      "Week13",
-      "Acav3 En M17 Bridgingtocertification Instructor Deck"
-    ]
-  },
-  {
-    "objectID": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#centralized-hubs-for-finding-aws-resources",
-    "href": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#centralized-hubs-for-finding-aws-resources",
-    "title": "Bridging to Certification",
-    "section": "Centralized hubs for finding AWS resources",
-    "text": "Centralized hubs for finding AWS resources\n\n\n\n\n\n\n\nWebpage\nDescription\n\n\n\n\nAWS Architecture Center\nhttps://aws.amazon.com/architecture\n\n\nAWS Documentation (services)\nhttps://docs.aws.amazon.com\n\n\nAWS Frequently asked questions (FAQs)\nhttps://aws.amazon.com/faqs\n\n\nGetting Started Resource Center\nhttps://aws.amazon.com/getting-started\n\n\nAWS Builder Labs (Subscription-based hands-on labs)\nhttps://aws.amazon.com/training/digital/aws-builder-labs\n\n\nAWS Ramp-Up Guides\nhttps://aws.amazon.com/training/ramp-up-guides",
-    "crumbs": [
-      "Week13",
-      "Acav3 En M17 Bridgingtocertification Instructor Deck"
-    ]
-  },
-  {
-    "objectID": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#architecture-center-resource-categories",
-    "href": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#architecture-center-resource-categories",
-    "title": "Bridging to Certification",
-    "section": "Architecture Center resource categories",
-    "text": "Architecture Center resource categories\nBest practices\n\nOrganized by technology category\nPresented in the context of a project’s lifecycle steps\n\nVideo series\n\nFocused on practical use cases\nPresented by AWS Solutions Architects, AWS Partners, and customers\n\nLibraries\n\nOrganized into searchable and filterable collections\nIncludes the following:\n\nReference architectures\nWhitepapers\nQuick Starts",
-    "crumbs": [
-      "Week13",
-      "Acav3 En M17 Bridgingtocertification Instructor Deck"
-    ]
-  },
-  {
-    "objectID": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#suggested-aws-video-series-for-architecting",
-    "href": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#suggested-aws-video-series-for-architecting",
-    "title": "Bridging to Certification",
-    "section": "Suggested AWS Video Series for architecting",
-    "text": "Suggested AWS Video Series for architecting\nThis is My Architecture\nAWS Cloud customers and partners explain elements of their specific architectural solutions.\nhttps://aws.amazon.com/architecture/this-is-my-architecture\nBack to Basics\nAWS Solutions Architects explain a specific architectural building block independent of a particular cloud solution.\nhttps://aws.amazon.com/architecture/back-to-basics\n\n\n\nThumbnail image for the “This is My Architecture” video series, featuring customer and partner architecture walkthroughs\n\n\n\n\n\nThumbnail image for the “Back to Basics” video series, featuring AWS Solutions Architects explaining core architectural building blocks",
-    "crumbs": [
-      "Week13",
-      "Acav3 En M17 Bridgingtocertification Instructor Deck"
-    ]
-  },
-  {
-    "objectID": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#aws-service-documentation-at-docs.aws.amazon.com",
-    "href": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#aws-service-documentation-at-docs.aws.amazon.com",
-    "title": "Bridging to Certification",
-    "section": "AWS service documentation at docs.aws.amazon.com",
-    "text": "AWS service documentation at docs.aws.amazon.com\n\nSelect a service from the Product guides and references section.\nUser guides, developer guides, and best practices are good sources for certification exam preparation.\nHelpful sections in these resources include the following:\n\nWhat is\nHow it works\nGetting started\n\n\n\nGraphic illustrating the structure of the AWS documentation site, docs.aws.amazon.com, showing how product guides are organized",
-    "crumbs": [
-      "Week13",
-      "Acav3 En M17 Bridgingtocertification Instructor Deck"
-    ]
-  },
-  {
-    "objectID": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#aws-faq-resources",
-    "href": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#aws-faq-resources",
-    "title": "Bridging to Certification",
-    "section": "AWS FAQ resources",
-    "text": "AWS FAQ resources\nProduct-related\nSelect a product to navigate to its product page FAQ. Examples include the following:\n\nAmazon EC2 Auto Scaling FAQ\nAmazon S3 FAQ\n\nCloud computing concepts\nChoose a question or follow the link to the Cloud Computing Concepts Hub to search for questions by topic.\n\nWhat is machine learning (ML)?\nWhat is Data Mining?\n\nCloud comparison tool\nChoose a topic or follow the link to the Cloud Comparison tool to search for comparisons by topic. Examples include the following:\n\nETL vs. ELT\nArtificial Intelligence vs Machine Learning",
-    "crumbs": [
-      "Week13",
-      "Acav3 En M17 Bridgingtocertification Instructor Deck"
-    ]
-  },
-  {
-    "objectID": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#getting-started-resource-center-links",
-    "href": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#getting-started-resource-center-links",
-    "title": "Bridging to Certification",
-    "section": "Getting Started Resource Center links",
-    "text": "Getting Started Resource Center links\nHands-on Tutorials\nFilter by technology category and tutorial type (Getting Started guides, How-To guides, and tutorials). Available directly at https://aws.amazon.com/getting-started/hands-on\nDecision guides\nSelect a technology category to read the related guide.\nhttps://aws.amazon.com/getting-started/decision-guides",
-    "crumbs": [
-      "Week13",
-      "Acav3 En M17 Bridgingtocertification Instructor Deck"
-    ]
-  },
-  {
-    "objectID": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#aws-builder-labs",
-    "href": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#aws-builder-labs",
-    "title": "Bridging to Certification",
-    "section": "AWS Builder Labs",
-    "text": "AWS Builder Labs\n\nBrowse the catalog of self-paced labs available.\nSelf-paced labs run in an AWS environment similar to the labs in the course.\nLabs require a Skill Builder subscription.\n\n\nGraphic representing the AWS Builder Labs catalog, where learners can browse self-paced, hands-on labs",
-    "crumbs": [
-      "Week13",
-      "Acav3 En M17 Bridgingtocertification Instructor Deck"
-    ]
-  },
-  {
-    "objectID": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#aws-ramp-up-guides",
-    "href": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#aws-ramp-up-guides",
-    "title": "Bridging to Certification",
-    "section": "AWS Ramp-Up Guides",
-    "text": "AWS Ramp-Up Guides\nExplore the following guides by role, solution, or industry area.\n\nDownloadable guides with curated links from AWS classroom and digital curricula, video library, and AWS Builder Labs\nThe Solutions Architect Ramp-Up Guide includes specific resources from many of the resource types highlighted in this module.\nTo access the Solutions Architect Ramp-Up Guide, see https://d1.awsstatic.com/training-and-certification/ramp-up_guides/Ramp-Up_Guide_Architect.pdf\n\n\nGraphic representing the AWS Ramp-Up Guides resource, which compiles curated learning materials by role, solution, or industry",
-    "crumbs": [
-      "Week13",
-      "Acav3 En M17 Bridgingtocertification Instructor Deck"
-    ]
-  },
-  {
-    "objectID": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#module-wrap-up",
-    "href": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#module-wrap-up",
-    "title": "Bridging to Certification",
-    "section": "Module wrap-up",
-    "text": "Module wrap-up\nBridging to Certification",
-    "crumbs": [
-      "Week13",
-      "Acav3 En M17 Bridgingtocertification Instructor Deck"
-    ]
-  },
-  {
-    "objectID": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#module-summary",
-    "href": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#module-summary",
-    "title": "Bridging to Certification",
-    "section": "Module summary",
-    "text": "Module summary\nThis module prepared you to do the following:\n\nIdentify how to prepare for the AWS Certified Solutions Architect – Associate exam.\nFind resources to prepare for the exam.",
-    "crumbs": [
-      "Week13",
-      "Acav3 En M17 Bridgingtocertification Instructor Deck"
-    ]
-  },
-  {
-    "objectID": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#thank-you",
-    "href": "week13/01-acav3-en-m17-bridgingtocertification-instructor-deck.html#thank-you",
-    "title": "Bridging to Certification",
-    "section": "Thank you",
-    "text": "Thank you\nCorrections, feedback, or other questions?\nContact us at https://support.aws.amazon.com/#/contacts/aws-academy\n\n\n\nDecorative closing graphic used on the final “Thank you” slide of the presentation",
-    "crumbs": [
-      "Week13",
-      "Acav3 En M17 Bridgingtocertification Instructor Deck"
-    ]
+    "text": "Patterns in HCI/UI Design\nKey sources: [Borchers 2001], [Tidwell 2005], [Duyne et al. 2002], and community sites such as hcipatterns.org and InteractionPatterns.html.\n\n\n\nBook cover of “Designing Interfaces” by Jenifer Tidwell, a widely used catalogue of interaction design patterns\n\n\n![Book cover of “A Pattern Appro\n\n\n\nImage17\n\n\n\n\n\nImage21\n\n\n\n\n\nImage22\n\n\n\n\n\nImage23"
   }
 ]
