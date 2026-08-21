@@ -904,18 +904,7 @@
     "href": "week13/02-gamedesignpatterns-2.html#design-patterns-uis-games-learning",
     "title": "Design Patterns: UIs, Games, Learning",
     "section": "Design Patterns: UIs, Games, Learning",
-    "text": "Design Patterns: UIs, Games, Learning\nA survey of how design patterns are used to codify and share design knowledge — from architecture, through user-interface design and game design, to learning and course design.",
-    "crumbs": [
-      "Week13",
-      "Gamedesignpatterns 2"
-    ]
-  },
-  {
-    "objectID": "week13/02-gamedesignpatterns-2.html#topics",
-    "href": "week13/02-gamedesignpatterns-2.html#topics",
-    "title": "Design Patterns: UIs, Games, Learning",
-    "section": "Topics",
-    "text": "Topics\n\nMotivation\nDesign Patterns in UI Design\nDesign Patterns in Game Design\nDesign Patterns in Learning\nClosing Discussions",
+    "text": "Design Patterns: UIs, Games, Learning\nA survey of how design patterns are used to codify and share design knowledge — from architecture, through user-interface design and game design, to learning and course design.\n## Topics\n\nMotivation\nDesign Patterns in UI Design\nDesign Patterns in Game Design\nDesign Patterns in Learning\nClosing Discussions",
     "crumbs": [
       "Week13",
       "Gamedesignpatterns 2"
